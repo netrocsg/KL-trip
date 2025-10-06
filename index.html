@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>KL Trip 2025 - Team Adventure | Oct 24-26</title>
     <link rel="stylesheet" href="/KL-trip/assets/css/style.css">
+    <link rel="stylesheet" href="/KL-trip/assets/css/suggestions.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&family=Playfair+Display:wght@700;900&display=swap" rel="stylesheet">
@@ -310,6 +311,20 @@
         </div>
     </section>
 
+    <section class="suggestions-section" id="suggestions">
+        <div class="container">
+            <div class="suggestions-container">
+                <h2>💡 Suggest an Activity</h2>
+                <p>Have a specific place or activity in mind? Submit it here!</p>
+                <select id="suggestion-type"><option value="food">Food</option><option value="activity">Activity</option></select>
+                <textarea id="suggestion-text" placeholder="Your suggestion..." rows="4" style="width:100%;margin:10px 0;"></textarea>
+                <button id="submit-suggestion" class="btn-primary">Submit</button>
+                <button onclick="exportSuggestions()" class="btn-secondary" style="margin-left:10px;">Export All</button>
+                <div id="suggestion-status" class="suggestion-status" style="display:none;margin-top:10px;"></div>
+            </div>
+        </div>
+    </section>
+
     <footer class="footer">
         <div class="container">
             <div class="footer-content">
@@ -340,5 +355,6 @@
     </footer>
 
     <script src="/KL-trip/assets/js/main.js"></script>
+    <script src="/KL-trip/assets/js/suggestions.js"></script>
 </body>
 </html>
