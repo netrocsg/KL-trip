@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KL Trip 2025 - Team Adventure | Oct 24-26</title>
+    <link rel="stylesheet" href="/KL-trip/assets/css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&family=Playfair+Display:wght@700;900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="hero">
+        <nav class="navbar">
+            <div class="container">
+                <div class="nav-content">
+                    <a href="/KL-trip/" class="logo">
+                        <span class="logo-icon">✈️</span>
+                        <span class="logo-text">KL Adventure 2025</span>
+                    </a>
+                    <ul class="nav-menu">
+                        <li><a href="/KL-trip/" class="nav-link active">Home</a></li>
+                        <li><a href="/KL-trip/activities/" class="nav-link">Activities</a></li>
+                        <li><a href="/KL-trip/itineraries/" class="nav-link">Itineraries</a></li>
+                        <li><a href="#budget" class="nav-link">Budget</a></li>
+                        <li><a href="#vote" class="nav-link btn-primary">Vote Now</a></li>
+                    </ul>
+                    <button class="mobile-menu-toggle" aria-label="Toggle menu">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </button>
+                </div>
+            </div>
+        </nav>
+
+        <div class="hero-content">
+            <div class="container">
+                <div class="hero-text">
+                    <h1 class="hero-title">Kuala Lumpur<br><span class="highlight">Team Adventure</span></h1>
+                    <p class="hero-subtitle">October 24-26, 2025 | 8 Colleagues | 3 Days of Exploration</p>
+                    <div class="hero-stats">
+                        <div class="stat">
+                            <div class="stat-number">20+</div>
+                            <div class="stat-label">Activities</div>
+                        </div>
+                        <div class="stat">
+                            <div class="stat-number">3</div>
+                            <div class="stat-label">Itineraries</div>
+                        </div>
+                        <div class="stat">
+                            <div class="stat-number">8</div>
+                            <div class="stat-label">Team Members</div>
+                        </div>
+                    </div>
+                    <div class="hero-cta">
+                        <a href="#itineraries" class="btn btn-large btn-primary">Explore Itineraries</a>
+                        <a href="/KL-trip/activities/" class="btn btn-large btn-secondary">Browse Activities</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="hero-overlay"></div>
+    </header>
+
+    <section class="trip-info">
+        <div class="container">
+            <div class="info-grid">
+                <div class="info-card">
+                    <div class="info-icon">📅</div>
+                    <h3>Dates</h3>
+                    <p>Friday, Oct 24 - Sunday, Oct 26, 2025</p>
+                </div>
+                <div class="info-card">
+                    <div class="info-icon">👥</div>
+                    <h3>Group</h3>
+                    <p>8 colleagues (4 from Singapore, 4 from Turkey)</p>
+                </div>
+                <div class="info-card">
+                    <div class="info-icon">💰</div>
+                    <h3>Budget</h3>
+                    <p>$311-598 per person (3 days)</p>
+                </div>
+                <div class="info-card">
+                    <div class="info-icon">🏨</div>
+                    <h3>Accommodation</h3>
+                    <p>Bukit Bintang or KLCC area</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="itineraries" class="itineraries-preview">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Choose Your Adventure</h2>
+                <p class="section-subtitle">Three carefully curated itineraries designed for different travel styles</p>
+            </div>
+
+            <div class="itinerary-cards">
+                <div class="itinerary-card" data-itinerary="cultural">
+                    <div class="itinerary-badge">Most Popular</div>
+                    <div class="itinerary-image" style="background-image: url('/KL-trip/assets/images/tbG9xUoz23NV.jpg')"></div>
+                    <div class="itinerary-content">
+                        <h3>Cultural Explorer & Foodie</h3>
+                        <p>Experience KL's rich cultural heritage and amazing food scene</p>
+                        <div class="itinerary-highlights">
+                            <span class="highlight-tag">🏛️ Cultural Sites</span>
+                            <span class="highlight-tag">🍜 Food Tours</span>
+                            <span class="highlight-tag">🎭 Local Experience</span>
+                        </div>
+                        <div class="itinerary-meta">
+                            <div class="meta-item">
+                                <strong>$180-224</strong>
+                                <span>per person</span>
+                            </div>
+                            <div class="meta-item">
+                                <strong>15+</strong>
+                                <span>tastings</span>
+                            </div>
+                        </div>
+                        <div class="itinerary-votes">
+                            <div class="vote-count">
+                                <span class="vote-number" id="votes-cultural">0</span>
+                                <span class="vote-label">votes</span>
+                            </div>
+                            <button class="btn-vote" onclick="vote('cultural')">👍 Vote</button>
+                        </div>
+                        <a href="/KL-trip/itineraries/#cultural" class="btn btn-full">View Full Itinerary</a>
+                    </div>
+                </div>
+
+                <div class="itinerary-card" data-itinerary="instagram">
+                    <div class="itinerary-badge">Photo Lovers</div>
+                    <div class="itinerary-image" style="background-image: url('/KL-trip/assets/images/booiwhyZIgeT.jpg')"></div>
+                    <div class="itinerary-content">
+                        <h3>Instagram-Worthy Highlights</h3>
+                        <p>Hit all the iconic photo spots and trendy locations</p>
+                        <div class="itinerary-highlights">
+                            <span class="highlight-tag">📸 Photo Spots</span>
+                            <span class="highlight-tag">🌃 Rooftop Bars</span>
+                            <span class="highlight-tag">✨ Trendy Cafes</span>
+                        </div>
+                        <div class="itinerary-meta">
+                            <div class="meta-item">
+                                <strong>$197-245</strong>
+                                <span>per person</span>
+                            </div>
+                            <div class="meta-item">
+                                <strong>20+</strong>
+                                <span>photo ops</span>
+                            </div>
+                        </div>
+                        <div class="itinerary-votes">
+                            <div class="vote-count">
+                                <span class="vote-number" id="votes-instagram">0</span>
+                                <span class="vote-label">votes</span>
+                            </div>
+                            <button class="btn-vote" onclick="vote('instagram')">👍 Vote</button>
+                        </div>
+                        <a href="/KL-trip/itineraries/#instagram" class="btn btn-full">View Full Itinerary</a>
+                    </div>
+                </div>
+
+                <div class="itinerary-card" data-itinerary="balanced">
+                    <div class="itinerary-badge">Best Value</div>
+                    <div class="itinerary-image" style="background-image: url('/KL-trip/assets/images/ELsSzTf5WjDt.jpeg')"></div>
+                    <div class="itinerary-content">
+                        <h3>Balanced Explorer</h3>
+                        <p>A perfect mix of culture, nature, food, shopping, and nightlife</p>
+                        <div class="itinerary-highlights">
+                            <span class="highlight-tag">🎯 All-Rounder</span>
+                            <span class="highlight-tag">🌳 Nature</span>
+                            <span class="highlight-tag">🛍️ Shopping</span>
+                        </div>
+                        <div class="itinerary-meta">
+                            <div class="meta-item">
+                                <strong>$182-221</strong>
+                                <span>per person</span>
+                            </div>
+                            <div class="meta-item">
+                                <strong>12+</strong>
+                                <span>activities</span>
+                            </div>
+                        </div>
+                        <div class="itinerary-votes">
+                            <div class="vote-count">
+                                <span class="vote-number" id="votes-balanced">0</span>
+                                <span class="vote-label">votes</span>
+                            </div>
+                            <button class="btn-vote" onclick="vote('balanced')">👍 Vote</button>
+                        </div>
+                        <a href="/KL-trip/itineraries/#balanced" class="btn btn-full">View Full Itinerary</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="top-activities">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Top Activities</h2>
+                <p class="section-subtitle">Vote for your favorite activities to help shape our final itinerary</p>
+            </div>
+
+            <div class="activities-grid" id="activities-grid">
+                <!-- Activities will be loaded dynamically -->
+            </div>
+
+            <div class="view-all-container">
+                <a href="/KL-trip/activities/" class="btn btn-large btn-primary">View All 20 Activities</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="budget" class="budget-section">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Budget Breakdown</h2>
+                <p class="section-subtitle">Transparent cost estimates for the entire 3-day trip</p>
+            </div>
+
+            <div class="budget-options">
+                <div class="budget-card">
+                    <div class="budget-header">
+                        <h3>Budget Option</h3>
+                        <div class="budget-price">
+                            <span class="price">$311-383</span>
+                            <span class="price-label">per person</span>
+                        </div>
+                    </div>
+                    <ul class="budget-features">
+                        <li>✓ Serviced apartments (shared)</li>
+                        <li>✓ Balanced itinerary</li>
+                        <li>✓ Mid-range dining</li>
+                        <li>✓ Public transport + Grab</li>
+                        <li>✓ Most attractions included</li>
+                    </ul>
+                    <div class="budget-total">
+                        <strong>For 8 people:</strong> $2,488-3,064
+                    </div>
+                </div>
+
+                <div class="budget-card featured">
+                    <div class="budget-badge">Recommended</div>
+                    <div class="budget-header">
+                        <h3>Mid-Range Option</h3>
+                        <div class="budget-price">
+                            <span class="price">$359-431</span>
+                            <span class="price-label">per person</span>
+                        </div>
+                    </div>
+                    <ul class="budget-features">
+                        <li>✓ Mid-range hotels (Bukit Bintang)</li>
+                        <li>✓ Cultural & foodie itinerary</li>
+                        <li>✓ Food tours included</li>
+                        <li>✓ Mix of transport options</li>
+                        <li>✓ All major attractions</li>
+                    </ul>
+                    <div class="budget-total">
+                        <strong>For 8 people:</strong> $2,872-3,448
+                    </div>
+                </div>
+
+                <div class="budget-card">
+                    <div class="budget-header">
+                        <h3>Luxury Option</h3>
+                        <div class="budget-price">
+                            <span class="price">$478-598</span>
+                            <span class="price-label">per person</span>
+                        </div>
+                    </div>
+                    <ul class="budget-features">
+                        <li>✓ Luxury hotels (KLCC)</li>
+                        <li>✓ Instagram-worthy itinerary</li>
+                        <li>✓ Upscale dining & rooftop bars</li>
+                        <li>✓ Private transport options</li>
+                        <li>✓ Premium experiences</li>
+                    </ul>
+                    <div class="budget-total">
+                        <strong>For 8 people:</strong> $3,824-4,784
+                    </div>
+                </div>
+            </div>
+
+            <div class="budget-note">
+                <p><strong>Note for Singapore travelers:</strong> Add $108-195 per person for round-trip flights (AirAsia/Malaysia Airlines)</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="vote" class="vote-section">
+        <div class="container">
+            <div class="vote-content">
+                <h2>Help Us Plan!</h2>
+                <p>Your votes and feedback will help us create the perfect itinerary for our group. Vote for your favorite activities and itinerary style above.</p>
+                <div class="vote-stats">
+                    <div class="stat-box">
+                        <div class="stat-value" id="total-votes">0</div>
+                        <div class="stat-label">Total Votes</div>
+                    </div>
+                    <div class="stat-box">
+                        <div class="stat-value" id="top-itinerary">-</div>
+                        <div class="stat-label">Leading Itinerary</div>
+                    </div>
+                </div>
+                <p class="vote-note">Votes are saved locally and will be aggregated for the final decision. Check back daily for updated recommendations!</p>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>KL Trip 2025</h4>
+                    <p>A collaborative trip planning platform for our team adventure to Kuala Lumpur.</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="/KL-trip/">Home</a></li>
+                        <li><a href="/KL-trip/activities/">Activities</a></li>
+                        <li><a href="/KL-trip/itineraries/">Itineraries</a></li>
+                        <li><a href="#budget">Budget</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Trip Details</h4>
+                    <p>📅 Oct 24-26, 2025<br>
+                    📍 Kuala Lumpur, Malaysia<br>
+                    👥 8 Team Members</p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 KL Trip Planning. Built with ❤️ for our team adventure.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="/KL-trip/assets/js/main.js"></script>
+</body>
+</html>

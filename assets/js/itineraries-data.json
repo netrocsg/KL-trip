@@ -1,0 +1,474 @@
+{
+  "trip_info": {
+    "dates": "October 24-26, 2025 (Friday to Sunday)",
+    "group_size": "8 people (4 from Singapore, 4 from Turkey)",
+    "accommodation_options": [
+      {
+        "name": "Mid-Range Hotels (Bukit Bintang)",
+        "description": "4 double rooms in central location",
+        "cost_per_night": "RM 300-400 total",
+        "cost_3_nights": "RM 900-1,200 total ($215-287)",
+        "per_person_3_nights": "RM 112.50-150 ($27-36)"
+      },
+      {
+        "name": "Serviced Apartments",
+        "description": "2 large apartments (4 people each)",
+        "cost_per_night": "RM 250-350 total",
+        "cost_3_nights": "RM 750-1,050 total ($179-251)",
+        "per_person_3_nights": "RM 93.75-131.25 ($22-31)"
+      },
+      {
+        "name": "Luxury Hotels (KLCC)",
+        "description": "4 rooms at upscale hotel",
+        "cost_per_night": "RM 600-800 total",
+        "cost_3_nights": "RM 1,800-2,400 total ($430-574)",
+        "per_person_3_nights": "RM 225-300 ($54-72)"
+      }
+    ],
+    "transportation_singapore_kl": {
+      "flight_one_way": "RM 227-408 per person",
+      "flight_round_trip": "RM 454-816 per person",
+      "for_4_people_round_trip": "RM 1,816-3,264 ($434-781)",
+      "bus_alternative": "RM 84-210 per person round trip (4-6 hours each way)"
+    },
+    "total_budget_estimates": {
+      "budget_option": {
+        "description": "Serviced apartments + balanced itinerary + mid-range dining",
+        "per_person": "RM 1,300-1,600 ($311-383)",
+        "for_8_people": "RM 10,400-12,800 ($2,488-3,064)",
+        "for_4_from_singapore": "Add RM 1,816-3,264 for flights"
+      },
+      "mid_range_option": {
+        "description": "Mid-range hotels + cultural/foodie itinerary + good dining",
+        "per_person": "RM 1,500-1,800 ($359-431)",
+        "for_8_people": "RM 12,000-14,400 ($2,872-3,448)",
+        "for_4_from_singapore": "Add RM 1,816-3,264 for flights"
+      },
+      "luxury_option": {
+        "description": "Luxury hotels + Instagram itinerary + upscale dining",
+        "per_person": "RM 2,000-2,500 ($478-598)",
+        "for_8_people": "RM 16,000-20,000 ($3,824-4,784)",
+        "for_4_from_singapore": "Add RM 1,816-3,264 for flights"
+      }
+    }
+  },
+  "itinerary_options": {
+    "cultural_foodie": {
+      "name": "Cultural Explorer & Foodie Adventure",
+      "description": "Perfect for those who want to experience KL's rich cultural heritage and amazing food scene",
+      "suitable_for": [
+        "Culture lovers",
+        "Food enthusiasts",
+        "First-time visitors"
+      ],
+      "days": [
+        {
+          "day": 1,
+          "date": "Friday, October 24, 2025",
+          "theme": "Historical KL & Street Food",
+          "activities": [
+            {
+              "time": "9:00 AM - 12:00 PM",
+              "activity_id": 7,
+              "notes": "Start with historical walking tour"
+            },
+            {
+              "time": "12:30 PM - 2:30 PM",
+              "activity_id": 6,
+              "notes": "Lunch at Old China Cafe, explore markets"
+            },
+            {
+              "time": "3:00 PM - 5:00 PM",
+              "activity_id": 2,
+              "notes": "Arrive for sunset views"
+            },
+            {
+              "time": "6:00 PM - 8:30 PM",
+              "activity_id": 4,
+              "notes": "Dinner at famous food street"
+            }
+          ],
+          "meals": {
+            "breakfast": "Hotel breakfast or local kopitiam (RM 15-20)",
+            "lunch": "Old China Cafe (RM 25-35)",
+            "dinner": "Jalan Alor Food Street (RM 30-40)"
+          },
+          "estimated_cost_per_person": {
+            "activities": "RM 130",
+            "food": "RM 70-95",
+            "transport": "RM 15-20",
+            "total_myr": "RM 215-245",
+            "total_usd": "$51-58"
+          }
+        },
+        {
+          "day": 2,
+          "date": "Saturday, October 25, 2025",
+          "theme": "Temples, Nature & Food Tour",
+          "activities": [
+            {
+              "time": "8:00 AM - 11:00 AM",
+              "activity_id": 1,
+              "notes": "Early visit to avoid crowds and heat"
+            },
+            {
+              "time": "12:00 PM - 1:30 PM",
+              "activity_id": 14,
+              "notes": "Lunch in Little India"
+            },
+            {
+              "time": "2:30 PM - 4:00 PM",
+              "activity_id": 5,
+              "notes": "Visit beautiful Chinese temple"
+            },
+            {
+              "time": "5:00 PM - 9:00 PM",
+              "activity_id": 16,
+              "notes": "Ultimate food experience with guide"
+            }
+          ],
+          "meals": {
+            "breakfast": "Hotel breakfast (RM 15-20)",
+            "lunch": "Little India banana leaf thali (RM 20-30)",
+            "dinner": "Included in food tour"
+          },
+          "estimated_cost_per_person": {
+            "activities": "RM 200-250",
+            "food": "RM 35-50",
+            "transport": "RM 40-50",
+            "total_myr": "RM 275-350",
+            "total_usd": "$66-84"
+          }
+        },
+        {
+          "day": 3,
+          "date": "Sunday, October 26, 2025",
+          "theme": "Views, Shopping & Farewell Dinner",
+          "activities": [
+            {
+              "time": "9:00 AM - 11:00 AM",
+              "activity_id": 9,
+              "notes": "Cultural morning at museum"
+            },
+            {
+              "time": "12:00 PM - 3:00 PM",
+              "activity_id": 13,
+              "notes": "Lunch at Lot 10 Hutong, shopping"
+            },
+            {
+              "time": "4:00 PM - 6:00 PM",
+              "activity_id": 3,
+              "notes": "Sunset views from KL Tower"
+            },
+            {
+              "time": "7:00 PM - 10:00 PM",
+              "activity_id": 17,
+              "notes": "Farewell dinner with Petronas views"
+            }
+          ],
+          "meals": {
+            "breakfast": "Hotel breakfast (RM 15-20)",
+            "lunch": "Lot 10 Hutong (RM 25-35)",
+            "dinner": "SkyBar (RM 100-150)"
+          },
+          "estimated_cost_per_person": {
+            "activities": "RM 100",
+            "food": "RM 140-205",
+            "transport": "RM 25-35",
+            "total_myr": "RM 265-340",
+            "total_usd": "$63-81"
+          }
+        }
+      ],
+      "total_3day_cost": {
+        "per_person_myr": "RM 755-935",
+        "per_person_usd": "$180-224",
+        "for_8_people_myr": "RM 6,040-7,480",
+        "for_8_people_usd": "$1,440-1,792"
+      }
+    },
+    "instagram_worthy": {
+      "name": "Instagram-Worthy Highlights",
+      "description": "Hit all the iconic photo spots and trendy locations for the perfect social media content",
+      "suitable_for": [
+        "Photography lovers",
+        "Social media enthusiasts",
+        "Younger crowds"
+      ],
+      "days": [
+        {
+          "day": 1,
+          "date": "Friday, October 24, 2025",
+          "theme": "Iconic Landmarks & City Views",
+          "activities": [
+            {
+              "time": "9:00 AM - 12:00 PM",
+              "activity_id": 1,
+              "notes": "Rainbow steps and golden statue photos"
+            },
+            {
+              "time": "1:00 PM - 3:00 PM",
+              "activity_id": 6,
+              "notes": "Colorful markets and street art at Kwai Chai Hong"
+            },
+            {
+              "time": "4:00 PM - 6:30 PM",
+              "activity_id": 2,
+              "notes": "Golden hour and night shots of towers"
+            },
+            {
+              "time": "7:30 PM - 9:30 PM",
+              "activity_id": 4,
+              "notes": "Vibrant night market atmosphere"
+            }
+          ],
+          "meals": {
+            "breakfast": "Trendy cafe like Feeka (RM 25-35)",
+            "lunch": "Central Market area (RM 20-30)",
+            "dinner": "Jalan Alor (RM 30-40)"
+          },
+          "estimated_cost_per_person": {
+            "activities": "RM 130",
+            "food": "RM 75-105",
+            "transport": "RM 35-45",
+            "total_myr": "RM 240-280",
+            "total_usd": "$57-67"
+          }
+        },
+        {
+          "day": 2,
+          "date": "Saturday, October 25, 2025",
+          "theme": "Nature Meets Urban & Rooftop Vibes",
+          "activities": [
+            {
+              "time": "8:00 AM - 10:00 AM",
+              "activity_id": 10,
+              "notes": "Canopy walk with city skyline backdrop"
+            },
+            {
+              "time": "10:30 AM - 12:30 PM",
+              "activity_id": 3,
+              "notes": "Panoramic views and Sky Box photos"
+            },
+            {
+              "time": "1:00 PM - 4:00 PM",
+              "activity_id": 18,
+              "notes": "Lunch and shopping at upscale mall"
+            },
+            {
+              "time": "5:00 PM - 7:00 PM",
+              "activity_id": 5,
+              "notes": "Golden hour at colorful temple"
+            },
+            {
+              "time": "8:00 PM - 11:00 PM",
+              "activity_id": 20,
+              "notes": "Unique rooftop bar experience"
+            }
+          ],
+          "meals": {
+            "breakfast": "Hotel or bröom cafe (RM 20-30)",
+            "lunch": "Pavilion KL (RM 35-50)",
+            "dinner": "Helipad Bar (RM 80-120)"
+          },
+          "estimated_cost_per_person": {
+            "activities": "RM 88.50",
+            "food": "RM 135-200",
+            "transport": "RM 40-55",
+            "total_myr": "RM 263.50-343.50",
+            "total_usd": "$63-82"
+          }
+        },
+        {
+          "day": 3,
+          "date": "Sunday, October 26, 2025",
+          "theme": "Aquarium, Parks & Sunset Views",
+          "activities": [
+            {
+              "time": "10:00 AM - 1:00 PM",
+              "activity_id": 8,
+              "notes": "Underwater tunnel photos at Aquaria"
+            },
+            {
+              "time": "2:00 PM - 4:00 PM",
+              "activity_id": 11,
+              "notes": "Garden and nature photography"
+            },
+            {
+              "time": "5:00 PM - 7:00 PM",
+              "activity_id": 13,
+              "notes": "Urban shopping district vibes"
+            },
+            {
+              "time": "7:30 PM - 10:00 PM",
+              "activity_id": 17,
+              "notes": "Sunset and night views with Petronas backdrop"
+            }
+          ],
+          "meals": {
+            "breakfast": "Hotel breakfast (RM 15-20)",
+            "lunch": "KLCC area (RM 30-45)",
+            "dinner": "SkyBar (RM 100-150)"
+          },
+          "estimated_cost_per_person": {
+            "activities": "RM 155",
+            "food": "RM 145-215",
+            "transport": "RM 20-30",
+            "total_myr": "RM 320-400",
+            "total_usd": "$77-96"
+          }
+        }
+      ],
+      "total_3day_cost": {
+        "per_person_myr": "RM 823.50-1,023.50",
+        "per_person_usd": "$197-245",
+        "for_8_people_myr": "RM 6,588-8,188",
+        "for_8_people_usd": "$1,576-1,960"
+      }
+    },
+    "balanced_explorer": {
+      "name": "Balanced Explorer",
+      "description": "A well-rounded mix of culture, nature, food, shopping, and nightlife for the complete KL experience",
+      "suitable_for": [
+        "All types of travelers",
+        "Mixed groups",
+        "Want to see everything"
+      ],
+      "days": [
+        {
+          "day": 1,
+          "date": "Friday, October 24, 2025",
+          "theme": "Iconic KL & Evening Entertainment",
+          "activities": [
+            {
+              "time": "10:00 AM - 12:30 PM",
+              "activity_id": 1,
+              "notes": "Must-see attraction, arrive mid-morning"
+            },
+            {
+              "time": "1:30 PM - 3:30 PM",
+              "activity_id": 6,
+              "notes": "Lunch and souvenir shopping"
+            },
+            {
+              "time": "4:30 PM - 7:00 PM",
+              "activity_id": 2,
+              "notes": "Sunset at iconic towers, fountain show"
+            },
+            {
+              "time": "7:30 PM - 9:30 PM",
+              "activity_id": 4,
+              "notes": "Authentic street food dinner"
+            }
+          ],
+          "meals": {
+            "breakfast": "Hotel breakfast (RM 15-20)",
+            "lunch": "Central Market area (RM 20-30)",
+            "dinner": "Jalan Alor (RM 30-40)"
+          },
+          "estimated_cost_per_person": {
+            "activities": "RM 130",
+            "food": "RM 65-90",
+            "transport": "RM 35-45",
+            "total_myr": "RM 230-265",
+            "total_usd": "$55-63"
+          }
+        },
+        {
+          "day": 2,
+          "date": "Saturday, October 25, 2025",
+          "theme": "Nature, Culture & Views",
+          "activities": [
+            {
+              "time": "9:00 AM - 11:00 AM",
+              "activity_id": 11,
+              "notes": "Morning walk in botanical gardens"
+            },
+            {
+              "time": "11:30 AM - 2:00 PM",
+              "activity_id": 12,
+              "notes": "Bird park experience, includes lunch break"
+            },
+            {
+              "time": "3:00 PM - 5:00 PM",
+              "activity_id": 3,
+              "notes": "Best views in KL with Sky Deck"
+            },
+            {
+              "time": "6:00 PM - 8:00 PM",
+              "activity_id": 13,
+              "notes": "Dinner at Lot 10 Hutong or Pavilion"
+            },
+            {
+              "time": "9:00 PM - 11:00 PM",
+              "activity_id": 20,
+              "notes": "Optional nightcap with views"
+            }
+          ],
+          "meals": {
+            "breakfast": "Hotel breakfast (RM 15-20)",
+            "lunch": "Near Bird Park (RM 25-35)",
+            "dinner": "Bukit Bintang (RM 40-60)"
+          },
+          "estimated_cost_per_person": {
+            "activities": "RM 155 + 60-120 optional",
+            "food": "RM 80-115",
+            "transport": "RM 40-55",
+            "total_myr": "RM 275-330 (or 335-450 with bar)",
+            "total_usd": "$66-79 (or $80-108 with bar)"
+          }
+        },
+        {
+          "day": 3,
+          "date": "Sunday, October 26, 2025",
+          "theme": "Culture, Shopping & Farewell",
+          "activities": [
+            {
+              "time": "9:00 AM - 11:00 AM",
+              "activity_id": 9,
+              "notes": "Cultural morning at Islamic Arts Museum"
+            },
+            {
+              "time": "11:30 AM - 1:30 PM",
+              "activity_id": 14,
+              "notes": "Explore Little India, lunch"
+            },
+            {
+              "time": "2:00 PM - 5:00 PM",
+              "activity_id": 18,
+              "notes": "Final shopping and snacks"
+            },
+            {
+              "time": "6:00 PM - 8:00 PM",
+              "activity_id": 8,
+              "notes": "KLCC Park relaxation, fountain show"
+            },
+            {
+              "time": "8:30 PM - 10:30 PM",
+              "activity_id": 17,
+              "notes": "Farewell dinner with best views"
+            }
+          ],
+          "meals": {
+            "breakfast": "Hotel breakfast (RM 15-20)",
+            "lunch": "Little India (RM 20-30)",
+            "dinner": "SkyBar (RM 100-150)"
+          },
+          "estimated_cost_per_person": {
+            "activities": "RM 95",
+            "food": "RM 135-200",
+            "transport": "RM 25-35",
+            "total_myr": "RM 255-330",
+            "total_usd": "$61-79"
+          }
+        }
+      ],
+      "total_3day_cost": {
+        "per_person_myr": "RM 760-925 (without optional bar)",
+        "per_person_usd": "$182-221 (without optional bar)",
+        "for_8_people_myr": "RM 6,080-7,400",
+        "for_8_people_usd": "$1,456-1,768"
+      }
+    }
+  }
+}

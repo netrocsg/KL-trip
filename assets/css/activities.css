@@ -1,0 +1,216 @@
+/* Activities Page Specific Styles */
+
+.page-header {
+    padding: 140px 0 80px;
+    background: linear-gradient(135deg, var(--secondary-color), var(--primary-color));
+    color: var(--white);
+    text-align: center;
+}
+
+.page-header h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 56px;
+    margin-bottom: 15px;
+}
+
+.page-header p {
+    font-size: 20px;
+    opacity: 0.9;
+}
+
+.filters-section {
+    padding: 40px 0;
+    background: var(--light-color);
+    position: sticky;
+    top: 70px;
+    z-index: 100;
+    box-shadow: var(--shadow);
+}
+
+.filters {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.filter-btn {
+    padding: 10px 24px;
+    border: 2px solid var(--light-gray);
+    background: var(--white);
+    border-radius: 25px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: var(--transition);
+    color: var(--dark-color);
+}
+
+.filter-btn:hover {
+    border-color: var(--primary-color);
+    color: var(--primary-color);
+}
+
+.filter-btn.active {
+    background: var(--primary-color);
+    border-color: var(--primary-color);
+    color: var(--white);
+}
+
+.all-activities {
+    padding: 80px 0;
+    background: var(--white);
+}
+
+.activities-full-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+    gap: 40px;
+}
+
+.activity-detail-card {
+    background: var(--white);
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: var(--shadow);
+    transition: var(--transition);
+}
+
+.activity-detail-card:hover {
+    transform: translateY(-8px);
+    box-shadow: var(--shadow-lg);
+}
+
+.activity-detail-image {
+    height: 240px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.activity-detail-content {
+    padding: 30px;
+}
+
+.activity-detail-content h3 {
+    font-size: 24px;
+    margin-bottom: 15px;
+    color: var(--secondary-color);
+}
+
+.activity-description {
+    color: var(--gray);
+    margin-bottom: 20px;
+    line-height: 1.6;
+}
+
+.activity-info-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+    margin: 25px 0;
+    padding: 20px;
+    background: var(--light-color);
+    border-radius: 12px;
+}
+
+.info-item {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.info-label {
+    font-size: 13px;
+    color: var(--gray);
+    font-weight: 600;
+}
+
+.info-value {
+    font-size: 14px;
+    color: var(--dark-color);
+    font-weight: 500;
+}
+
+.activity-highlights,
+.activity-tips {
+    margin: 20px 0;
+}
+
+.activity-highlights h4,
+.activity-tips h4 {
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: var(--secondary-color);
+}
+
+.activity-highlights ul,
+.activity-tips ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.activity-highlights li,
+.activity-tips li {
+    padding: 6px 0 6px 20px;
+    position: relative;
+    color: var(--dark-color);
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.activity-highlights li::before {
+    content: '✓';
+    position: absolute;
+    left: 0;
+    color: var(--success);
+    font-weight: 700;
+}
+
+.activity-tips li::before {
+    content: '•';
+    position: absolute;
+    left: 0;
+    color: var(--primary-color);
+    font-weight: 700;
+}
+
+.activity-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+    border-top: 1px solid var(--light-gray);
+    margin-top: 20px;
+}
+
+.difficulty-badge {
+    padding: 6px 16px;
+    background: var(--light-gray);
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--dark-color);
+}
+
+@media (max-width: 768px) {
+    .page-header h1 {
+        font-size: 36px;
+    }
+    
+    .activities-full-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .filters {
+        gap: 10px;
+    }
+    
+    .filter-btn {
+        padding: 8px 16px;
+        font-size: 14px;
+    }
+    
+    .activity-info-grid {
+        grid-template-columns: 1fr;
+    }
+}
