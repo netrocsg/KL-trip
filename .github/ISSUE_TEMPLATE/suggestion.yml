@@ -1,0 +1,48 @@
+name: 💡 Suggest Activity or Food Place
+description: Suggest a specific place or activity for our KL trip
+title: "[SUGGESTION] "
+labels: ["suggestion", "pending"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Thanks for your suggestion!
+        Our AI agent will research this and add it to the website within 24 hours.
+        
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      description: What type of suggestion is this?
+      options:
+        - 🍜 Food
+        - 🎯 Activity
+        - 🏨 Accommodation
+        - 🚗 Transport
+        - 💭 Other
+    validations:
+      required: true
+      
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Tell us about the place or activity you want us to research
+      placeholder: |
+        Example: "I heard about Village Park Restaurant that serves amazing nasi lemak. It's supposed to be one of the best in KL!"
+        
+        Or: "Can we visit the Islamic Arts Museum? I'm interested in Islamic architecture."
+    validations:
+      required: true
+      
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Information (Optional)
+      description: Any other details like location, price range, or why you're interested
+      placeholder: |
+        - Location: Near Bangsar
+        - Price: Budget-friendly
+        - Why: Famous local spot
+    validations:
+      required: false
