@@ -10,14 +10,16 @@ This document contains ALL the information the daily agent needs to successfully
 
 ### Task 1: Check for New Suggestions
 
-**Location**: Users will export suggestions as JSON files and upload to `/suggestions/` directory
+**Location**: GitHub Issues with label "suggestion" and "pending"
 
 **Steps**:
-1. Check `/suggestions/` directory for new `.json` files
-2. Read unprocessed suggestion files
-3. Research each suggestion thoroughly
-4. Add to `/assets/js/activities-data.json`
-5. Mark as processed
+1. Fetch issues from GitHub API: `https://api.github.com/repos/netrocsg/KL-trip/issues?labels=suggestion,pending`
+2. For each unprocessed issue:
+   - Read the suggestion details from issue body
+   - Research thoroughly using search tools
+   - Add complete activity details to `/assets/js/activities-data.json`
+   - Close the issue with comment: "✅ Processed and added to website"
+   - Remove "pending" label, add "processed" label
 
 ### Task 2: Analyze Voting Data
 
