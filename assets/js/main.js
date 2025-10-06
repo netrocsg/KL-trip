@@ -162,6 +162,14 @@ const topActivities = [
     }
 ];
 
+// Activity ID to gallery mapping
+const activityGalleryMap = {
+    1: 'batu-caves',
+    2: 'petronas',
+    3: 'jalan-alor',
+    7: 'bukit-bintang'
+};
+
 // ===== LOAD ACTIVITIES =====
 function loadActivities() {
     const grid = document.getElementById('activities-grid');
@@ -169,7 +177,11 @@ function loadActivities() {
     
     const votes = getVotes();
     
-    grid.innerHTML = topActivities.map(activity => `
+    grid.innerHTML = topActivities.map(activity => {
+        const galleryId = activityGalleryMap[activity.id];
+        const galleryHTML = galleryId && typeof initGallery === 'function' ? initGallery(galleryId) : '';
+        
+        return `
         <div class="activity-card" data-activity="${activity.id}">
             <div class="activity-image" style="background-image: url('${activity.image}')">
                 <div class="activity-category">${activity.category}</div>
@@ -177,6 +189,7 @@ function loadActivities() {
             <div class="activity-content">
                 <h3>${activity.name}</h3>
                 <p>${activity.description}</p>
+                ${galleryHTML}
                 <div class="activity-meta">
                     <span class="activity-cost">${activity.cost}</span>
                     <span class="activity-duration">⏱️ ${activity.duration}</span>
@@ -190,7 +203,8 @@ function loadActivities() {
                 </div>
             </div>
         </div>
-    `).join('');
+    `;
+    }).join('');
 }
 
 // ===== MOBILE MENU =====
