@@ -33,7 +33,7 @@ The activity database currently contains 20 activities across 17 categories. The
 | Nightlife & Dining         | 1     |
 | Nightlife & Views          | 1     |
 | Shopping & Culture         | 1     |
-| Shopping & Dining          | 1     |  
+| Shopping & Dining          | 1     |
 | Shopping & Entertainment   | 1     |
 
 ### Recommendations
