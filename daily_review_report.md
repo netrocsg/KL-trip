@@ -2,15 +2,13 @@
 
 ## Date: October 9, 2025
 
-This report summarizes the daily review for the KL Trip 2025 website, including newly researched activities and an analysis of voting data.
-
 ## 1. New Activity Suggestions
 
 No new activity suggestions were provided today.
 
 ## 2. Activity Research Summary
 
-Below is a summary of the activities researched and added to the database:
+Here's a summary of the activities researched and added to the database:
 
 ### SuperPark Malaysia
 
@@ -93,15 +91,11 @@ Below is a summary of the activities researched and added to the database:
 
 ### Activities Ranked by Votes
 
-| Activity Name                      | Votes |
-| :--------------------------------- | :---- |
-| SuperPark Malaysia                 | 4     |
-| LYL Circuit                        | 2     |
-| Skytrex Adventure Sungai Congkak   | 2     |
-| ATV Adventure Park Kuala Lumpur    | 2     |
-| District 21                        | 2     |
-| Camp5 Climbing Gym Eco City        | 2     |
-| VAR LIVE Theme Park                | 2     |
-
-## Author: Manus AI
+- **SuperPark Malaysia**: 4 votes
+- **LYL Circuit**: 2 votes
+- **Skytrex Adventure Sungai Congkak**: 2 votes
+- **ATV Adventure Park Kuala Lumpur**: 2 votes
+- **District 21**: 2 votes
+- **Camp5 Climbing Gym Eco City**: 2 votes
+- **VAR LIVE Theme Park**: 2 votes
 

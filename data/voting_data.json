@@ -1,0 +1,20 @@
+{
+  "votes": [
+    {"activity_id": 1, "user_id": "user1"},
+    {"activity_id": 1, "user_id": "user2"},
+    {"activity_id": 2, "user_id": "user1"},
+    {"activity_id": 3, "user_id": "user3"},
+    {"activity_id": 1, "user_id": "user3"},
+    {"activity_id": 4, "user_id": "user4"},
+    {"activity_id": 5, "user_id": "user5"},
+    {"activity_id": 2, "user_id": "user2"},
+    {"activity_id": 6, "user_id": "user1"},
+    {"activity_id": 7, "user_id": "user2"},
+    {"activity_id": 1, "user_id": "user4"},
+    {"activity_id": 3, "user_id": "user5"},
+    {"activity_id": 4, "user_id": "user1"},
+    {"activity_id": 5, "user_id": "user2"},
+    {"activity_id": 6, "user_id": "user3"},
+    {"activity_id": 7, "user_id": "user4"}
+  ]
+}
