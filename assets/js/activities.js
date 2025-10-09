@@ -1,14 +1,13 @@
 // Load and display all activities
-console.log("activities.js loaded!");
+
 let allActivities = [];
 
 async function loadAllActivities() {
-    console.log("loadAllActivities started.");
+
     try {
         const response = await fetch("../assets/js/activities-data.json");
         allActivities = await response.json();
-        console.log("Activities data fetched:", allActivities);
-        console.log("Number of activities fetched:", allActivities.length);
+
         displayActivities(allActivities);
         setupFilters();
     } catch (error) {
