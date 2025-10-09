@@ -18,33 +18,9 @@ function displayActivities(activities) {
     
     const votes = getVotes();
     
-    grid.innerHTML = activities.map(activity => {
-        const imageMap = {
-            1: 'https://images.unsplash.com/photo-1596422846543-75c6fc197f07?w=800',
-            2: 'https://images.unsplash.com/photo-1508062878650-88b52897f298?w=800',
-            3: 'https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800',
-            4: 'https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800',
-            5: 'https://images.unsplash.com/photo-1548013146-72479768bada?w=800',
-            6: 'https://images.unsplash.com/photo-1555217851-4f3c0f2e0f5e?w=800',
-            7: 'https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800',
-            8: 'https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800',
-            9: 'https://images.unsplash.com/photo-1564769625905-50e93615e769?w=800',
-            10: 'https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800',
-            11: 'https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=800',
-            12: 'https://images.unsplash.com/photo-1552728089-57bdde30beb3?w=800',
-            13: 'https://images.unsplash.com/photo-1555421689-d68471e189f2?w=800',
-            14: 'https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800',
-            15: 'https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3?w=800',
-            16: 'https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800',
-            17: 'https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=800',
-            18: 'https://images.unsplash.com/photo-1555421689-d68471e189f2?w=800',
-            19: 'https://images.unsplash.com/photo-1509023464722-18d996393ca8?w=800',
-            20: 'https://images.unsplash.com/photo-1533090161767-e6ffed986c88?w=800'
-        };
-        
-        return `
+    grid.innerHTML = activities.map(activity => `
             <div class="activity-detail-card" data-category="${activity.category}">
-                <div class="activity-detail-image" style="background-image: url('${imageMap[activity.id] || imageMap[1]}')">
+                <div class="activity-detail-image" style="background-image: url(\'${activity.photos[0]}\')">
                     <div class="activity-category">${activity.category}</div>
                 </div>
                 <div class="activity-detail-content">
