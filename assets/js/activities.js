@@ -2,9 +2,12 @@
 let allActivities = [];
 
 async function loadAllActivities() {
+    console.log("loadAllActivities started.");
     try {
         const response = await fetch('/KL-trip/assets/js/activities-data.json');
         allActivities = await response.json();
+        console.log("Activities data fetched:", allActivities);
+        console.log("Number of activities fetched:", allActivities.length);
         displayActivities(allActivities);
         setupFilters();
     } catch (error) {
