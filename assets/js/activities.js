@@ -1,4 +1,5 @@
 // Load and display all activities
+console.log("activities.js loaded!");
 let allActivities = [];
 
 async function loadAllActivities() {
