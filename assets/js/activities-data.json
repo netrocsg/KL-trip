@@ -36,7 +36,7 @@
     "id": 2,
     "name": "Petronas Twin Towers",
     "category": "Iconic Landmarks",
-    "description": "World's tallest twin towers with observation deck on 86th floor and skybridge",
+    "description": "World\'s tallest twin towers with observation deck on 86th floor and skybridge",
     "location": "KLCC, Kuala Lumpur City Centre",
     "duration": "1.5-2 hours",
     "cost_myr": "130",
@@ -212,7 +212,7 @@
     "transport_cost": "RM 2-5 LRT",
     "highlights": [
       "Sultan Abdul Samad Building",
-      "KL City Gallery with 'I ❤️ KL' sign",
+      "KL City Gallery with \'I ❤️ KL\' sign",
       "Masjid Jamek (oldest mosque)",
       "River of Life",
       "Colonial architecture"
@@ -247,7 +247,7 @@
       "90-meter underwater tunnel at Aquaria",
       "Musical fountain show (8pm, 9pm, 10pm)",
       "Jogging track",
-      "Children's playground",
+      "Children\'s playground",
       "Lake with paddle boats"
     ],
     "tips": [
@@ -367,7 +367,7 @@
     "id": 12,
     "name": "KL Bird Park",
     "category": "Family & Nature",
-    "description": "World's largest free-flight aviary with over 3,000 birds",
+    "description": "World\'s largest free-flight aviary with over 3,000 birds",
     "location": "Perdana Botanical Garden area",
     "duration": "2-2.5 hours",
     "cost_myr": "75",
@@ -555,7 +555,7 @@
     "name": "ESCAPE Petaling Jaya",
     "category": "Adventure & Sports",
     "subcategory": "Indoor Theme Park",
-    "description": "An indoor adventure theme park located in Paradigm Mall, Petaling Jaya. It features a variety of rides and games such as Monkey Business (rope course), Banana Flip (slide), Monkey School (kids' rope courses), Aerobat (flying trapeze), and Zoom Bug (trike ride). It caters to all age groups and physical abilities, encouraging healthy, family-friendly play.",
+    "description": "An indoor adventure theme park located in Paradigm Mall, Petaling Jaya. It features a variety of rides and games such as Monkey Business (rope course), Banana Flip (slide), Monkey School (kids\' rope courses), Aerobat (flying trapeze), and Zoom Bug (trike ride). It caters to all age groups and physical abilities, encouraging healthy, family-friendly play.",
     "location": "GB-07 Level G, Paradigm Mall, No.1, Jalan SS7/26A, 47301 Petaling Jaya, Selangor, Malaysia.",
     "cost_rm": "Varies, tickets sold online only. Subject to 5% entertainment tax.",
     "cost_usd": "Starts from approximately $20.87 (Traveloka) or $24.42 (Trip.com).",
@@ -575,7 +575,7 @@
     "name": "LYL International Karting Circuit",
     "category": "Adventure & Sports",
     "subcategory": "Go-Karting",
-    "description": "Asia's largest karting circuit with a 1.5km FIA-certified track, offering top-of-the-line rental karts (270cc for beginners, 390cc for experienced drivers). Features 15 garages, workshops, and a grandstand with a complete view of the track.",
+    "description": "Asia\'s largest karting circuit with a 1.5km FIA-certified track, offering top-of-the-line rental karts (270cc for beginners, 390cc for experienced drivers). Features 15 garages, workshops, and a grandstand with a complete view of the track.",
     "location": "Lot 683, Jalan Persiaran Bukit Enggang, Sungai Long Hill, Sungai Long, Cheras, Selangor, Malaysia.",
     "cost_rm": {
       "270cc_10min": 70,
@@ -629,7 +629,7 @@
     "name": "Jump Street Trampoline Park",
     "category": "Adventure & Sports",
     "subcategory": "Trampoline Park",
-    "description": "Malaysia's #1 Trampoline Indoor Park, offering wall-to-wall trampolines, foam pits, slam dunk zones, and other attractions like AirBag, Main Court, High Performance, Dodgeball, Zipline, Velcro Wall, and The Wall. Suitable for all ages and skill levels.",
+    "description": "Malaysia\'s #1 Trampoline Indoor Park, offering wall-to-wall trampolines, foam pits, slam dunk zones, and other attractions like AirBag, Main Court, High Performance, Dodgeball, Zipline, Velcro Wall, and The Wall. Suitable for all ages and skill levels.",
     "location": "8A, Jalan 13/6, Seksyen 13, 46200 Petaling Jaya, Selangor, Malaysia.",
     "cost_rm": {
       "weekday_1hr": 30,
