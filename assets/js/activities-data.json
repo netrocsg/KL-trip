@@ -498,169 +498,182 @@
   },
   {
     "id": 16,
-    "name": "Sambal Street Food Tour",
-    "category": "Food & Culture",
-    "description": "4-hour guided walking food tour through traditional neighborhoods with 15+ tastings",
-    "location": "Chow Kit and Kampung Baru areas",
-    "duration": "4 hours",
-    "cost_myr": "200-250",
-    "cost_usd": "48-60",
-    "best_time": "Evening departure",
-    "transportation": "Meeting point provided, tour includes walking",
-    "transport_cost": "Included in tour",
-    "highlights": [
-      "15+ food tastings",
-      "Hand-stretched roti",
-      "Grilled mackerel with sambal",
-      "Nasi lemak, cendol, durian",
-      "Local neighborhoods",
-      "Expert guide"
+    "name": "District 21",
+    "category": "Adventure & Sports",
+    "subcategory": "Indoor Theme Park",
+    "description": "An apocalypse-themed indoor adventure park featuring 8 attractions such as Tubby Ride, Launch Pad, Power Station, Free Fall, Maze, Ninja Warrior Course, Sky Trail, and Roller Glider. It offers activities for all ages and skill levels, encouraging climbing, jumping, riding, sliding, and flying.",
+    "location": "AT 6, Level 1, IOI City Mall, Lebuh IRC, IOI Resort City, 62502 Putrajaya, Malaysia.",
+    "cost_rm": {
+      "weekday_active": 64,
+      "weekend_active": 80,
+      "non_active": 10
+    },
+    "cost_usd": {
+      "weekday_active": 14.25,
+      "weekend_active": 16.60,
+      "non_active": 2.20
+    },
+    "duration_hours": 3,
+    "best_time": "Weekdays for fewer crowds, any time during opening hours.",
+    "tips": "Wear comfortable clothing and closed-toe shoes. Arrive early, especially on weekends. Book tickets online to secure a slot. Suitable for groups.",
+    "photos": [
+      "/KL-trip/assets/images/activities/district-21/1.jpg",
+      "/KL-trip/assets/images/activities/district-21/2.jpg",
+      "/KL-trip/assets/images/activities/district-21/3.jpg"
     ],
-    "tips": [
-      "Come hungry - generous portions",
-      "Wear comfortable walking shoes",
-      "Book in advance",
-      "Best food experience in KL"
-    ],
-    "suitable_for": [
-      "Foodies",
-      "Cultural immersion",
-      "Groups",
-      "Authentic experience"
-    ],
-    "difficulty": "Easy (walking involved)"
+    "added_date": "2025-10-09",
+    "source": "proactive_research"
   },
   {
     "id": 17,
-    "name": "SkyBar at Traders Hotel",
-    "category": "Nightlife & Dining",
-    "description": "Rooftop bar with best views of Petronas Towers, cocktails and dining",
-    "location": "Traders Hotel, KLCC",
-    "duration": "2-3 hours",
-    "cost_myr": "80-150",
-    "cost_usd": "19-36 per person",
-    "best_time": "Sunset to evening",
-    "transportation": "Short walk from KLCC or Grab",
-    "transport_cost": "RM 5-15",
-    "highlights": [
-      "Best Petronas Towers view",
-      "Infinity pool (for hotel guests)",
-      "Stylish rooftop setting",
-      "Cocktails and tapas",
-      "Live DJ some nights"
+    "name": "SuperPark Malaysia",
+    "category": "Adventure & Sports",
+    "subcategory": "Indoor Activity Park",
+    "description": "An all-in-one indoor activity park from Finland with over 20 fun, healthy, and energizing activities across three themed areas: Adventure Area (obstacle walls, trampolines, zip wires, slides, pedal car racing), Game Arena (baseball, street basketball, SuperBall, SuperBowling), and Freestyle Hall (skate and scoot world, trampolines, foam pit, climbing wall, gymnastics floor). Suitable for all ages.",
+    "location": "Unit 4-1, Level 4, Avenue K Shopping Mall, 156, Jalan Ampang, 50450, Kuala Lumpur.",
+    "cost_rm": {
+      "weekday_3hr": 59.90,
+      "weekend_3hr": 70.00
+    },
+    "cost_usd": {
+      "weekday_3hr": 14.00,
+      "weekend_3hr": 16.60
+    },
+    "duration_hours": 3,
+    "best_time": "Weekdays for fewer crowds. Open daily 10 AM - 7 PM (3hr/session).",
+    "tips": "Wear comfortable sports attire and grip socks (mandatory, can be purchased separately). Arrive 15 minutes early. Book tickets online in advance, especially for weekends. Great for groups and families.",
+    "photos": [
+      "/KL-trip/assets/images/activities/superpark-malaysia/1.jpg",
+      "/KL-trip/assets/images/activities/superpark-malaysia/2.jpg",
+      "/KL-trip/assets/images/activities/superpark-malaysia/3.jpg"
     ],
-    "tips": [
-      "Arrive before sunset",
-      "Smart casual dress code",
-      "Book ahead for weekends",
-      "Minimum spend may apply"
-    ],
-    "suitable_for": [
-      "Couples",
-      "Groups",
-      "Nightlife",
-      "Special occasions"
-    ],
-    "difficulty": "Easy"
+    "added_date": "2025-10-09",
+    "source": "proactive_research"
   },
   {
     "id": 18,
-    "name": "Pavilion KL Shopping Mall",
-    "category": "Shopping & Dining",
-    "description": "Upscale shopping mall with international brands and dining options",
-    "location": "Bukit Bintang",
-    "duration": "2-4 hours",
-    "cost_myr": "0-1000+",
-    "cost_usd": "0-240+ (shopping dependent)",
-    "best_time": "Afternoon (air-conditioned escape)",
-    "transportation": "Monorail to Bukit Bintang",
-    "transport_cost": "RM 2-5",
-    "highlights": [
-      "450+ retail stores",
-      "International and local brands",
-      "Food court and restaurants",
-      "Tokyo Street food area",
-      "Regular events and exhibitions"
+    "name": "ESCAPE Petaling Jaya",
+    "category": "Adventure & Sports",
+    "subcategory": "Indoor Theme Park",
+    "description": "An indoor adventure theme park located in Paradigm Mall, Petaling Jaya. It features a variety of rides and games such as Monkey Business (rope course), Banana Flip (slide), Monkey School (kids' rope courses), Aerobat (flying trapeze), and Zoom Bug (trike ride). It caters to all age groups and physical abilities, encouraging healthy, family-friendly play.",
+    "location": "GB-07 Level G, Paradigm Mall, No.1, Jalan SS7/26A, 47301 Petaling Jaya, Selangor, Malaysia.",
+    "cost_rm": "Varies, tickets sold online only. Subject to 5% entertainment tax.",
+    "cost_usd": "Starts from approximately $20.87 (Traveloka) or $24.42 (Trip.com).",
+    "duration_hours": 8,
+    "best_time": "Open daily 10 AM - 8 PM. Arrive early to enjoy all attractions. Weekdays might be less crowded.",
+    "tips": "Wear comfortable sports clothing and closed-toe shoes. Facial recognition ticketing system requires selfie upload. Reschedule at least 1 day ahead for individuals. Great for groups and team building.",
+    "photos": [
+      "/KL-trip/assets/images/activities/escape-petaling-jaya/1.jpeg",
+      "/KL-trip/assets/images/activities/escape-petaling-jaya/2.jpeg",
+      "/KL-trip/assets/images/activities/escape-petaling-jaya/3.jpeg"
     ],
-    "tips": [
-      "Check for sales and promotions",
-      "Food court offers variety",
-      "Good for escaping heat",
-      "Connected to other malls via walkways"
-    ],
-    "suitable_for": [
-      "Shoppers",
-      "Foodies",
-      "Families",
-      "Rainy day activity"
-    ],
-    "difficulty": "Easy"
+    "added_date": "2025-10-09",
+    "source": "proactive_research"
   },
   {
     "id": 19,
-    "name": "Genting Highlands Day Trip",
-    "category": "Day Trips",
-    "description": "Hill resort with theme park, casino, and cooler weather, 1 hour from KL",
-    "location": "Genting Highlands, Pahang (50km from KL)",
-    "duration": "Full day (6-8 hours)",
-    "cost_myr": "100-200",
-    "cost_usd": "24-48 (transport + activities)",
-    "best_time": "Full day trip, start early",
-    "transportation": "Tour bus or Grab + cable car",
-    "transport_cost": "RM 50-80 transport, RM 40 cable car",
-    "highlights": [
-      "Genting Skyway cable car",
-      "Theme parks (indoor & outdoor)",
-      "Casino",
-      "Cooler mountain weather (22°C)",
-      "Shopping and dining",
-      "Chin Swee Temple"
+    "name": "LYL International Karting Circuit",
+    "category": "Adventure & Sports",
+    "subcategory": "Go-Karting",
+    "description": "Asia's largest karting circuit with a 1.5km FIA-certified track, offering top-of-the-line rental karts (270cc for beginners, 390cc for experienced drivers). Features 15 garages, workshops, and a grandstand with a complete view of the track.",
+    "location": "Lot 683, Jalan Persiaran Bukit Enggang, Sungai Long Hill, Sungai Long, Cheras, Selangor, Malaysia.",
+    "cost_rm": {
+      "270cc_10min": 70,
+      "390cc_10min": 90
+    },
+    "cost_usd": {
+      "270cc_10min": 15.00,
+      "390cc_10min": 19.00
+    },
+    "duration_hours": 0.5,
+    "best_time": "Open daily 12 PM - 12 AM. Evenings might be cooler for racing.",
+    "tips": "Mandatory to use balaclava, gloves, and closed-toe shoes (can be purchased on-site). Age and height requirements: 140cm & 10 years old above for 270cc. 390cc requires valid racing license or 1min 35sec on 270cc, minimum 17 years old.",
+    "photos": [
+      "/KL-trip/assets/images/activities/lyl-circuit/1.png",
+      "/KL-trip/assets/images/activities/lyl-circuit/2.jpg",
+      "/KL-trip/assets/images/activities/lyl-circuit/3.jpg"
     ],
-    "tips": [
-      "Bring jacket (cooler weather)",
-      "Book theme park tickets online",
-      "Cable car can have long queues",
-      "Full day required"
-    ],
-    "suitable_for": [
-      "Families",
-      "Theme park lovers",
-      "Day trippers",
-      "Cooler weather seekers"
-    ],
-    "difficulty": "Easy (requires full day)"
+    "added_date": "2025-10-09",
+    "source": "proactive_research"
   },
   {
     "id": 20,
-    "name": "Helipad Bar",
-    "category": "Nightlife & Views",
-    "description": "Unique rooftop bar on former helipad with 360-degree city views",
-    "location": "Menara KH, near Petronas Towers",
-    "duration": "2-3 hours",
-    "cost_myr": "60-120",
-    "cost_usd": "14-29 per person",
-    "best_time": "Evening to night",
-    "transportation": "Grab taxi from KLCC area",
-    "transport_cost": "RM 10-15",
-    "highlights": [
-      "Actual helipad converted to bar",
-      "360-degree views",
-      "Unique atmosphere",
-      "Cocktails and music",
-      "Instagram-worthy"
+    "name": "Skytrex Adventure Sg Congkak",
+    "category": "Adventure & Sports",
+    "subcategory": "Zipline & Forest Adventure",
+    "description": "The first flying fox park by Skytrex Adventure, located in the cool and hilly area of Hulu Langat. It offers various circuits like River Thrill (Intermediate) and Rapid Extreme (Advanced), with cascading rapids and waterfalls amidst a lush tropical forest.",
+    "location": "Hulu Langat, Selangor, Malaysia.",
+    "cost_rm": {
+      "river_thrill_online": 55,
+      "rapid_extreme_online": 65,
+      "double_dare_online": 110
+    },
+    "cost_usd": {
+      "river_thrill_online": 12.00,
+      "rapid_extreme_online": 14.00,
+      "double_dare_online": 24.00
+    },
+    "duration_hours": 1.5,
+    "best_time": "Daily, first departure 9 AM, last departure 3:30 PM. Book online to secure a slot.",
+    "tips": "Wear comfortable clothing and closed-toe shoes. Online purchase is required. Child below 18 years requires disclaimer form signed by parents/guardians. Parking is RM5 per entry.",
+    "photos": [
+      "/KL-trip/assets/images/activities/skytrex-sg-congkak/1.jpg",
+      "/KL-trip/assets/images/activities/skytrex-sg-congkak/2.jpg",
+      "/KL-trip/assets/images/activities/skytrex-sg-congkak/3.jpg"
     ],
-    "tips": [
-      "Check if open (sometimes closed for events)",
-      "Smart casual dress code",
-      "Can get crowded on weekends",
-      "Bring ID"
+    "added_date": "2025-10-09",
+    "source": "proactive_research"
+  },
+  {
+    "id": 21,
+    "name": "Jump Street Trampoline Park",
+    "category": "Adventure & Sports",
+    "subcategory": "Trampoline Park",
+    "description": "Malaysia's #1 Trampoline Indoor Park, offering wall-to-wall trampolines, foam pits, slam dunk zones, and other attractions like AirBag, Main Court, High Performance, Dodgeball, Zipline, Velcro Wall, and The Wall. Suitable for all ages and skill levels.",
+    "location": "8A, Jalan 13/6, Seksyen 13, 46200 Petaling Jaya, Selangor, Malaysia.",
+    "cost_rm": {
+      "weekday_1hr": 30,
+      "weekend_1hr": 35
+    },
+    "cost_usd": {
+      "weekday_1hr": 6.50,
+      "weekend_1hr": 7.50
+    },
+    "duration_hours": 1,
+    "best_time": "Open daily. Weekdays for fewer crowds. Check website for specific opening hours.",
+    "tips": "Wear comfortable clothing. Grip socks are usually required (can be purchased on-site). Book tickets online in advance. Great for groups and parties.",
+    "photos": [
+      "/KL-trip/assets/images/activities/jump-street/1.jpg",
+      "/KL-trip/assets/images/activities/jump-street/2.jpg",
+      "/KL-trip/assets/images/activities/jump-street/3.jpg"
     ],
-    "suitable_for": [
-      "Nightlife",
-      "Unique experiences",
-      "Groups",
-      "Photography"
+    "added_date": "2025-10-09",
+    "source": "proactive_research"
+  },
+  {
+    "id": 22,
+    "name": "Sunway Lagoon Theme Park",
+    "category": "Adventure & Sports",
+    "subcategory": "Theme Park",
+    "description": "A multi-park destination offering over 90 attractions across 6 parks: Water Park, Amusement Park, Wildlife Park, Extreme Park, Scream Park, and Nickelodeon Lost Lagoon. It provides a wide range of entertainment for all ages.",
+    "location": "3, Jalan PJS 11/11, Bandar Sunway, 47500 Selangor Darul Ehsan, Malaysia.",
+    "cost_rm": {
+      "adult": 220,
+      "child_senior": 185
+    },
+    "cost_usd": {
+      "adult": 48.00,
+      "child_senior": 40.00
+    },
+    "duration_hours": 8,
+    "best_time": "Open Wed-Mon, 10 AM - 11 PM. Weekdays are less crowded. Arrive early to maximize your time.",
+    "tips": "Wear comfortable clothing and swimwear. Sunscreen is essential. Rent a locker for your belongings. Consider a 2-day pass for a more relaxed experience. Closed on Tuesdays, except on Malaysian school & public holidays.",
+    "photos": [
+      "/KL-trip/assets/images/activities/sunway-lagoon/1.jpg",
+      "/KL-trip/assets/images/activities/sunway-lagoon/2.jpg",
+      "/KL-trip/assets/images/activities/sunway-lagoon/3.jpg"
     ],
-    "difficulty": "Easy"
+    "added_date": "2025-10-09",
+    "source": "proactive_research"
   }
 ]
