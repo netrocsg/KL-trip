@@ -20,7 +20,7 @@ function displayActivities(activities) {
     
     grid.innerHTML = activities.map(activity => `
             <div class="activity-detail-card" data-category="${activity.category}">
-                <div class="activity-detail-image" style="background-image: url(\'${activity.photos[0]}\')">
+                 <div class="activity-detail-image" style="background-image: url(\'${activity.photos[0]}\')">
                     <div class="activity-category">${activity.category}</div>
                 </div>
                 <div class="activity-detail-content">
