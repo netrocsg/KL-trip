@@ -84,7 +84,7 @@
       "description": "District 21 is an apocalypse-themed indoor adventure park located in IOI City Mall, Putrajaya. It features 8 prominent attractions including a Tubby Ride, Launch Pad trampolines, and various climbing and sliding activities. It's designed for all ages and offers a unique, active experience.",
       "location": "IOI City Mall, Putrajaya, 62502 Putrajaya, Wilayah Persekutuan Putrajaya",
       "cost_rm": 64,
-      "cost_usd": 13.60,
+      "cost_usd": 13.6,
       "duration_hours": 3,
       "best_time": "Weekdays are less crowded. Open from 12 PM - 8 PM on weekdays and 10 AM - 8 PM on weekends/public holidays.",
       "tips": "Wear comfortable clothing and sports shoes are compulsory for active tickets. Book tickets online in advance to avoid queues. Lockers are available for personal belongings.",
@@ -264,7 +264,139 @@
       ],
       "added_date": "2025-10-10",
       "source": "proactive_research"
+    },
+    {
+      "id": 15,
+      "name": "Windlab Indoor Skydiving",
+      "category": "Adventure & Sports",
+      "subcategory": "Indoor Skydiving",
+      "description": "Malaysia's only indoor skydiving wind tunnel facility. Simulates free-fall in a vertical wind tunnel within a safe and controlled environment. Perfect for beginners to experienced skydivers.",
+      "location": "Level 2, 1Utama Shopping Centre, Petaling Jaya, Selangor",
+      "cost_rm": 108,
+      "cost_usd": 22.95,
+      "duration_hours": 2,
+      "best_time": "Weekdays for off-peak pricing",
+      "tips": "Arrive 1 hour before flight time, wear closed-toe laced shoes, free lockers available, can add High Ride for RM35 extra.",
+      "photos": [
+        "/KL-trip/assets/images/activities/windlab-indoor-skydiving/1.jpg",
+        "/KL-trip/assets/images/activities/windlab-indoor-skydiving/2.jpg"
+      ],
+      "added_date": "2025-10-10",
+      "source": "proactive_research"
+    },
+    {
+      "id": 16,
+      "name": "MikeBikes Cycling Tour",
+      "category": "Adventure & Sports",
+      "subcategory": "Cycling Tour",
+      "description": "Discover the real Kuala Lumpur on a guided cycling tour. MikeBikes offers several routes, including the 'Authentic Experience', which takes you through hidden gems and local markets.",
+      "location": "Starts at MaTIC, 109, Jalan Ampang, 50450 Kuala Lumpur",
+      "cost_rm": 165,
+      "cost_usd": 35.0,
+      "duration_hours": 2.5,
+      "best_time": "Morning tours to avoid the heat",
+      "tips": "Book in advance. Suitable for all fitness levels. Includes bike, helmet, water, and a local guide. A great way to see the city from a different perspective.",
+      "photos": [
+        "/KL-trip/assets/images/activities/mikebikes-cycling-tour/1.jpg",
+        "/KL-trip/assets/images/activities/mikebikes-cycling-tour/2.jpg"
+      ],
+      "added_date": "2025-10-10",
+      "source": "proactive_research"
+    },
+    {
+      "id": 17,
+      "name": "Laser Battle",
+      "category": "Adventure & Sports",
+      "subcategory": "Laser Tag",
+      "description": "Engage in a futuristic battle at Asia's largest laser tag center. With a 5000 sqf arena and over 55 game modes, it offers an immersive and tactical experience for groups.",
+      "location": "Level 7, Berjaya Times Square, No.1, Jalan Imbi, 55100 Kuala Lumpur",
+      "cost_rm": 33,
+      "cost_usd": 7.15,
+      "duration_hours": 0.17,
+      "best_time": "Weekdays are less crowded",
+      "tips": "Book your time slot via WhatsApp. Arrive 10 minutes early. Each mission is 10 minutes long. Great for a quick, high-energy activity.",
+      "photos": [
+        "/KL-trip/assets/images/activities/laser-battle-kl/1.jpg",
+        "/KL-trip/assets/images/activities/laser-battle-kl/2.jpg"
+      ],
+      "added_date": "2025-10-10",
+      "source": "proactive_research"
+    },
+    {
+      "id": 18,
+      "name": "Breakout Escape Room",
+      "category": "Adventure & Sports",
+      "subcategory": "Escape Room",
+      "description": "Challenge your mind with intricate puzzles and immersive storylines. Breakout offers a variety of themed escape rooms that require teamwork and problem-solving skills to complete within the time limit.",
+      "location": "Avenue K, 156, Jln Ampang, 50450 Kuala Lumpur",
+      "cost_rm": 38,
+      "cost_usd": 8.07,
+      "duration_hours": 1,
+      "best_time": "Anytime, but booking is essential",
+      "tips": "Perfect for a group of 8, which costs RM 38 per person. Choose your themed room in advance from their website. Arrive on time for your briefing.",
+      "photos": [
+        "/KL-trip/assets/images/activities/breakout-escape-room/1.jpg",
+        "/KL-trip/assets/images/activities/breakout-escape-room/2.jpg"
+      ],
+      "added_date": "2025-10-10",
+      "source": "proactive_research"
+    },
+    {
+      "id": 19,
+      "name": "Jump Street Trampoline Park",
+      "category": "Adventure & Sports",
+      "subcategory": "Trampoline Park",
+      "description": "Defy gravity at Malaysia's first trampoline park. With over 9,000 sqft of interconnected trampolines, foam pits, dodgeball courts, and basketball lanes, it's a high-flying adventure for all ages.",
+      "location": "8A, Jalan 13/6, Seksyen 13, 46200 Petaling Jaya, Selangor",
+      "cost_rm": 50,
+      "cost_usd": 10.69,
+      "duration_hours": 3,
+      "best_time": "Book a 3-hour session for the best value",
+      "tips": "Grip socks are required and can be purchased there. Book online to secure your spot, as capacity is limited. Great for a full-body workout that's also fun.",
+      "photos": [
+        "/KL-trip/assets/images/activities/jump-street-trampoline/1.jpg",
+        "/KL-trip/assets/images/activities/jump-street-trampoline/2.jpg"
+      ],
+      "added_date": "2025-10-10",
+      "source": "proactive_research"
+    },
+    {
+      "id": 20,
+      "name": "KL Forest Eco Park & Canopy Walk",
+      "category": "Adventure & Sports",
+      "subcategory": "Nature & Hiking",
+      "description": "Escape the city bustle in one of Malaysia's oldest forest reserves, right in the heart of KL. The main attraction is the 200m-long canopy walk, offering stunning views of the forest and city skyline.",
+      "location": "Bukit Nanas, near KL Tower, Kuala Lumpur",
+      "cost_rm": 40,
+      "cost_usd": 8.5,
+      "duration_hours": 1.5,
+      "best_time": "Morning to enjoy cooler temperatures and softer light",
+      "tips": "Wear comfortable walking shoes. The entrance is near the KL Tower. It's a relatively easy walk, suitable for most fitness levels. A great combination of nature and city views.",
+      "photos": [
+        "/KL-trip/assets/images/activities/kl-forest-eco-park/1.jpg",
+        "/KL-trip/assets/images/activities/kl-forest-eco-park/2.jpg"
+      ],
+      "added_date": "2025-10-10",
+      "source": "proactive_research"
+    },
+    {
+      "id": 21,
+      "name": "Kampar River White Water Rafting",
+      "category": "Adventure & Sports",
+      "subcategory": "Water Sports",
+      "description": "Embark on a thrilling white water rafting adventure on the Kampar River. This full-day trip from KL includes tackling 9 rapids over a 7km stretch, surrounded by beautiful rainforest scenery.",
+      "location": "Kampar River, Perak (transport from KL included)",
+      "cost_rm": 660,
+      "cost_usd": 140.0,
+      "duration_hours": 8,
+      "best_time": "Full-day trip, typically starts early morning",
+      "tips": "This is a full-day commitment. Price usually includes hotel pickup, lunch, and all equipment. Bring a change of clothes, a towel, and a waterproof bag.",
+      "photos": [
+        "/KL-trip/assets/images/activities/kampar-white-water-rafting/1.jpg",
+        "/KL-trip/assets/images/activities/kampar-white-water-rafting/2.jpg"
+      ],
+      "added_date": "2025-10-10",
+      "source": "proactive_research"
     }
   ]
 }
-
