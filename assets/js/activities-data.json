@@ -1092,5 +1092,265 @@
     ],
     "added_date": "2025-10-10",
     "source": "proactive_research"
+  },
+  {
+    "id": 44,
+    "name": "GP Meta Kart - Berjaya Times Square",
+    "category": "Adventure & Sports",
+    "description": "Experience high-speed indoor go-kart racing in a futuristic underground track at Berjaya Times Square. The compact but thrilling circuit features modern karts and a neon-lit atmosphere perfect for both racing and photography. Located in the heart of Bukit Bintang, this is the most accessible go-karting option for tourists staying in central KL, offering an adrenaline rush without leaving the city center.",
+    "location": "Level B3, Berjaya Times Square, No. 1 Jalan Imbi, Kuala Lumpur",
+    "duration": "1-1.5 hours",
+    "cost_myr": "40",
+    "cost_usd": "$9",
+    "best_time": "Early afternoon or weekdays to avoid crowds",
+    "transportation": "Walking distance from Bukit Bintang, Monorail to Imbi station",
+    "transport_cost": "RM 0-5",
+    "highlights": [
+      "Indoor go-kart track in city center",
+      "Modern karts with safety features",
+      "Futuristic neon-lit atmosphere",
+      "Perfect for groups and competitions",
+      "No driver's license required"
+    ],
+    "tips": [
+      "Visit early to avoid crowds",
+      "Look for BTS Theme Park combo discounts",
+      "The track has a cool, modern design for great photos",
+      "10-minute sessions are perfect for beginners"
+    ],
+    "suitable_for": [
+      "Groups",
+      "Thrill-seekers",
+      "Competitive friends",
+      "All skill levels"
+    ],
+    "difficulty": "Easy",
+    "photos": [
+      "/KL-trip/assets/images/activities/go-kart-berjaya-times-square/1.jpg",
+      "/KL-trip/assets/images/activities/go-kart-berjaya-times-square/2.jpg"
+    ],
+    "added_date": "2025-10-10",
+    "source": "proactive_research"
+  },
+  {
+    "id": 45,
+    "name": "Camp5 Climbing Gym - KL Eco City",
+    "category": "Adventure & Sports",
+    "description": "Malaysia's most popular climbing gym chain offers spacious layouts, high ceilings up to 15 meters, and a comprehensive range of rock climbing and bouldering walls. The KL Eco City branch provides excellent facilities for both beginners and experienced climbers, with professional instructors and quality equipment. Perfect for groups wanting an active, challenging experience that builds teamwork and confidence while getting a full-body workout.",
+    "location": "KL Eco City, approximately 15-20 minutes from KLCC",
+    "duration": "1.5-2 hours",
+    "cost_myr": "32",
+    "cost_usd": "$7 (via Klook for 1-hour guided session)",
+    "best_time": "Morning or early afternoon for less crowds",
+    "transportation": "Grab taxi from city center",
+    "transport_cost": "RM 15-20 Grab",
+    "highlights": [
+      "15-meter high climbing walls",
+      "Bouldering and top-rope climbing",
+      "Professional instruction included",
+      "Spacious facility with high ceilings",
+      "Suitable for all skill levels"
+    ],
+    "tips": [
+      "Book online via Klook for best prices",
+      "Wear comfortable athletic clothing",
+      "No experience necessary - full training provided",
+      "Great for team building and group bonding"
+    ],
+    "suitable_for": [
+      "Active travelers",
+      "Team building",
+      "Fitness enthusiasts",
+      "All skill levels"
+    ],
+    "difficulty": "Moderate",
+    "photos": [
+      "/KL-trip/assets/images/activities/camp5-climbing-eco-city/1.jpg",
+      "/KL-trip/assets/images/activities/camp5-climbing-eco-city/2.jpg",
+      "/KL-trip/assets/images/activities/camp5-climbing-eco-city/3.jpg"
+    ],
+    "added_date": "2025-10-10",
+    "source": "proactive_research"
+  },
+  {
+    "id": 46,
+    "name": "WINDLAB Indoor Skydiving",
+    "category": "Adventure & Sports",
+    "description": "Experience the thrill of skydiving without jumping from a plane at Malaysia's only vertical wind tunnel. WINDLAB simulates free-fall in a safe, controlled environment suitable for ages 3 to 100. The experience includes professional training, all equipment (helmet, goggles, flight suit), and flights where you'll float in the wind tunnel. This bucket-list activity offers the sensation of skydiving with complete safety, making it perfect for thrill-seekers of all ages.",
+    "location": "Level 2, 1Utama Shopping Centre, Petaling Jaya",
+    "duration": "1.5 hours total (arrive 1 hour before flight)",
+    "cost_myr": "138",
+    "cost_usd": "$31 for 2 flights (peak), $24 off-peak",
+    "best_time": "Weekday off-peak (Mon-Fri) for better pricing",
+    "transportation": "Grab taxi from city center",
+    "transport_cost": "RM 30-40 Grab",
+    "highlights": [
+      "Malaysia's only vertical wind tunnel",
+      "Simulates skydiving experience safely",
+      "Professional training and equipment included",
+      "Suitable for ages 3 to 100",
+      "High Ride option to 10m tunnel top (+RM35)"
+    ],
+    "tips": [
+      "Arrive 1 hour early for check-in and training",
+      "Wear closed-toe laced shoes",
+      "Free viewing gallery for spectators",
+      "Photos and videos available for purchase",
+      "Off-peak rates save RM30 per person"
+    ],
+    "suitable_for": [
+      "Thrill-seekers",
+      "Unique experiences",
+      "All fitness levels",
+      "Bucket list activity"
+    ],
+    "difficulty": "Easy",
+    "photos": [],
+    "added_date": "2025-10-10",
+    "source": "proactive_research"
+  },
+  {
+    "id": 47,
+    "name": "Beast Park @ JUMPA Sungei Wang",
+    "category": "Adventure & Sports",
+    "description": "A comprehensive indoor adventure park in the heart of Bukit Bintang featuring rock climbing walls up to 15 meters high (operated by Camp5), Ninja warrior courses, rope courses, fun caves for kids, swings, and training studios. Beast Park offers multiple activities under one roof, making it perfect for groups who want variety and don't want to travel far. The diverse challenges cater to different fitness levels and interests.",
+    "location": "Level 3, JUMPA @ Sungei Wang, Jalan Sultan Ismail, Bukit Bintang, 55100 KL",
+    "duration": "2-3 hours",
+    "cost_myr": "50",
+    "cost_usd": "$11 (varies by package)",
+    "best_time": "Weekday afternoons for less crowds",
+    "transportation": "Walking distance from Bukit Bintang hotels",
+    "transport_cost": "RM 0-5",
+    "highlights": [
+      "Multiple activities in one location",
+      "15m high climbing walls",
+      "Ninja warrior obstacle courses",
+      "Rope courses and swings",
+      "Located in Bukit Bintang area"
+    ],
+    "tips": [
+      "Book combo packages for better value",
+      "Suitable for mixed fitness levels",
+      "Great for team building and group bonding",
+      "Can spend 2-3 hours trying different activities"
+    ],
+    "suitable_for": [
+      "Groups",
+      "Families",
+      "Adventure seekers",
+      "Variety of activities"
+    ],
+    "difficulty": "Easy to Moderate",
+    "photos": [],
+    "added_date": "2025-10-10",
+    "source": "proactive_research"
+  },
+  {
+    "id": 48,
+    "name": "Jump Street Asia Trampoline Park",
+    "category": "Adventure & Sports",
+    "description": "Malaysia's first trampoline park features wall-to-wall trampolines, foam pits, slam dunk zones, trampoline dodgeball courts, and trampoline basketball lanes. The gigantic main court offers endless bouncing fun, while specialized areas provide unique challenges. Perfect for burning energy, laughing with friends, and trying acrobatic moves in a safe, padded environment. It's a great cardio workout disguised as pure fun.",
+    "location": "8A, Jalan 13/6, Seksyen 13, 46200 Petaling Jaya, Selangor",
+    "duration": "2-3 hours",
+    "cost_myr": "35",
+    "cost_usd": "$8 for 2-hour session",
+    "best_time": "Weekday afternoons to avoid crowds",
+    "transportation": "Grab taxi from city center",
+    "transport_cost": "RM 25-30 Grab",
+    "highlights": [
+      "Malaysia's first trampoline park",
+      "Wall-to-wall trampolines",
+      "Foam pits and slam dunk zones",
+      "Trampoline dodgeball courts",
+      "Great cardio workout"
+    ],
+    "tips": [
+      "Wear comfortable athletic clothing",
+      "Grip socks required (can purchase on-site)",
+      "Book online for better rates",
+      "Great cardio workout disguised as fun"
+    ],
+    "suitable_for": [
+      "Active groups",
+      "Fun-seekers",
+      "All ages",
+      "Team bonding"
+    ],
+    "difficulty": "Easy to Moderate",
+    "photos": [],
+    "added_date": "2025-10-10",
+    "source": "proactive_research"
+  },
+  {
+    "id": 49,
+    "name": "Laser Battle KL",
+    "category": "Adventure & Sports",
+    "description": "One of Asia's largest laser tag centers with a 5,000 square foot arena featuring state-of-the-art tactical and interactive game modes. Engage in thrilling team-based combat in a multi-level arena with obstacles, hiding spots, and strategic positions. Perfect for groups of 8 who want competitive team-building fun without physical contact or mess. The high-tech equipment and immersive environment create an exciting gaming experience.",
+    "location": "Berjaya Times Square, Kuala Lumpur",
+    "duration": "1-1.5 hours",
+    "cost_myr": "30",
+    "cost_usd": "$7 per person per game",
+    "best_time": "Evening or weekends for full group experience",
+    "transportation": "Walking distance from Bukit Bintang, Monorail to Imbi station",
+    "transport_cost": "RM 0-5",
+    "highlights": [
+      "5,000 sqft multi-level arena",
+      "State-of-the-art laser tag equipment",
+      "Tactical and interactive game modes",
+      "Perfect for team building",
+      "No mess, no physical contact"
+    ],
+    "tips": [
+      "Book for groups in advance",
+      "Wear dark comfortable clothing",
+      "Multiple game modes available",
+      "Can combine with go-karting at same location"
+    ],
+    "suitable_for": [
+      "Groups",
+      "Team building",
+      "Competitive fun",
+      "All fitness levels"
+    ],
+    "difficulty": "Easy",
+    "photos": [],
+    "added_date": "2025-10-10",
+    "source": "proactive_research"
+  },
+  {
+    "id": 50,
+    "name": "The Bomb Battle - Axe Throwing",
+    "category": "Adventure & Sports",
+    "description": "Release stress and channel your inner lumberjack at Malaysia's premier axe throwing venues. Under safe, instructor-led supervision, learn the art of axe throwing and compete with friends to hit the bullseye. This unique activity combines skill, focus, and a bit of primal satisfaction. Perfect for groups wanting something different and memorable, axe throwing offers a fun way to bond while trying something completely new.",
+    "location": "Multiple locations in KL/Selangor area",
+    "duration": "1-1.5 hours",
+    "cost_myr": "50",
+    "cost_usd": "$11 per person",
+    "best_time": "Evening sessions",
+    "transportation": "Varies by location, check nearest branch",
+    "transport_cost": "RM 15-30 Grab (varies)",
+    "highlights": [
+      "Unique axe throwing experience",
+      "Professional instructor-led sessions",
+      "Safe and controlled environment",
+      "Great for stress relief",
+      "Friendly competition"
+    ],
+    "tips": [
+      "Instructor provides full safety training",
+      "Closed-toe shoes required",
+      "Great for stress relief and friendly competition",
+      "Can be combined with other activities at some venues"
+    ],
+    "suitable_for": [
+      "Adults",
+      "Unique experiences",
+      "Competitive groups",
+      "Stress relief"
+    ],
+    "difficulty": "Easy",
+    "photos": [],
+    "added_date": "2025-10-10",
+    "source": "proactive_research"
   }
 ]
