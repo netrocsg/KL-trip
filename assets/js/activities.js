@@ -5,7 +5,7 @@ let allActivities = [];
 async function loadAllActivities() {
 
     try {
-        const response = await fetch("../assets/js/activities-data.json");
+        const response = await fetch("../assets/activities.json");
         allActivities = await response.json();
 
         displayActivities(allActivities);
