@@ -146,7 +146,7 @@ let allActivities = [
     "name": "Jump Street Trampoline Park",
     "category": "Adventure & Sports",
     "subcategory": "Trampoline Park",
-    "description": "Malaysia's first indoor trampoline park, offering a variety of trampoline-based activities including free jumping, dodgeball, basketball, and a foam pit. Suitable for all ages.",
+    "description": "Malaysia\\'s first indoor trampoline park, offering a variety of trampoline-based activities including free jumping, dodgeball, basketball, and a foam pit. Suitable for all ages.",
     "location": "No. 8, Jalan 13/6, Seksyen 13, 46200 Petaling Jaya, Selangor, Malaysia.",
     "cost_rm": {
       "per_hour": 30,
@@ -198,17 +198,26 @@ let allActivities = [
 ];
 
 function loadAllActivities() {
+    console.log('loadAllActivities started');
     displayActivities(allActivities);
     setupFilters();
+    console.log('loadAllActivities finished');
 }
 
 function displayActivities(activities) {
+    console.log('displayActivities started with', activities.length, 'activities');
     const grid = document.getElementById('activities-full-grid');
-    if (!grid) return;
+    if (!grid) {
+        console.error('activities-full-grid element not found');
+        return;
+    }
     
     const votes = getVotes();
+    console.log('Votes fetched:', votes);
     
-    grid.innerHTML = activities.map(activity => `
+    grid.innerHTML = activities.map(activity => {
+        console.log('Rendering activity:', activity.name);
+        return `
             <div class="activity-detail-card" data-category="${activity.category}">
                  <div class="activity-detail-image" style="background-image: url('${activity.photos[0]}')">
                     <div class="activity-category">${activity.category}</div>
@@ -257,15 +266,19 @@ function displayActivities(activities) {
                     </div>
                 </div>
             </div>
-        `)
+        `;
+    })
     .join('');
+    console.log('displayActivities finished');
 }
 
 function setupFilters() {
+    console.log('setupFilters started');
     const filterBtns = document.querySelectorAll('.filter-btn');
     
     filterBtns.forEach(btn => {
         btn.addEventListener('click', () => {
+            console.log('Filter button clicked:', btn.dataset.filter);
             // Update active state
             filterBtns.forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
@@ -280,10 +293,17 @@ function setupFilters() {
             }
         });
     });
+    console.log('setupFilters finished');
+}
+
+// Dummy getVotes function for now, as it's not defined elsewhere
+function getVotes() {
+    return { activities: {} };
 }
 
 // Initialize on page load
 document.addEventListener('DOMContentLoaded', () => {
+    console.log('DOMContentLoaded event fired');
     loadAllActivities();
 });
 
