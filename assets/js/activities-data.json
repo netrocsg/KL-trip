@@ -313,7 +313,6 @@
       "Canopy walkway among treetops",
       "City skyline views from forest",
       "Native wildlife",
-      "Nature trails",
       "Unique urban forest experience"
     ],
     "tips": [
@@ -522,1228 +521,171 @@
       "/KL-trip/assets/images/activities/district-21/3.jpg"
     ],
     "added_date": "2025-10-09",
-    "source": "proactive_research"
+    "source": "proactive_research",
+    "difficulty": "Moderate"
   },
   {
     "id": 17,
     "name": "SuperPark Malaysia",
     "category": "Adventure & Sports",
     "subcategory": "Indoor Activity Park",
-    "description": "An all-in-one indoor activity park from Finland with over 20 fun, healthy, and energizing activities across three themed areas: Adventure Area (obstacle walls, trampolines, zip wires, slides, pedal car racing), Game Arena (baseball, street basketball, SuperBall, SuperBowling), and Freestyle Hall (skate and scoot world, trampolines, foam pit, climbing wall, gymnastics floor). Suitable for all ages.",
-    "location": "Unit 4-1, Level 4, Avenue K Shopping Mall, 156, Jalan Ampang, 50450, Kuala Lumpur.",
+    "description": "A unique, purpose-built indoor activity park from Finland, offering over 20 activities across three themed areas: Adventure Area, Game Arena, and Freestyle Hall. Activities include trampolines, zip wires, climbing walls, and more.",
+    "location": "Unit 4-1, Level 4, Avenue K Shopping Mall, 156, Jalan Ampang, 50450 Kuala Lumpur, Malaysia.",
     "cost_rm": {
-      "weekday_3hr": 59.9,
-      "weekend_3hr": 70.0
+      "weekday": 60,
+      "weekend": 75
     },
     "cost_usd": {
-      "weekday_3hr": 14.0,
-      "weekend_3hr": 16.6
+      "weekday": 14.00,
+      "weekend": 16.60
     },
     "duration_hours": 3,
-    "best_time": "Weekdays for fewer crowds. Open daily 10 AM - 7 PM (3hr/session).",
-    "tips": "Wear comfortable sports attire and grip socks (mandatory, can be purchased separately). Arrive 15 minutes early. Book tickets online in advance, especially for weekends. Great for groups and families.",
+    "best_time": "Weekdays for fewer crowds. Check session times online.",
+    "tips": "Wear comfortable sports attire and grip socks (available for purchase). Book online in advance. Lockers are available.",
     "photos": [
       "/KL-trip/assets/images/activities/superpark-malaysia/1.jpg",
       "/KL-trip/assets/images/activities/superpark-malaysia/2.jpg",
       "/KL-trip/assets/images/activities/superpark-malaysia/3.jpg"
     ],
     "added_date": "2025-10-09",
-    "source": "proactive_research"
+    "source": "proactive_research",
+    "difficulty": "Easy to Moderate"
   },
   {
     "id": 18,
     "name": "ESCAPE Petaling Jaya",
     "category": "Adventure & Sports",
     "subcategory": "Indoor Theme Park",
-    "description": "An indoor adventure theme park located in Paradigm Mall, Petaling Jaya. It features a variety of rides and games such as Monkey Business (rope course), Banana Flip (slide), Monkey School (kids' rope courses), Aerobat (flying trapeze), and Zoom Bug (trike ride). It caters to all age groups and physical abilities, encouraging healthy, family-friendly play.",
-    "location": "GB-07 Level G, Paradigm Mall, No.1, Jalan SS7/26A, 47301 Petaling Jaya, Selangor, Malaysia.",
-    "cost_rm": "Varies, tickets sold online only. Subject to 5% entertainment tax.",
-    "cost_usd": "Starts from approximately $20.87 (Traveloka) or $24.42 (Trip.com).",
+    "description": "An indoor adventure park with thrilling rides and games, promoting play and challenging physical activities. Features include a high-ropes course, zip lines, climbing zones, and a variety of obstacle courses.",
+    "location": "Paradigm Mall, Level 1, 1, Jalan SS 7/26a, SS 7, 47301 Petaling Jaya, Selangor, Malaysia.",
+    "cost_rm": {
+      "junior": 100,
+      "adult": 120
+    },
+    "cost_usd": {
+      "junior": 20.87,
+      "adult": 24.42
+    },
     "duration_hours": 8,
-    "best_time": "Open daily 10 AM - 8 PM. Arrive early to enjoy all attractions. Weekdays might be less crowded.",
-    "tips": "Wear comfortable sports clothing and closed-toe shoes. Facial recognition ticketing system requires selfie upload. Reschedule at least 1 day ahead for individuals. Great for groups and team building.",
+    "best_time": "Weekdays for a less crowded experience. Arrive early to maximize play time.",
+    "tips": "Wear comfortable sports attire. Grip socks are required. Book tickets online. Lockers are available. Facial recognition for entry.",
     "photos": [
-      "/KL-trip/assets/images/activities/escape-petaling-jaya/1.jpeg",
-      "/KL-trip/assets/images/activities/escape-petaling-jaya/2.jpeg",
-      "/KL-trip/assets/images/activities/escape-petaling-jaya/3.jpeg"
+      "/KL-trip/assets/images/activities/escape-petaling-jaya/1.jpg",
+      "/KL-trip/assets/images/activities/escape-petaling-jaya/2.jpg",
+      "/KL-trip/assets/images/activities/escape-petaling-jaya/3.jpg"
     ],
     "added_date": "2025-10-09",
-    "source": "proactive_research"
+    "source": "proactive_research",
+    "difficulty": "Moderate to Challenging"
   },
   {
     "id": 19,
     "name": "LYL International Karting Circuit",
     "category": "Adventure & Sports",
     "subcategory": "Go-Karting",
-    "description": "Asia's largest karting circuit with a 1.5km FIA-certified track, offering top-of-the-line rental karts (270cc for beginners, 390cc for experienced drivers). Features 15 garages, workshops, and a grandstand with a complete view of the track.",
-    "location": "Lot 683, Jalan Persiaran Bukit Enggang, Sungai Long Hill, Sungai Long, Cheras, Selangor, Malaysia.",
+    "description": "An FIA-certified outdoor karting circuit offering a professional racing experience for both beginners and experienced drivers. Features a challenging track layout and well-maintained karts.",
+    "location": "Lot 600, Jalan Sungai Long, Kampung Sungai Long, 43000 Kajang, Selangor, Malaysia.",
     "cost_rm": {
-      "270cc_10min": 70,
-      "390cc_10min": 90
+      "single_kart_10min": 70,
+      "double_kart_10min": 90
     },
     "cost_usd": {
-      "270cc_10min": 15.0,
-      "390cc_10min": 19.0
+      "single_kart_10min": 15.00,
+      "double_kart_10min": 19.00
     },
     "duration_hours": 0.5,
-    "best_time": "Open daily 12 PM - 12 AM. Evenings might be cooler for racing.",
-    "tips": "Mandatory to use balaclava, gloves, and closed-toe shoes (can be purchased on-site). Age and height requirements: 140cm & 10 years old above for 270cc. 390cc requires valid racing license or 1min 35sec on 270cc, minimum 17 years old.",
+    "best_time": "Evenings for cooler weather. Check availability and book in advance.",
+    "tips": "Wear comfortable clothing and closed-toe shoes. Mandatory balaclava and gloves (available for rent/purchase). Minimum age/height requirements apply.",
     "photos": [
-      "/KL-trip/assets/images/activities/lyl-circuit/1.png",
-      "/KL-trip/assets/images/activities/lyl-circuit/2.jpg",
-      "/KL-trip/assets/images/activities/lyl-circuit/3.jpg"
+      "/KL-trip/assets/images/activities/lyl-karting/1.jpg",
+      "/KL-trip/assets/images/activities/lyl-karting/2.jpg",
+      "/KL-trip/assets/images/activities/lyl-karting/3.jpg"
     ],
     "added_date": "2025-10-09",
-    "source": "proactive_research"
+    "source": "proactive_research",
+    "difficulty": "Moderate"
   },
   {
     "id": 20,
     "name": "Skytrex Adventure Sg Congkak",
     "category": "Adventure & Sports",
     "subcategory": "Zipline & Forest Adventure",
-    "description": "The first flying fox park by Skytrex Adventure, located in the cool and hilly area of Hulu Langat. It offers various circuits like River Thrill (Intermediate) and Rapid Extreme (Advanced), with cascading rapids and waterfalls amidst a lush tropical forest.",
-    "location": "Hulu Langat, Selangor, Malaysia.",
+    "description": "An eco-adventure park set in a lush rainforest, offering various aerial obstacle courses and ziplines. Participants navigate through different circuits with varying difficulty levels.",
+    "location": "Hulu Langat, 43100 Selangor, Malaysia.",
     "cost_rm": {
-      "river_thrill_online": 55,
-      "rapid_extreme_online": 65,
-      "double_dare_online": 110
+      "little_adventure": 55,
+      "big_thrill": 75,
+      "extreme_challenge": 110
     },
     "cost_usd": {
-      "river_thrill_online": 12.0,
-      "rapid_extreme_online": 14.0,
-      "double_dare_online": 24.0
+      "little_adventure": 12.00,
+      "big_thrill": 16.50,
+      "extreme_challenge": 24.00
     },
     "duration_hours": 1.5,
-    "best_time": "Daily, first departure 9 AM, last departure 3:30 PM. Book online to secure a slot.",
-    "tips": "Wear comfortable clothing and closed-toe shoes. Online purchase is required. Child below 18 years requires disclaimer form signed by parents/guardians. Parking is RM5 per entry.",
+    "best_time": "Mornings for cooler weather. Book online in advance, especially on weekends.",
+    "tips": "Wear comfortable outdoor clothing and closed-toe shoes. Bring insect repellent and water. Arrive 30 minutes before your session.",
     "photos": [
-      "/KL-trip/assets/images/activities/skytrex-sg-congkak/1.jpg",
-      "/KL-trip/assets/images/activities/skytrex-sg-congkak/2.jpg",
-      "/KL-trip/assets/images/activities/skytrex-sg-congkak/3.jpg"
+      "/KL-trip/assets/images/activities/skytrex-adventure-sg-congkak/1.jpg",
+      "/KL-trip/assets/images/activities/skytrex-adventure-sg-congkak/2.jpg",
+      "/KL-trip/assets/images/activities/skytrex-adventure-sg-congkak/3.jpg"
     ],
     "added_date": "2025-10-09",
-    "source": "proactive_research"
+    "source": "proactive_research",
+    "difficulty": "Varies by circuit (Easy to Extreme)"
   },
   {
     "id": 21,
     "name": "Jump Street Trampoline Park",
     "category": "Adventure & Sports",
     "subcategory": "Trampoline Park",
-    "description": "Malaysia's #1 Trampoline Indoor Park, offering wall-to-wall trampolines, foam pits, slam dunk zones, and other attractions like AirBag, Main Court, High Performance, Dodgeball, Zipline, Velcro Wall, and The Wall. Suitable for all ages and skill levels.",
-    "location": "8A, Jalan 13/6, Seksyen 13, 46200 Petaling Jaya, Selangor, Malaysia.",
+    "description": "Malaysia's first indoor trampoline park, offering a variety of trampoline-based activities including free jumping, dodgeball, basketball, and a foam pit. Suitable for all ages.",
+    "location": "No. 8, Jalan 13/6, Seksyen 13, 46200 Petaling Jaya, Selangor, Malaysia.",
     "cost_rm": {
-      "weekday_1hr": 30,
-      "weekend_1hr": 35
+      "per_hour": 30,
+      "grip_socks": 5
     },
     "cost_usd": {
-      "weekday_1hr": 6.5,
-      "weekend_1hr": 7.5
+      "per_hour": 6.50,
+      "grip_socks": 1.00
     },
     "duration_hours": 1,
-    "best_time": "Open daily. Weekdays for fewer crowds. Check website for specific opening hours.",
-    "tips": "Wear comfortable clothing. Grip socks are usually required (can be purchased on-site). Book tickets online in advance. Great for groups and parties.",
+    "best_time": "Weekdays for fewer crowds. Check session availability online.",
+    "tips": "Wear comfortable clothing. Grip socks are mandatory (can be purchased on-site). Book online to guarantee a spot.",
     "photos": [
-      "/KL-trip/assets/images/activities/jump-street/1.jpg",
-      "/KL-trip/assets/images/activities/jump-street/2.jpg",
-      "/KL-trip/assets/images/activities/jump-street/3.jpg"
+      "/KL-trip/assets/images/activities/jump-street-trampoline-park/1.jpg",
+      "/KL-trip/assets/images/activities/jump-street-trampoline-park/2.jpg",
+      "/KL-trip/assets/images/activities/jump-street-trampoline-park/3.jpg"
     ],
     "added_date": "2025-10-09",
-    "source": "proactive_research"
+    "source": "proactive_research",
+    "difficulty": "Easy to Moderate"
   },
   {
     "id": 22,
     "name": "Sunway Lagoon Theme Park",
     "category": "Adventure & Sports",
     "subcategory": "Theme Park",
-    "description": "A multi-park destination offering over 90 attractions across 6 parks: Water Park, Amusement Park, Wildlife Park, Extreme Park, Scream Park, and Nickelodeon Lost Lagoon. It provides a wide range of entertainment for all ages.",
-    "location": "3, Jalan PJS 11/11, Bandar Sunway, 47500 Selangor Darul Ehsan, Malaysia.",
+    "description": "A massive multi-park destination featuring over 90 attractions across 6 themed zones: Water Park, Amusement Park, Wildlife Park, Extreme Park, Scream Park, and Nickelodeon Lost Lagoon. Offers a full day of entertainment.",
+    "location": "3, Jalan PJS 11/11, Bandar Sunway, 47500 Subang Jaya, Selangor, Malaysia.",
     "cost_rm": {
-      "adult": 220,
-      "child_senior": 185
+      "adult": 202,
+      "child_senior": 170
     },
     "cost_usd": {
-      "adult": 48.0,
-      "child_senior": 40.0
+      "adult": 40.00,
+      "child_senior": 35.00
     },
     "duration_hours": 8,
-    "best_time": "Open Wed-Mon, 10 AM - 11 PM. Weekdays are less crowded. Arrive early to maximize your time.",
-    "tips": "Wear comfortable clothing and swimwear. Sunscreen is essential. Rent a locker for your belongings. Consider a 2-day pass for a more relaxed experience. Closed on Tuesdays, except on Malaysian school & public holidays.",
+    "best_time": "Weekdays for fewer crowds. Arrive early to enjoy all attractions. Avoid public holidays.",
+    "tips": "Wear swimwear and comfortable walking shoes. Bring sunscreen, hat, and sunglasses. Lockers are available for rent. Book tickets online for discounts.",
     "photos": [
-      "/KL-trip/assets/images/activities/sunway-lagoon/1.jpg",
-      "/KL-trip/assets/images/activities/sunway-lagoon/2.jpg",
-      "/KL-trip/assets/images/activities/sunway-lagoon/3.jpg"
+      "/KL-trip/assets/images/activities/sunway-lagoon-theme-park/1.jpg",
+      "/KL-trip/assets/images/activities/sunway-lagoon-theme-park/2.jpg",
+      "/KL-trip/assets/images/activities/sunway-lagoon-theme-park/3.jpg"
     ],
     "added_date": "2025-10-09",
-    "source": "proactive_research"
-  },
-  {
-    "id": 23,
-    "name": "Village Park Restaurant",
-    "category": "Food & Dining",
-    "description": "Village Park Restaurant is legendary for serving one of the best nasi lemak in Kuala Lumpur. This traditional Malay breakfast spot features fluffy coconut rice, crispy fried chicken, sambal chili, hard-boiled egg, and anchovies. The restaurant has been serving locals and tourists for over 20 years and is consistently packed with customers eager to taste their famous dish.",
-    "location": "5, Jalan SS 21/37, Damansara Utama, 47400 Petaling Jaya, Selangor",
-    "duration": "1 hours",
-    "cost_myr": "13",
-    "cost_usd": "$3",
-    "best_time": "Weekday mornings to avoid long queues. Open 7 AM - 3 PM daily.",
-    "tips": [
-      "Arrive early to avoid the crowds, especially on weekends when tour groups visit. The nasi lemak ayam goreng (fried chicken) is the signature dish. Be prepared to wait during peak hours. Cash payment preferred."
-    ],
-    "photos": [
-      "/KL-trip/assets/images/activities/village-park-restaurant/1.jpg"
-    ],
-    "added_date": "2025-10-10",
-    "source": "proactive_research"
-  },
-  {
-    "id": 24,
-    "name": "Jalan Alor Food Street",
-    "category": "Food & Dining",
-    "description": "Jalan Alor is Kuala Lumpur's most famous street food destination, transforming into a bustling night market every evening. This vibrant open-air dining street features dozens of restaurants and stalls serving authentic Malaysian and Chinese cuisine including BBQ seafood, satay, grilled meats, noodles, and local delicacies. The atmosphere is lively with colorful lanterns, outdoor seating, and the aroma of sizzling food.",
-    "location": "Jalan Alor, Bukit Bintang, 50200 Kuala Lumpur",
-    "duration": "2 hours",
-    "cost_myr": "30",
-    "cost_usd": "$7",
-    "best_time": "Evening from 6 PM onwards when the street comes alive. Best visited between 7-9 PM.",
-    "tips": [
-      "Try Wong Ah Wah for famous chicken wings. Prices can vary, so check before ordering. Bargaining is sometimes possible. Bring cash as many stalls don't accept cards. Great for group dining with variety of options."
-    ],
-    "photos": [
-      "/KL-trip/assets/images/activities/jalan-alor-food-street/1.jpg",
-      "/KL-trip/assets/images/activities/jalan-alor-food-street/2.jpg"
-    ],
-    "added_date": "2025-10-10",
-    "source": "proactive_research"
-  },
-  {
-    "id": 25,
-    "name": "Madam Kwan's",
-    "category": "Food & Dining",
-    "description": "Madam Kwan's is an iconic Malaysian restaurant chain known for serving authentic Truly Malaysian cuisine in a comfortable, modern setting. Their menu features classic dishes like nasi lemak, beef rendang, assam laksa, and their famous nasi bojari. The restaurant offers a refined dining experience while maintaining traditional flavors, making it perfect for groups wanting to experience Malaysian food in an air-conditioned environment.",
-    "location": "Suria KLCC, Lot 228, Level 2, Kuala Lumpur City Centre, 50088 Kuala Lumpur",
-    "duration": "1.5 hours",
-    "cost_myr": "40",
-    "cost_usd": "$9",
-    "best_time": "Lunch (11:30 AM - 2 PM) or early dinner (5:30 PM - 7 PM) to avoid peak crowds.",
-    "tips": [
-      "Try the nasi bojari (their signature dish) or nasi lemak with beef rendang. Reservations recommended for large groups. Located conveniently in KLCC for easy access. Credit cards accepted."
-    ],
-    "photos": [
-      "/KL-trip/assets/images/activities/madam-kwans/1.jpg",
-      "/KL-trip/assets/images/activities/madam-kwans/2.jpg"
-    ],
-    "added_date": "2025-10-10",
-    "source": "proactive_research"
-  },
-  {
-    "id": 26,
-    "name": "Merchant's Lane",
-    "category": "Food & Dining",
-    "description": "Merchant's Lane is a trendy, Instagram-worthy cafe hidden in a restored heritage shophouse along Petaling Street in Chinatown. This hipster cafe serves Western cuisine with local twists, excellent coffee, and creative brunch dishes. The interior features vintage decor, exposed brick walls, and a charming courtyard. It's a popular spot for coffee lovers and those seeking a unique dining atmosphere in the heart of old KL.",
-    "location": "150, Jalan Petaling, City Centre, 50000 Kuala Lumpur",
-    "duration": "1.5 hours",
-    "cost_myr": "50",
-    "cost_usd": "$11",
-    "best_time": "Weekday afternoons (2-5 PM) for a quieter experience. Open 11 AM - 11 PM daily.",
-    "tips": [
-      "Try their signature coffee and brunch items. The cafe can get crowded on weekends. Great for photos with its unique heritage interior. Reservations not accepted, so arrive early. Located near Central Market and Petaling Street."
-    ],
-    "photos": [
-      "/KL-trip/assets/images/activities/merchants-lane/1.jpg",
-      "/KL-trip/assets/images/activities/merchants-lane/2.jpg"
-    ],
-    "added_date": "2025-10-10",
-    "source": "proactive_research"
-  },
-  {
-    "id": 27,
-    "name": "Old China Cafe",
-    "category": "Food & Dining",
-    "description": "Old China Cafe is a charming heritage restaurant housed in a beautifully preserved 1920s building that was once a laundry and guild house. Specializing in authentic Nyonya (Peranakan) cuisine, the restaurant offers a unique blend of Chinese and Malay flavors. The atmospheric interior features antique furniture, vintage photos, and traditional decor that transport diners back in time. It's a cultural dining experience showcasing Straits Chinese heritage.",
-    "location": "11, Jalan Balai Polis, 50000 Kuala Lumpur",
-    "duration": "1.5 hours",
-    "cost_myr": "35",
-    "cost_usd": "$8",
-    "best_time": "Lunch hours (12-2 PM) or early dinner (6-7 PM). Closed Mondays.",
-    "tips": [
-      "Try the ayam pongteh (chicken stew) and pai tee (crispy cups). The restaurant has a nostalgic ambiance perfect for experiencing KL's heritage. Located near Merdeka Square and Central Market. Reservations recommended for weekends."
-    ],
-    "photos": [
-      "/KL-trip/assets/images/activities/old-china-cafe/1.jpg",
-      "/KL-trip/assets/images/activities/old-china-cafe/2.jpg"
-    ],
-    "added_date": "2025-10-10",
-    "source": "proactive_research"
-  },
-  {
-    "id": 28,
-    "name": "Lot 10 Hutong",
-    "category": "Food & Dining",
-    "description": "Lot 10 Hutong is Malaysia's first and only heritage food court, bringing together iconic hawker stalls and legendary food vendors under one air-conditioned roof. This award-winning food village features over 20 stalls serving the best of Malaysian street food, from Kim Lian Kee's Hokkien mee to Soong Kee's beef noodles. It's an excellent way to sample multiple Malaysian dishes in a comfortable, modern setting without sacrificing authenticity.",
-    "location": "Basement Floor, Lot 10 Shopping Centre, 50 Jalan Sultan Ismail, Bukit Bintang, 50250 Kuala Lumpur",
-    "duration": "1.5 hours",
-    "cost_myr": "25",
-    "cost_usd": "$6",
-    "best_time": "Lunch (12-2 PM) or dinner (6-8 PM). Open 10 AM - 10 PM daily.",
-    "tips": [
-      "Perfect for groups as everyone can choose different dishes. Try multiple stalls to sample variety. Located right next to Bukit Bintang Monorail station. Cash and cards accepted. Air-conditioned comfort with authentic hawker food."
-    ],
-    "photos": [
-      "/KL-trip/assets/images/activities/lot-10-hutong/1.jpg",
-      "/KL-trip/assets/images/activities/lot-10-hutong/2.jpg"
-    ],
-    "added_date": "2025-10-10",
-    "source": "proactive_research"
-  },
-  {
-    "id": 29,
-    "name": "Feeka Coffee Roasters",
-    "category": "Food & Dining",
-    "description": "Feeka Coffee Roasters is a popular specialty coffee cafe known for its excellent coffee, cozy atmosphere, and delicious brunch menu. Located in the heart of Bukit Bintang, this cafe serves freshly roasted coffee, creative beverages, and Western-Asian fusion dishes. The interior features a warm, inviting design with plenty of natural light, making it a perfect spot for coffee enthusiasts and casual dining.",
-    "location": "19, Jalan Mesui, Bukit Bintang, 50200 Kuala Lumpur",
-    "duration": "1.5 hours",
-    "cost_myr": "35",
-    "cost_usd": "$8",
-    "best_time": "Weekday mornings (9-11 AM) or afternoons (3-5 PM). Open 9 AM - 10 PM daily.",
-    "tips": [
-      "Try their signature coffee drinks and brunch items like eggs benedict. Popular spot so expect queues on weekends. Great for working or casual meetings with good WiFi. Short walk from Bukit Bintang area."
-    ],
-    "photos": [
-      "/KL-trip/assets/images/activities/feeka-coffee-roasters/1.jpg",
-      "/KL-trip/assets/images/activities/feeka-coffee-roasters/2.jpg"
-    ],
-    "added_date": "2025-10-10",
-    "source": "proactive_research"
-  },
-  {
-    "id": 30,
-    "name": "Village Park Restaurant",
-    "category": "Food & Dining",
-    "description": "Village Park Restaurant is legendary for serving one of the best nasi lemak in Kuala Lumpur. This traditional Malay breakfast spot features fluffy coconut rice, crispy fried chicken, sambal chili, hard-boiled egg, and anchovies. The restaurant has been serving locals and tourists for over 20 years and is consistently packed with customers eager to taste their famous dish.",
-    "location": "5, Jalan SS 21/37, Damansara Utama, 47400 Petaling Jaya, Selangor",
-    "duration": "1 hours",
-    "cost_myr": "13",
-    "cost_usd": "$3",
-    "best_time": "Weekday mornings to avoid long queues. Open 7 AM - 3 PM daily.",
-    "tips": [
-      "Arrive early to avoid the crowds, especially on weekends when tour groups visit. The nasi lemak ayam goreng (fried chicken) is the signature dish. Be prepared to wait during peak hours. Cash payment preferred."
-    ],
-    "photos": [
-      "/KL-trip/assets/images/activities/village-park-restaurant/1.jpg"
-    ],
-    "added_date": "2025-10-10",
-    "source": "proactive_research"
-  },
-  {
-    "id": 31,
-    "name": "Jalan Alor Food Street",
-    "category": "Food & Dining",
-    "description": "Jalan Alor is Kuala Lumpur's most famous street food destination, transforming into a bustling night market every evening. This vibrant open-air dining street features dozens of restaurants and stalls serving authentic Malaysian and Chinese cuisine including BBQ seafood, satay, grilled meats, noodles, and local delicacies. The atmosphere is lively with colorful lanterns, outdoor seating, and the aroma of sizzling food.",
-    "location": "Jalan Alor, Bukit Bintang, 50200 Kuala Lumpur",
-    "duration": "2 hours",
-    "cost_myr": "30",
-    "cost_usd": "$7",
-    "best_time": "Evening from 6 PM onwards when the street comes alive. Best visited between 7-9 PM.",
-    "tips": [
-      "Try Wong Ah Wah for famous chicken wings. Prices can vary, so check before ordering. Bargaining is sometimes possible. Bring cash as many stalls don't accept cards. Great for group dining with variety of options."
-    ],
-    "photos": [
-      "/KL-trip/assets/images/activities/jalan-alor-food-street/1.jpg",
-      "/KL-trip/assets/images/activities/jalan-alor-food-street/2.jpg"
-    ],
-    "added_date": "2025-10-10",
-    "source": "proactive_research"
-  },
-  {
-    "id": 32,
-    "name": "Madam Kwan's",
-    "category": "Food & Dining",
-    "description": "Madam Kwan's is an iconic Malaysian restaurant chain known for serving authentic Truly Malaysian cuisine in a comfortable, modern setting. Their menu features classic dishes like nasi lemak, beef rendang, assam laksa, and their famous nasi bojari. The restaurant offers a refined dining experience while maintaining traditional flavors, making it perfect for groups wanting to experience Malaysian food in an air-conditioned environment.",
-    "location": "Suria KLCC, Lot 228, Level 2, Kuala Lumpur City Centre, 50088 Kuala Lumpur",
-    "duration": "1.5 hours",
-    "cost_myr": "40",
-    "cost_usd": "$9",
-    "best_time": "Lunch (11:30 AM - 2 PM) or early dinner (5:30 PM - 7 PM) to avoid peak crowds.",
-    "tips": [
-      "Try the nasi bojari (their signature dish) or nasi lemak with beef rendang. Reservations recommended for large groups. Located conveniently in KLCC for easy access. Credit cards accepted."
-    ],
-    "photos": [
-      "/KL-trip/assets/images/activities/madam-kwans/1.jpg",
-      "/KL-trip/assets/images/activities/madam-kwans/2.jpg"
-    ],
-    "added_date": "2025-10-10",
-    "source": "proactive_research"
-  },
-  {
-    "id": 33,
-    "name": "Merchant's Lane",
-    "category": "Food & Dining",
-    "description": "Merchant's Lane is a trendy, Instagram-worthy cafe hidden in a restored heritage shophouse along Petaling Street in Chinatown. This hipster cafe serves Western cuisine with local twists, excellent coffee, and creative brunch dishes. The interior features vintage decor, exposed brick walls, and a charming courtyard. It's a popular spot for coffee lovers and those seeking a unique dining atmosphere in the heart of old KL.",
-    "location": "150, Jalan Petaling, City Centre, 50000 Kuala Lumpur",
-    "duration": "1.5 hours",
-    "cost_myr": "50",
-    "cost_usd": "$11",
-    "best_time": "Weekday afternoons (2-5 PM) for a quieter experience. Open 11 AM - 11 PM daily.",
-    "tips": [
-      "Try their signature coffee and brunch items. The cafe can get crowded on weekends. Great for photos with its unique heritage interior. Reservations not accepted, so arrive early. Located near Central Market and Petaling Street."
-    ],
-    "photos": [
-      "/KL-trip/assets/images/activities/merchants-lane/1.jpg",
-      "/KL-trip/assets/images/activities/merchants-lane/2.jpg"
-    ],
-    "added_date": "2025-10-10",
-    "source": "proactive_research"
-  },
-  {
-    "id": 34,
-    "name": "Old China Cafe",
-    "category": "Food & Dining",
-    "description": "Old China Cafe is a charming heritage restaurant housed in a beautifully preserved 1920s building that was once a laundry and guild house. Specializing in authentic Nyonya (Peranakan) cuisine, the restaurant offers a unique blend of Chinese and Malay flavors. The atmospheric interior features antique furniture, vintage photos, and traditional decor that transport diners back in time. It's a cultural dining experience showcasing Straits Chinese heritage.",
-    "location": "11, Jalan Balai Polis, 50000 Kuala Lumpur",
-    "duration": "1.5 hours",
-    "cost_myr": "35",
-    "cost_usd": "$8",
-    "best_time": "Lunch hours (12-2 PM) or early dinner (6-7 PM). Closed Mondays.",
-    "tips": [
-      "Try the ayam pongteh (chicken stew) and pai tee (crispy cups). The restaurant has a nostalgic ambiance perfect for experiencing KL's heritage. Located near Merdeka Square and Central Market. Reservations recommended for weekends."
-    ],
-    "photos": [
-      "/KL-trip/assets/images/activities/old-china-cafe/1.jpg",
-      "/KL-trip/assets/images/activities/old-china-cafe/2.jpg"
-    ],
-    "added_date": "2025-10-10",
-    "source": "proactive_research"
-  },
-  {
-    "id": 35,
-    "name": "Lot 10 Hutong",
-    "category": "Food & Dining",
-    "description": "Lot 10 Hutong is Malaysia's first and only heritage food court, bringing together iconic hawker stalls and legendary food vendors under one air-conditioned roof. This award-winning food village features over 20 stalls serving the best of Malaysian street food, from Kim Lian Kee's Hokkien mee to Soong Kee's beef noodles. It's an excellent way to sample multiple Malaysian dishes in a comfortable, modern setting without sacrificing authenticity.",
-    "location": "Basement Floor, Lot 10 Shopping Centre, 50 Jalan Sultan Ismail, Bukit Bintang, 50250 Kuala Lumpur",
-    "duration": "1.5 hours",
-    "cost_myr": "25",
-    "cost_usd": "$6",
-    "best_time": "Lunch (12-2 PM) or dinner (6-8 PM). Open 10 AM - 10 PM daily.",
-    "tips": [
-      "Perfect for groups as everyone can choose different dishes. Try multiple stalls to sample variety. Located right next to Bukit Bintang Monorail station. Cash and cards accepted. Air-conditioned comfort with authentic hawker food."
-    ],
-    "photos": [
-      "/KL-trip/assets/images/activities/lot-10-hutong/1.jpg",
-      "/KL-trip/assets/images/activities/lot-10-hutong/2.jpg"
-    ],
-    "added_date": "2025-10-10",
-    "source": "proactive_research"
-  },
-  {
-    "id": 36,
-    "name": "Feeka Coffee Roasters",
-    "category": "Food & Dining",
-    "description": "Feeka Coffee Roasters is a popular specialty coffee cafe known for its excellent coffee, cozy atmosphere, and delicious brunch menu. Located in the heart of Bukit Bintang, this cafe serves freshly roasted coffee, creative beverages, and Western-Asian fusion dishes. The interior features a warm, inviting design with plenty of natural light, making it a perfect spot for coffee enthusiasts and casual dining.",
-    "location": "19, Jalan Mesui, Bukit Bintang, 50200 Kuala Lumpur",
-    "duration": "1.5 hours",
-    "cost_myr": "35",
-    "cost_usd": "$8",
-    "best_time": "Weekday mornings (9-11 AM) or afternoons (3-5 PM). Open 9 AM - 10 PM daily.",
-    "tips": [
-      "Try their signature coffee drinks and brunch items like eggs benedict. Popular spot so expect queues on weekends. Great for working or casual meetings with good WiFi. Short walk from Bukit Bintang area."
-    ],
-    "photos": [
-      "/KL-trip/assets/images/activities/feeka-coffee-roasters/1.jpg",
-      "/KL-trip/assets/images/activities/feeka-coffee-roasters/2.jpg"
-    ],
-    "added_date": "2025-10-10",
-    "source": "proactive_research"
-  },
-  {
-    "id": 37,
-    "name": "Village Park Restaurant",
-    "category": "Food & Dining",
-    "description": "Village Park Restaurant is legendary for serving one of the best nasi lemak in Kuala Lumpur. This traditional Malay breakfast spot features fluffy coconut rice, crispy fried chicken, sambal chili, hard-boiled egg, and anchovies. The restaurant has been serving locals and tourists for over 20 years and is consistently packed with customers eager to taste their famous dish.",
-    "location": "5, Jalan SS 21/37, Damansara Utama, 47400 Petaling Jaya, Selangor",
-    "duration": "1 hours",
-    "cost_myr": "13",
-    "cost_usd": "$3",
-    "best_time": "Weekday mornings to avoid long queues. Open 7 AM - 3 PM daily.",
-    "tips": [
-      "Arrive early to avoid the crowds, especially on weekends when tour groups visit. The nasi lemak ayam goreng (fried chicken) is the signature dish. Be prepared to wait during peak hours. Cash payment preferred."
-    ],
-    "photos": [
-      "/KL-trip/assets/images/activities/village-park-restaurant/1.jpg"
-    ],
-    "added_date": "2025-10-10",
-    "source": "proactive_research"
-  },
-  {
-    "id": 38,
-    "name": "Jalan Alor Food Street",
-    "category": "Food & Dining",
-    "description": "Jalan Alor is Kuala Lumpur's most famous street food destination, transforming into a bustling night market every evening. This vibrant open-air dining street features dozens of restaurants and stalls serving authentic Malaysian and Chinese cuisine including BBQ seafood, satay, grilled meats, noodles, and local delicacies. The atmosphere is lively with colorful lanterns, outdoor seating, and the aroma of sizzling food.",
-    "location": "Jalan Alor, Bukit Bintang, 50200 Kuala Lumpur",
-    "duration": "2 hours",
-    "cost_myr": "30",
-    "cost_usd": "$7",
-    "best_time": "Evening from 6 PM onwards when the street comes alive. Best visited between 7-9 PM.",
-    "tips": [
-      "Try Wong Ah Wah for famous chicken wings. Prices can vary, so check before ordering. Bargaining is sometimes possible. Bring cash as many stalls don't accept cards. Great for group dining with variety of options."
-    ],
-    "photos": [
-      "/KL-trip/assets/images/activities/jalan-alor-food-street/1.jpg",
-      "/KL-trip/assets/images/activities/jalan-alor-food-street/2.jpg"
-    ],
-    "added_date": "2025-10-10",
-    "source": "proactive_research"
-  },
-  {
-    "id": 39,
-    "name": "Madam Kwan's",
-    "category": "Food & Dining",
-    "description": "Madam Kwan's is an iconic Malaysian restaurant chain known for serving authentic Truly Malaysian cuisine in a comfortable, modern setting. Their menu features classic dishes like nasi lemak, beef rendang, assam laksa, and their famous nasi bojari. The restaurant offers a refined dining experience while maintaining traditional flavors, making it perfect for groups wanting to experience Malaysian food in an air-conditioned environment.",
-    "location": "Suria KLCC, Lot 228, Level 2, Kuala Lumpur City Centre, 50088 Kuala Lumpur",
-    "duration": "1.5 hours",
-    "cost_myr": "40",
-    "cost_usd": "$9",
-    "best_time": "Lunch (11:30 AM - 2 PM) or early dinner (5:30 PM - 7 PM) to avoid peak crowds.",
-    "tips": [
-      "Try the nasi bojari (their signature dish) or nasi lemak with beef rendang. Reservations recommended for large groups. Located conveniently in KLCC for easy access. Credit cards accepted."
-    ],
-    "photos": [
-      "/KL-trip/assets/images/activities/madam-kwans/1.jpg",
-      "/KL-trip/assets/images/activities/madam-kwans/2.jpg"
-    ],
-    "added_date": "2025-10-10",
-    "source": "proactive_research"
-  },
-  {
-    "id": 40,
-    "name": "Merchant's Lane",
-    "category": "Food & Dining",
-    "description": "Merchant's Lane is a trendy, Instagram-worthy cafe hidden in a restored heritage shophouse along Petaling Street in Chinatown. This hipster cafe serves Western cuisine with local twists, excellent coffee, and creative brunch dishes. The interior features vintage decor, exposed brick walls, and a charming courtyard. It's a popular spot for coffee lovers and those seeking a unique dining atmosphere in the heart of old KL.",
-    "location": "150, Jalan Petaling, City Centre, 50000 Kuala Lumpur",
-    "duration": "1.5 hours",
-    "cost_myr": "50",
-    "cost_usd": "$11",
-    "best_time": "Weekday afternoons (2-5 PM) for a quieter experience. Open 11 AM - 11 PM daily.",
-    "tips": [
-      "Try their signature coffee and brunch items. The cafe can get crowded on weekends. Great for photos with its unique heritage interior. Reservations not accepted, so arrive early. Located near Central Market and Petaling Street."
-    ],
-    "photos": [
-      "/KL-trip/assets/images/activities/merchants-lane/1.jpg",
-      "/KL-trip/assets/images/activities/merchants-lane/2.jpg"
-    ],
-    "added_date": "2025-10-10",
-    "source": "proactive_research"
-  },
-  {
-    "id": 41,
-    "name": "Old China Cafe",
-    "category": "Food & Dining",
-    "description": "Old China Cafe is a charming heritage restaurant housed in a beautifully preserved 1920s building that was once a laundry and guild house. Specializing in authentic Nyonya (Peranakan) cuisine, the restaurant offers a unique blend of Chinese and Malay flavors. The atmospheric interior features antique furniture, vintage photos, and traditional decor that transport diners back in time. It's a cultural dining experience showcasing Straits Chinese heritage.",
-    "location": "11, Jalan Balai Polis, 50000 Kuala Lumpur",
-    "duration": "1.5 hours",
-    "cost_myr": "35",
-    "cost_usd": "$8",
-    "best_time": "Lunch hours (12-2 PM) or early dinner (6-7 PM). Closed Mondays.",
-    "tips": [
-      "Try the ayam pongteh (chicken stew) and pai tee (crispy cups). The restaurant has a nostalgic ambiance perfect for experiencing KL's heritage. Located near Merdeka Square and Central Market. Reservations recommended for weekends."
-    ],
-    "photos": [
-      "/KL-trip/assets/images/activities/old-china-cafe/1.jpg",
-      "/KL-trip/assets/images/activities/old-china-cafe/2.jpg"
-    ],
-    "added_date": "2025-10-10",
-    "source": "proactive_research"
-  },
-  {
-    "id": 42,
-    "name": "Lot 10 Hutong",
-    "category": "Food & Dining",
-    "description": "Lot 10 Hutong is Malaysia's first and only heritage food court, bringing together iconic hawker stalls and legendary food vendors under one air-conditioned roof. This award-winning food village features over 20 stalls serving the best of Malaysian street food, from Kim Lian Kee's Hokkien mee to Soong Kee's beef noodles. It's an excellent way to sample multiple Malaysian dishes in a comfortable, modern setting without sacrificing authenticity.",
-    "location": "Basement Floor, Lot 10 Shopping Centre, 50 Jalan Sultan Ismail, Bukit Bintang, 50250 Kuala Lumpur",
-    "duration": "1.5 hours",
-    "cost_myr": "25",
-    "cost_usd": "$6",
-    "best_time": "Lunch (12-2 PM) or dinner (6-8 PM). Open 10 AM - 10 PM daily.",
-    "tips": [
-      "Perfect for groups as everyone can choose different dishes. Try multiple stalls to sample variety. Located right next to Bukit Bintang Monorail station. Cash and cards accepted. Air-conditioned comfort with authentic hawker food."
-    ],
-    "photos": [
-      "/KL-trip/assets/images/activities/lot-10-hutong/1.jpg",
-      "/KL-trip/assets/images/activities/lot-10-hutong/2.jpg"
-    ],
-    "added_date": "2025-10-10",
-    "source": "proactive_research"
-  },
-  {
-    "id": 43,
-    "name": "Feeka Coffee Roasters",
-    "category": "Food & Dining",
-    "description": "Feeka Coffee Roasters is a popular specialty coffee cafe known for its excellent coffee, cozy atmosphere, and delicious brunch menu. Located in the heart of Bukit Bintang, this cafe serves freshly roasted coffee, creative beverages, and Western-Asian fusion dishes. The interior features a warm, inviting design with plenty of natural light, making it a perfect spot for coffee enthusiasts and casual dining.",
-    "location": "19, Jalan Mesui, Bukit Bintang, 50200 Kuala Lumpur",
-    "duration": "1.5 hours",
-    "cost_myr": "35",
-    "cost_usd": "$8",
-    "best_time": "Weekday mornings (9-11 AM) or afternoons (3-5 PM). Open 9 AM - 10 PM daily.",
-    "tips": [
-      "Try their signature coffee drinks and brunch items like eggs benedict. Popular spot so expect queues on weekends. Great for working or casual meetings with good WiFi. Short walk from Bukit Bintang area."
-    ],
-    "photos": [
-      "/KL-trip/assets/images/activities/feeka-coffee-roasters/1.jpg",
-      "/KL-trip/assets/images/activities/feeka-coffee-roasters/2.jpg"
-    ],
-    "added_date": "2025-10-10",
-    "source": "proactive_research"
-  },
-  {
-    "id": 44,
-    "name": "GP Meta Kart - Berjaya Times Square",
-    "category": "Adventure & Sports",
-    "description": "Experience high-speed indoor go-kart racing in a futuristic underground track at Berjaya Times Square. The compact but thrilling circuit features modern karts and a neon-lit atmosphere perfect for both racing and photography. Located in the heart of Bukit Bintang, this is the most accessible go-karting option for tourists staying in central KL, offering an adrenaline rush without leaving the city center.",
-    "location": "Level B3, Berjaya Times Square, No. 1 Jalan Imbi, Kuala Lumpur",
-    "duration": "1-1.5 hours",
-    "cost_myr": "40",
-    "cost_usd": "$9",
-    "best_time": "Early afternoon or weekdays to avoid crowds",
-    "transportation": "Walking distance from Bukit Bintang, Monorail to Imbi station",
-    "transport_cost": "RM 0-5",
-    "highlights": [
-      "Indoor go-kart track in city center",
-      "Modern karts with safety features",
-      "Futuristic neon-lit atmosphere",
-      "Perfect for groups and competitions",
-      "No driver's license required"
-    ],
-    "tips": [
-      "Visit early to avoid crowds",
-      "Look for BTS Theme Park combo discounts",
-      "The track has a cool, modern design for great photos",
-      "10-minute sessions are perfect for beginners"
-    ],
-    "suitable_for": [
-      "Groups",
-      "Thrill-seekers",
-      "Competitive friends",
-      "All skill levels"
-    ],
-    "difficulty": "Easy",
-    "photos": [
-      "/KL-trip/assets/images/activities/go-kart-berjaya-times-square/1.jpg",
-      "/KL-trip/assets/images/activities/go-kart-berjaya-times-square/2.jpg"
-    ],
-    "added_date": "2025-10-10",
-    "source": "proactive_research"
-  },
-  {
-    "id": 45,
-    "name": "Camp5 Climbing Gym - KL Eco City",
-    "category": "Adventure & Sports",
-    "description": "Malaysia's most popular climbing gym chain offers spacious layouts, high ceilings up to 15 meters, and a comprehensive range of rock climbing and bouldering walls. The KL Eco City branch provides excellent facilities for both beginners and experienced climbers, with professional instructors and quality equipment. Perfect for groups wanting an active, challenging experience that builds teamwork and confidence while getting a full-body workout.",
-    "location": "KL Eco City, approximately 15-20 minutes from KLCC",
-    "duration": "1.5-2 hours",
-    "cost_myr": "32",
-    "cost_usd": "$7 (via Klook for 1-hour guided session)",
-    "best_time": "Morning or early afternoon for less crowds",
-    "transportation": "Grab taxi from city center",
-    "transport_cost": "RM 15-20 Grab",
-    "highlights": [
-      "15-meter high climbing walls",
-      "Bouldering and top-rope climbing",
-      "Professional instruction included",
-      "Spacious facility with high ceilings",
-      "Suitable for all skill levels"
-    ],
-    "tips": [
-      "Book online via Klook for best prices",
-      "Wear comfortable athletic clothing",
-      "No experience necessary - full training provided",
-      "Great for team building and group bonding"
-    ],
-    "suitable_for": [
-      "Active travelers",
-      "Team building",
-      "Fitness enthusiasts",
-      "All skill levels"
-    ],
-    "difficulty": "Moderate",
-    "photos": [
-      "/KL-trip/assets/images/activities/camp5-climbing-eco-city/1.jpg",
-      "/KL-trip/assets/images/activities/camp5-climbing-eco-city/2.jpg",
-      "/KL-trip/assets/images/activities/camp5-climbing-eco-city/3.jpg"
-    ],
-    "added_date": "2025-10-10",
-    "source": "proactive_research"
-  },
-  {
-    "id": 46,
-    "name": "WINDLAB Indoor Skydiving",
-    "category": "Adventure & Sports",
-    "description": "Experience the thrill of skydiving without jumping from a plane at Malaysia's only vertical wind tunnel. WINDLAB simulates free-fall in a safe, controlled environment suitable for ages 3 to 100. The experience includes professional training, all equipment (helmet, goggles, flight suit), and flights where you'll float in the wind tunnel. This bucket-list activity offers the sensation of skydiving with complete safety, making it perfect for thrill-seekers of all ages.",
-    "location": "Level 2, 1Utama Shopping Centre, Petaling Jaya",
-    "duration": "1.5 hours total (arrive 1 hour before flight)",
-    "cost_myr": "138",
-    "cost_usd": "$31 for 2 flights (peak), $24 off-peak",
-    "best_time": "Weekday off-peak (Mon-Fri) for better pricing",
-    "transportation": "Grab taxi from city center",
-    "transport_cost": "RM 30-40 Grab",
-    "highlights": [
-      "Malaysia's only vertical wind tunnel",
-      "Simulates skydiving experience safely",
-      "Professional training and equipment included",
-      "Suitable for ages 3 to 100",
-      "High Ride option to 10m tunnel top (+RM35)"
-    ],
-    "tips": [
-      "Arrive 1 hour early for check-in and training",
-      "Wear closed-toe laced shoes",
-      "Free viewing gallery for spectators",
-      "Photos and videos available for purchase",
-      "Off-peak rates save RM30 per person"
-    ],
-    "suitable_for": [
-      "Thrill-seekers",
-      "Unique experiences",
-      "All fitness levels",
-      "Bucket list activity"
-    ],
-    "difficulty": "Easy",
-    "photos": [],
-    "added_date": "2025-10-10",
-    "source": "proactive_research"
-  },
-  {
-    "id": 47,
-    "name": "Beast Park @ JUMPA Sungei Wang",
-    "category": "Adventure & Sports",
-    "description": "A comprehensive indoor adventure park in the heart of Bukit Bintang featuring rock climbing walls up to 15 meters high (operated by Camp5), Ninja warrior courses, rope courses, fun caves for kids, swings, and training studios. Beast Park offers multiple activities under one roof, making it perfect for groups who want variety and don't want to travel far. The diverse challenges cater to different fitness levels and interests.",
-    "location": "Level 3, JUMPA @ Sungei Wang, Jalan Sultan Ismail, Bukit Bintang, 55100 KL",
-    "duration": "2-3 hours",
-    "cost_myr": "50",
-    "cost_usd": "$11 (varies by package)",
-    "best_time": "Weekday afternoons for less crowds",
-    "transportation": "Walking distance from Bukit Bintang hotels",
-    "transport_cost": "RM 0-5",
-    "highlights": [
-      "Multiple activities in one location",
-      "15m high climbing walls",
-      "Ninja warrior obstacle courses",
-      "Rope courses and swings",
-      "Located in Bukit Bintang area"
-    ],
-    "tips": [
-      "Book combo packages for better value",
-      "Suitable for mixed fitness levels",
-      "Great for team building and group bonding",
-      "Can spend 2-3 hours trying different activities"
-    ],
-    "suitable_for": [
-      "Groups",
-      "Families",
-      "Adventure seekers",
-      "Variety of activities"
-    ],
-    "difficulty": "Easy to Moderate",
-    "photos": [],
-    "added_date": "2025-10-10",
-    "source": "proactive_research"
-  },
-  {
-    "id": 48,
-    "name": "Jump Street Asia Trampoline Park",
-    "category": "Adventure & Sports",
-    "description": "Malaysia's first trampoline park features wall-to-wall trampolines, foam pits, slam dunk zones, trampoline dodgeball courts, and trampoline basketball lanes. The gigantic main court offers endless bouncing fun, while specialized areas provide unique challenges. Perfect for burning energy, laughing with friends, and trying acrobatic moves in a safe, padded environment. It's a great cardio workout disguised as pure fun.",
-    "location": "8A, Jalan 13/6, Seksyen 13, 46200 Petaling Jaya, Selangor",
-    "duration": "2-3 hours",
-    "cost_myr": "35",
-    "cost_usd": "$8 for 2-hour session",
-    "best_time": "Weekday afternoons to avoid crowds",
-    "transportation": "Grab taxi from city center",
-    "transport_cost": "RM 25-30 Grab",
-    "highlights": [
-      "Malaysia's first trampoline park",
-      "Wall-to-wall trampolines",
-      "Foam pits and slam dunk zones",
-      "Trampoline dodgeball courts",
-      "Great cardio workout"
-    ],
-    "tips": [
-      "Wear comfortable athletic clothing",
-      "Grip socks required (can purchase on-site)",
-      "Book online for better rates",
-      "Great cardio workout disguised as fun"
-    ],
-    "suitable_for": [
-      "Active groups",
-      "Fun-seekers",
-      "All ages",
-      "Team bonding"
-    ],
-    "difficulty": "Easy to Moderate",
-    "photos": [],
-    "added_date": "2025-10-10",
-    "source": "proactive_research"
-  },
-  {
-    "id": 49,
-    "name": "Laser Battle KL",
-    "category": "Adventure & Sports",
-    "description": "One of Asia's largest laser tag centers with a 5,000 square foot arena featuring state-of-the-art tactical and interactive game modes. Engage in thrilling team-based combat in a multi-level arena with obstacles, hiding spots, and strategic positions. Perfect for groups of 8 who want competitive team-building fun without physical contact or mess. The high-tech equipment and immersive environment create an exciting gaming experience.",
-    "location": "Berjaya Times Square, Kuala Lumpur",
-    "duration": "1-1.5 hours",
-    "cost_myr": "30",
-    "cost_usd": "$7 per person per game",
-    "best_time": "Evening or weekends for full group experience",
-    "transportation": "Walking distance from Bukit Bintang, Monorail to Imbi station",
-    "transport_cost": "RM 0-5",
-    "highlights": [
-      "5,000 sqft multi-level arena",
-      "State-of-the-art laser tag equipment",
-      "Tactical and interactive game modes",
-      "Perfect for team building",
-      "No mess, no physical contact"
-    ],
-    "tips": [
-      "Book for groups in advance",
-      "Wear dark comfortable clothing",
-      "Multiple game modes available",
-      "Can combine with go-karting at same location"
-    ],
-    "suitable_for": [
-      "Groups",
-      "Team building",
-      "Competitive fun",
-      "All fitness levels"
-    ],
-    "difficulty": "Easy",
-    "photos": [],
-    "added_date": "2025-10-10",
-    "source": "proactive_research"
-  },
-  {
-    "id": 50,
-    "name": "The Bomb Battle - Axe Throwing",
-    "category": "Adventure & Sports",
-    "description": "Release stress and channel your inner lumberjack at Malaysia's premier axe throwing venues. Under safe, instructor-led supervision, learn the art of axe throwing and compete with friends to hit the bullseye. This unique activity combines skill, focus, and a bit of primal satisfaction. Perfect for groups wanting something different and memorable, axe throwing offers a fun way to bond while trying something completely new.",
-    "location": "Multiple locations in KL/Selangor area",
-    "duration": "1-1.5 hours",
-    "cost_myr": "50",
-    "cost_usd": "$11 per person",
-    "best_time": "Evening sessions",
-    "transportation": "Varies by location, check nearest branch",
-    "transport_cost": "RM 15-30 Grab (varies)",
-    "highlights": [
-      "Unique axe throwing experience",
-      "Professional instructor-led sessions",
-      "Safe and controlled environment",
-      "Great for stress relief",
-      "Friendly competition"
-    ],
-    "tips": [
-      "Instructor provides full safety training",
-      "Closed-toe shoes required",
-      "Great for stress relief and friendly competition",
-      "Can be combined with other activities at some venues"
-    ],
-    "suitable_for": [
-      "Adults",
-      "Unique experiences",
-      "Competitive groups",
-      "Stress relief"
-    ],
-    "difficulty": "Easy",
-    "photos": [],
-    "added_date": "2025-10-10",
-    "source": "proactive_research"
-  },
-  {
-    "id": 44,
-    "name": "Petrosains, The Discovery Centre",
-    "category": "Culture & Heritage",
-    "subcategory": "Science Museum",
-    "description": "An interactive science discovery center located in Suria KLCC, offering hands-on exhibits about space, geology, dinosaurs, robotics, and petroleum science. Perfect for families and science enthusiasts, Petrosains makes learning fun through engaging displays and activities that showcase Malaysia's oil and gas industry alongside general scientific principles.",
-    "location": "Level 4, Suria KLCC, Kuala Lumpur City Centre",
-    "cost_rm": 35,
-    "cost_usd": 8,
-    "duration_hours": 2.5,
-    "best_time": "Weekday mornings to avoid school groups. Open 9:30 AM - 5:30 PM daily.",
-    "tips": "Book tickets online for discounts. Allow 2-3 hours to explore all exhibits. Great for rainy days. Suitable for all ages. Located conveniently in KLCC shopping mall.",
-    "photos": [
-      "/KL-trip/assets/images/activities/petrosains-discovery-centre/1.jpg",
-      "/KL-trip/assets/images/activities/petrosains-discovery-centre/2.jpg"
-    ],
-    "added_date": "2025-10-11",
-    "source": "proactive_research"
-  },
-  {
-    "id": 45,
-    "name": "Bank Negara Malaysia Museum and Art Gallery",
-    "category": "Culture & Heritage",
-    "subcategory": "Museum",
-    "description": "A fascinating FREE museum showcasing Malaysia's monetary history, rare coins, currency evolution, and contemporary Malaysian art. Located in the stunning Sasana Kijang building, the museum features interactive exhibits about economics and finance, making complex topics accessible and engaging. The art gallery displays rotating exhibitions of local artists.",
-    "location": "Sasana Kijang, Jalan Dato Onn, Kuala Lumpur",
-    "cost_rm": 0,
-    "cost_usd": 0,
-    "duration_hours": 1.5,
-    "best_time": "Open 10 AM - 5 PM, closed Mondays. Weekday afternoons are quieter.",
-    "tips": "Completely FREE admission. Bring ID for registration. Photography allowed in most areas. Combine with nearby attractions. Air-conditioned and modern facilities.",
-    "photos": [
-      "/KL-trip/assets/images/activities/bank-negara-museum/1.jpg",
-      "/KL-trip/assets/images/activities/bank-negara-museum/2.jpg"
-    ],
-    "added_date": "2025-10-11",
-    "source": "proactive_research"
-  },
-  {
-    "id": 46,
-    "name": "National Textile Museum",
-    "category": "Culture & Heritage",
-    "subcategory": "Museum",
-    "description": "Housed in a beautiful heritage building, this museum showcases Malaysia's rich textile traditions including batik, songket, pua kumbu, and traditional weaving techniques. The exhibits trace the evolution of Malaysian textiles from pre-historic times through trade influences, displaying intricate craftsmanship and cultural significance of fabrics from various ethnic communities.",
-    "location": "Jalan Sultan Hishamuddin, near Merdeka Square",
-    "cost_rm": 5,
-    "cost_usd": 1.2,
-    "duration_hours": 1.5,
-    "best_time": "Open 9 AM - 5 PM daily. Morning visits recommended.",
-    "tips": "Very affordable entry fee. Excellent for understanding Malaysian culture. Beautiful colonial architecture. Combine with Merdeka Square visit. Great photo opportunities.",
-    "photos": [
-      "/KL-trip/assets/images/activities/national-textile-museum/1.jpg",
-      "/KL-trip/assets/images/activities/national-textile-museum/2.jpg",
-      "/KL-trip/assets/images/activities/national-textile-museum/3.jpg"
-    ],
-    "added_date": "2025-10-11",
-    "source": "proactive_research"
-  },
-  {
-    "id": 47,
-    "name": "Chan She Shu Yuen Temple",
-    "category": "Culture & Heritage",
-    "subcategory": "Historic Temple",
-    "description": "A stunning Cantonese clan temple built between 1899-1906, featuring exquisite Shek Wan pottery decorations, intricate wood carvings, and traditional Chinese architecture. This protected heritage building showcases 100-year-old ceramic glazed tiles, curved gables resembling waves, and beautiful murals depicting Chinese folklore. A masterpiece of craftsmanship serving the Chan clan community.",
-    "location": "172, Jalan Petaling, Chinatown, Kuala Lumpur",
-    "cost_rm": 10,
-    "cost_usd": 2.4,
-    "duration_hours": 0.75,
-    "best_time": "Open 10 AM - 6 PM daily. Morning light best for photography.",
-    "tips": "Located in heart of Chinatown. Combine with Petaling Street market visit. Dress modestly. Excellent example of traditional Cantonese architecture. Bring camera for detailed carvings.",
-    "photos": [
-      "/KL-trip/assets/images/activities/chan-she-shu-yuen-temple/1.jpg",
-      "/KL-trip/assets/images/activities/chan-she-shu-yuen-temple/2.jpg",
-      "/KL-trip/assets/images/activities/chan-she-shu-yuen-temple/3.jpg"
-    ],
-    "added_date": "2025-10-11",
-    "source": "proactive_research"
-  },
-  {
-    "id": 48,
-    "name": "National Art Gallery (Balai Seni Negara)",
-    "category": "Culture & Heritage",
-    "subcategory": "Art Gallery",
-    "description": "Malaysia's premier art institution showcasing the best of Malaysian and Southeast Asian contemporary and traditional art. The gallery features rotating exhibitions, permanent collections of local artists, and cultural displays that trace the evolution of Malaysian art. Housed in a modern building with excellent facilities, it's a must-visit for art enthusiasts.",
-    "location": "2 Jalan Temerloh, Off Jalan Tun Razak, Kuala Lumpur",
-    "cost_rm": 0,
-    "cost_usd": 0,
-    "duration_hours": 2,
-    "best_time": "Open 9 AM - 5 PM daily (last entry 4 PM). Weekday mornings are quieter.",
-    "tips": "Completely FREE admission and parking. Air-conditioned galleries. Allow 1.5-2 hours. Great for rainy days. Photography usually allowed. Check website for special exhibitions.",
-    "photos": [
-      "/KL-trip/assets/images/activities/national-art-gallery/1.jpg",
-      "/KL-trip/assets/images/activities/national-art-gallery/2.jpg"
-    ],
-    "added_date": "2025-10-11",
-    "source": "proactive_research"
-  },
-  {
-    "id": 49,
-    "name": "ILHAM Gallery",
-    "category": "Culture & Heritage",
-    "subcategory": "Contemporary Art Gallery",
-    "description": "A contemporary art gallery in the heart of KL showcasing cutting-edge Malaysian and Southeast Asian art. Located in the modern Ilham Tower, the gallery features rotating exhibitions, emerging and established artists, and thought-provoking installations. The gallery also has a lovely gift shop with locally made products and art books.",
-    "location": "Levels 3 & 5, Ilham Tower, 8 Jalan Binjai, Kuala Lumpur",
-    "cost_rm": 0,
-    "cost_usd": 0,
-    "duration_hours": 1.5,
-    "best_time": "Open Tue-Sat 11 AM - 7 PM, Sun 11 AM - 5 PM. Closed Mondays.",
-    "tips": "FREE admission. Excellent gift shop. Modern, air-conditioned space. Check website for current exhibitions. Great for contemporary art lovers. Easily accessible location.",
-    "photos": [
-      "/KL-trip/assets/images/activities/ilham-gallery/1.jpg",
-      "/KL-trip/assets/images/activities/ilham-gallery/2.jpg"
-    ],
-    "added_date": "2025-10-11",
-    "source": "proactive_research"
-  },
-  {
-    "id": 50,
-    "name": "Royal Selangor Visitor Centre",
-    "category": "Culture & Heritage",
-    "subcategory": "Cultural Experience",
-    "description": "Experience Malaysia's pewter heritage at the world's largest pewter manufacturer. The FREE visitor center offers factory tours showing traditional pewter casting, design exhibits, and a massive gift shop. Watch skilled craftsmen at work and learn about the 130-year history of Royal Selangor. Optional hands-on workshops available for creating your own pewter piece.",
-    "location": "4 Jalan Usahawan 6, Setapak Jaya, Kuala Lumpur",
-    "cost_rm": 0,
-    "cost_usd": 0,
-    "duration_hours": 1.5,
-    "best_time": "Open 9 AM - 5 PM daily. Weekday mornings best to see craftsmen at work.",
-    "tips": "Completely FREE entry and tour. Workshops available for fee. Great for souvenirs. Allow 1-2 hours. Combine with nearby attractions. Parking available.",
-    "photos": [
-      "/KL-trip/assets/images/activities/royal-selangor-visitor-centre/1.jpg",
-      "/KL-trip/assets/images/activities/royal-selangor-visitor-centre/2.jpg"
-    ],
-    "added_date": "2025-10-11",
-    "source": "proactive_research"
-  },
-  {
-    "id": 51,
-    "name": "Village Park Restaurant",
-    "category": "Food & Dining",
-    "subcategory": "Local Cuisine",
-    "description": "Legendary restaurant famous for serving the best nasi lemak in Kuala Lumpur. The signature Nasi Lemak Ayam Goreng features fragrant coconut rice, crispy fried chicken with turmeric and lemongrass, sambal, anchovies, peanuts, and cucumber. Always packed with locals and tourists, with queues forming even on weekdays.",
-    "location": "5, Jalan SS 21/37, Damansara Utama, 47400 Petaling Jaya, Selangor",
-    "cost_rm": 15,
-    "cost_usd": 3.6,
-    "duration_hours": 1.5,
-    "best_time": "Breakfast or early lunch (7am-11am) to avoid longest queues",
-    "tips": "Arrive early to avoid long waits, especially on weekends. Order the signature Nasi Lemak Ayam Goreng (RM 12.30). Available on GrabFood. Open Mon-Sun 7am-5:30pm. WhatsApp to order: 0122738438",
-    "photos": [
-      "/KL-trip/assets/images/activities/village-park-restaurant/1.jpg",
-      "/KL-trip/assets/images/activities/village-park-restaurant/2.jpg"
-    ],
-    "added_date": "2025-10-12",
-    "source": "proactive_research"
-  },
-  {
-    "id": 52,
-    "name": "Madam Kwan's",
-    "category": "Food & Dining",
-    "subcategory": "Malaysian Fusion",
-    "description": "Upscale Malaysian restaurant chain serving refined versions of local favorites in a comfortable air-conditioned setting. Famous for their nasi lemak, assam laksa, and Hainanese chicken chop. Halal certified and popular with both locals and tourists seeking quality Malaysian cuisine in a modern environment.",
-    "location": "Multiple locations - Pavilion KL (Bukit Bintang), Suria KLCC, Mid Valley",
-    "cost_rm": 45,
-    "cost_usd": 10.8,
-    "duration_hours": 1.5,
-    "best_time": "Lunch or dinner (avoid peak lunch rush 12:30-2pm on weekdays)",
-    "tips": "Try the nasi lemak, otak-otak, and assam laksa. More expensive than street food but worth it for quality and ambiance. Reservations recommended for groups. Excellent for first-time visitors wanting to try Malaysian food in comfortable setting.",
-    "photos": [
-      "/KL-trip/assets/images/activities/madam-kwans/1.jpg",
-      "/KL-trip/assets/images/activities/madam-kwans/2.jpg"
-    ],
-    "added_date": "2025-10-12",
-    "source": "proactive_research"
-  },
-  {
-    "id": 53,
-    "name": "Merchant's Lane",
-    "category": "Food & Dining",
-    "subcategory": "Hipster Cafe",
-    "description": "Trendy heritage cafe in a restored shophouse on Petaling Street, blending modern hipster vibes with old-world charm. Serves fusion Western-Asian cuisine, specialty coffee, and creative brunch dishes. Popular for Instagram-worthy interiors featuring exposed brick, vintage furniture, and artistic decor.",
-    "location": "150 Jalan Petaling, Chinatown, 50000 Kuala Lumpur",
-    "cost_rm": 35,
-    "cost_usd": 8.4,
-    "duration_hours": 1.5,
-    "best_time": "Brunch or lunch (11:30am-3pm). Closed on Mondays.",
-    "tips": "Make reservations for groups via WhatsApp +60 3-2022 1736. Great for photos and social media. Combine with Chinatown exploration. Excellent coffee and brunch menu. Heritage shophouse atmosphere.",
-    "photos": [
-      "/KL-trip/assets/images/activities/merchants-lane/1.jpg",
-      "/KL-trip/assets/images/activities/merchants-lane/2.jpg"
-    ],
-    "added_date": "2025-10-12",
-    "source": "proactive_research"
-  },
-  {
-    "id": 54,
-    "name": "LOKL Coffee Co.",
-    "category": "Food & Dining",
-    "subcategory": "Specialty Coffee & Brunch",
-    "description": "Popular specialty coffee shop in KL's historic heart, known for quality brews and hearty brunch options. Set in a heritage building with modern industrial decor. Serves excellent coffee, breakfast bowls, sandwiches, and pastries. A favorite among coffee enthusiasts and digital nomads.",
-    "location": "Jalan Tun HS Lee, near Masjid Jamek, Kuala Lumpur",
-    "cost_rm": 25,
-    "cost_usd": 6,
-    "duration_hours": 1.5,
-    "best_time": "Breakfast or brunch (8am-12pm)",
-    "tips": "5-minute walk from Masjid Jamek LRT. Good coffee at reasonable prices. Can be crowded on weekends. Combine with nearby heritage sites like Central Market and Chinatown. Free WiFi available.",
-    "photos": [
-      "/KL-trip/assets/images/activities/lokl-coffee/1.jpg",
-      "/KL-trip/assets/images/activities/lokl-coffee/2.jpg"
-    ],
-    "added_date": "2025-10-12",
-    "source": "proactive_research"
-  },
-  {
-    "id": 55,
-    "name": "Old China Cafe",
-    "category": "Food & Dining",
-    "subcategory": "Nyonya Cuisine",
-    "description": "Charming heritage restaurant in a 1940s building specializing in authentic Nyonya (Peranakan) cuisine - a unique blend of Chinese and Malay flavors. Atmospheric setting with antique decor, old photographs, and traditional furnishings. Famous for their ayam pongteh, pai tee, and traditional kuih desserts.",
-    "location": "No. 11, Jalan Balai Polis, Chinatown, 50000 Kuala Lumpur",
-    "cost_rm": 38,
-    "cost_usd": 9,
-    "duration_hours": 1.5,
-    "best_time": "Lunch or dinner (11:30am-9:15pm, kitchen last order 9:15pm)",
-    "tips": "Try the Nyonya specialties like ayam pongteh, pai tee, and kuih pie tee. Atmospheric heritage setting perfect for experiencing Straits Chinese culture. Reserve for groups. Combine with Chinatown walking tour.",
-    "photos": [
-      "/KL-trip/assets/images/activities/old-china-cafe/1.jpg",
-      "/KL-trip/assets/images/activities/old-china-cafe/2.jpg"
-    ],
-    "added_date": "2025-10-12",
-    "source": "proactive_research"
-  },
-  {
-    "id": 56,
-    "name": "Lot 10 Hutong",
-    "category": "Food & Dining",
-    "subcategory": "Food Court / Hawker Center",
-    "description": "Malaysia's first and only platinum award-winning heritage food village, bringing together the best hawker stalls and heritage food vendors under one air-conditioned roof. Features legendary stalls serving hokkien mee, beef noodles, chili pan mee, dim sum, satay, and local desserts. A must-visit for sampling diverse Malaysian street food in comfort.",
-    "location": "LG Floor, Lot 10 Shopping Centre, Bukit Bintang, Kuala Lumpur",
-    "cost_rm": 22,
-    "cost_usd": 5.3,
-    "duration_hours": 1.5,
-    "best_time": "Lunch or dinner (10am-10pm daily)",
-    "tips": "Try multiple stalls to sample variety. Famous stalls include Kim Lian Kee (hokkien mee), Soong Kee (beef noodles), and Kin Kin (chili pan mee). Air-conditioned comfort. Cash and card accepted. Business WhatsApp: +60183084883",
-    "photos": [
-      "/KL-trip/assets/images/activities/lot-10-hutong/1.jpg",
-      "/KL-trip/assets/images/activities/lot-10-hutong/2.jpg"
-    ],
-    "added_date": "2025-10-12",
-    "source": "proactive_research"
-  },
-  {
-    "id": 57,
-    "name": "Feeka Coffee Roasters",
-    "category": "Food & Dining",
-    "subcategory": "Specialty Coffee & Brunch",
-    "description": "Popular specialty coffee roaster and cafe known for excellent coffee, all-day breakfast, and brunch menu. Modern industrial-chic interior with comfortable seating and natural light. Serves quality coffee, eggs benedict, pancakes, sandwiches, and pastries. A favorite brunch spot in the Bukit Bintang area.",
-    "location": "19, Jalan Mesui, off Jalan Nagasari, Bukit Bintang, Kuala Lumpur",
-    "cost_rm": 30,
-    "cost_usd": 7.2,
-    "duration_hours": 1.5,
-    "best_time": "Breakfast or brunch (8am-12pm). Opens at 8am.",
-    "tips": "Popular on weekends so arrive early or make reservations. Great coffee quality and roasting. Near Changkat Bukit Bintang bar street. Excellent for brunch lovers. Free WiFi available.",
-    "photos": [
-      "/KL-trip/assets/images/activities/feeka-coffee/1.jpg",
-      "/KL-trip/assets/images/activities/feeka-coffee/2.jpg"
-    ],
-    "added_date": "2025-10-12",
-    "source": "proactive_research"
-  },
-  {
-    "id": 51,
-    "name": "Mid Valley Megamall",
-    "category": "Shopping & Markets",
-    "subcategory": "Shopping Mall",
-    "description": "One of Southeast Asia's largest shopping malls with over 430 stores across 5 floors. This family-friendly mega mall features major anchor tenants including Golden Screen Cinemas (18 screens), Metrojaya, Harvey Norman, and one of KL's largest MPH bookstores. The mall also includes a bowling center, food courts, and countless dining options. Connected to KL Komuter Mid Valley station for easy access.",
-    "location": "Lingkaran Syed Putra, Mid Valley City, 59200 Kuala Lumpur",
-    "cost_rm": 0,
-    "cost_usd": 0,
-    "duration_hours": 3,
-    "best_time": "Daily 10 AM - 10 PM. Weekdays less crowded. Evenings and weekends busiest.",
-    "tips": "FREE entry. Accessible by KL Komuter train. Connected to The Gardens Mall via pedestrian bridge. Huge variety for all budgets. Air-conditioned comfort. Great for groups with diverse interests. Allow 3-4 hours minimum.",
-    "photos": [
-      "/KL-trip/assets/images/activities/mid-valley-megamall/1.jpg",
-      "/KL-trip/assets/images/activities/mid-valley-megamall/2.jpg"
-    ],
-    "added_date": "2025-10-12",
-    "source": "proactive_research"
-  },
-  {
-    "id": 52,
-    "name": "Sungei Wang Plaza",
-    "category": "Shopping & Markets",
-    "subcategory": "Shopping Mall",
-    "description": "One of Kuala Lumpur's oldest and most iconic shopping malls in the heart of Bukit Bintang, offering authentic local shopping experience. With over 500 retail outlets, the mall is famous for affordable fashion, accessories, electronics, and local brands. The top floor is dedicated to youth fashion with homegrown labels. Popular with locals and budget-conscious shoppers seeking good deals and unique finds.",
-    "location": "Jalan Sultan Ismail, Bukit Bintang, 55100 Kuala Lumpur",
-    "cost_rm": 0,
-    "cost_usd": 0,
-    "duration_hours": 2,
-    "best_time": "Daily 10 AM - 10 PM. Best for afternoon shopping and exploring.",
-    "tips": "FREE entry. Walking distance from Bukit Bintang hotels. Great for budget shopping. Bargaining possible in some stores. Cash preferred. Near Pavilion and other malls. Authentic local shopping vibe. Good for souvenirs and affordable fashion.",
-    "photos": [
-      "/KL-trip/assets/images/activities/sungei-wang-plaza/1.webp"
-    ],
-    "added_date": "2025-10-12",
-    "source": "proactive_research"
-  },
-  {
-    "id": 53,
-    "name": "Plaza Low Yat",
-    "category": "Shopping & Markets",
-    "subcategory": "Electronics Mall",
-    "description": "Kuala Lumpur's premier destination for electronics, gadgets, and technology. This 12-storey mall is Malaysia's largest IT lifestyle mall, featuring hundreds of inter-connected stores selling computers, smartphones, cameras, gaming equipment, accessories, and software. Popular with tech enthusiasts and anyone looking for competitive prices on electronics. Knowledgeable staff and wide selection make it ideal for tech shopping.",
-    "location": "7, Jalan Bintang, Bukit Bintang, 55100 Kuala Lumpur",
-    "cost_rm": 0,
-    "cost_usd": 0,
-    "duration_hours": 1.5,
-    "best_time": "Daily 10:30 AM - 9:30 PM. Weekday afternoons less crowded.",
-    "tips": "FREE entry. Compare prices between stores. Bargaining possible. Check warranty and authenticity. Bring cash for better deals. Walking distance from Bukit Bintang area. Great for electronics, phone accessories, and gadgets. Staff generally speak English.",
-    "photos": [
-      "/KL-trip/assets/images/activities/plaza-low-yat/1.jpg"
-    ],
-    "added_date": "2025-10-12",
-    "source": "proactive_research"
-  },
-  {
-    "id": 54,
-    "name": "Bangsar Village",
-    "category": "Shopping & Markets",
-    "subcategory": "Boutique Shopping",
-    "description": "A trendy, upscale neighborhood shopping complex consisting of Bangsar Village I and II, connected by a walkway. Known as KL's friendliest and trendiest neighborhood mall, it features boutique stores, specialty shops, international brands, gourmet cafes, and fine dining restaurants. Popular with expats and locals for its relaxed atmosphere, quality shops, and excellent food options. Great for leisurely shopping and dining.",
-    "location": "1 Jalan Telawi Satu, Bangsar Baru, 59100 Kuala Lumpur",
-    "cost_rm": 0,
-    "cost_usd": 0,
-    "duration_hours": 2.5,
-    "best_time": "Daily 10 AM - 10 PM. Weekends popular for brunch and shopping.",
-    "tips": "FREE entry. Upscale but not overly expensive. Excellent cafes and restaurants. Good for boutique shopping. Relaxed, neighborhood vibe. Parking available. Combine shopping with dining. Popular brunch destination. Easy Grab access from city center (RM 15-25).",
-    "photos": [
-      "/KL-trip/assets/images/activities/bangsar-village/1.jpg"
-    ],
-    "added_date": "2025-10-12",
-    "source": "proactive_research"
-  },
-  {
-    "id": 55,
-    "name": "Publika Shopping Gallery",
-    "category": "Shopping & Markets",
-    "subcategory": "Art & Boutique Mall",
-    "description": "A unique lifestyle shopping gallery in Solaris Dutamas blending retail, art, dining, and culture. Known for its contemporary design, art galleries, boutique stores, independent shops, and creative spaces. Features regular art exhibitions, cultural events, and a strong focus on local designers and artisans. Popular with the creative community and those seeking unique, non-mainstream shopping experiences.",
-    "location": "1, Jalan Dutamas 1, Solaris Dutamas, 50480 Kuala Lumpur",
-    "cost_rm": 0,
-    "cost_usd": 0,
-    "duration_hours": 2,
-    "best_time": "Daily 10 AM - 10 PM. Weekends often have special events and exhibitions.",
-    "tips": "FREE entry. Unique boutiques and local designers. Art galleries worth visiting. Great cafes and restaurants. Less crowded than mainstream malls. Check for weekend events and exhibitions. Good for unique gifts and souvenirs. Parking available. Grab from city center RM 15-20.",
-    "photos": [
-      "/KL-trip/assets/images/activities/publika-shopping-gallery/1.jpg"
-    ],
-    "added_date": "2025-10-12",
-    "source": "proactive_research"
-  },
-  {
-    "id": 56,
-    "name": "Chow Kit Market",
-    "category": "Shopping & Markets",
-    "subcategory": "Local Wet Market",
-    "description": "Kuala Lumpur's largest and most vibrant traditional wet market, offering an authentic local experience. Located at the northern end of Jalan Tunku Abdul Rahman, the market has two main sections: fresh produce (fruits and vegetables) and the wet market (meat, seafood, poultry). A sensory experience showcasing Malaysian daily life, local ingredients, tropical fruits, spices, and traditional market culture. Popular with locals and adventurous tourists.",
-    "location": "Jalan Raja Alang, Chow Kit, Kuala Lumpur (near Chow Kit Monorail station)",
-    "cost_rm": 0,
-    "cost_usd": 0,
-    "duration_hours": 1,
-    "best_time": "Daily 6 AM - 6 PM. Early morning (7-9 AM) best for freshest produce and authentic atmosphere.",
-    "tips": "FREE entry. Take monorail to Chow Kit station. Go early for best experience. Bring cash. Watch your belongings. Not for squeamish (wet market has raw meat/seafood). Great for photography and cultural immersion. Try tropical fruits. Nearby food stalls for breakfast.",
-    "photos": [
-      "/KL-trip/assets/images/activities/chow-kit-market/1.jpg"
-    ],
-    "added_date": "2025-10-12",
-    "source": "proactive_research"
-  },
-  {
-    "id": 57,
-    "name": "Taman Connaught Night Market (Pasar Malam)",
-    "category": "Shopping & Markets",
-    "subcategory": "Night Market",
-    "description": "Malaysia's longest night market stretching over 2 kilometers with 700+ stalls. This legendary Wednesday night market in Cheras offers an incredible variety of street food, local snacks, fresh produce, clothing, accessories, household items, and more. A true Malaysian cultural experience with authentic local atmosphere, affordable prices, and endless food options. Popular with locals and increasingly with tourists seeking authentic pasar malam experience.",
-    "location": "Jalan Cerdas, Taman Connaught, Cheras, Kuala Lumpur",
-    "cost_rm": 0,
-    "cost_usd": 0,
-    "duration_hours": 2,
-    "best_time": "Wednesdays only, 5 PM - 1 AM. Best time 6-9 PM for full atmosphere.",
-    "tips": "FREE entry. ONLY on Wednesday evenings. Bring cash. Come hungry - incredible street food variety. Wear comfortable shoes (2km walking). Crowded but worth it. Bargaining acceptable for non-food items. Try local snacks and desserts. About 20-30 min from city center by Grab (RM 25-35).",
-    "photos": [],
-    "added_date": "2025-10-12",
-    "source": "proactive_research"
+    "source": "proactive_research",
+    "difficulty": "Varies by attraction"
   }
 ]
