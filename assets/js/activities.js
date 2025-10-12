@@ -1,4 +1,5 @@
 // Load and display all activities
+console.log('activities.js script started');
 
 let allActivities = [
   {
