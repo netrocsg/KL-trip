@@ -191,5 +191,146 @@
     "added_date": "2025-10-09",
     "source": "proactive_research",
     "difficulty": "Varies by attraction"
+  },
+  {
+    "id": 8,
+    "name": "KL Bird Park",
+    "category": "Nature & Parks",
+    "subcategory": "Wildlife Park",
+    "description": "The world's largest free-flight walk-in aviary featuring over 3,000 birds from 200+ species in a lush rainforest setting. Visitors can interact with birds across 4 themed zones, watch feeding sessions, and enjoy daily bird shows in this 20-acre tropical paradise.",
+    "location": "920 Jalan Cenderawasah, Taman Tasik Perdana, 50480 Kuala Lumpur, Malaysia",
+    "cost_rm": 90,
+    "cost_usd": 20,
+    "duration_hours": 2.5,
+    "best_time": "Morning (9am-11am) when birds are most active. Bird shows at 12:30pm and 3:30pm.",
+    "tips": "Arrive early for feeding sessions. Bring camera for photography with birds at Zone 4. Wear comfortable walking shoes. Combine with nearby Butterfly Park and Perdana Gardens. Book online for slight discounts.",
+    "photos": [
+      "/KL-trip/assets/images/activities/kl-bird-park/1.jpg",
+      "/KL-trip/assets/images/activities/kl-bird-park/2.jpg",
+      "/KL-trip/assets/images/activities/kl-bird-park/3.jpg"
+    ],
+    "added_date": "2025-10-13",
+    "source": "proactive_research"
+  },
+  {
+    "id": 9,
+    "name": "FRIM Canopy Walk",
+    "category": "Nature & Parks",
+    "subcategory": "Eco Park",
+    "description": "Experience a thrilling suspended canopy walkway 30 meters above ground offering stunning views of virgin rainforest at the Forest Research Institute Malaysia. This 150-meter walkway is part of a 600-hectare forest reserve with multiple hiking trails through pristine jungle.",
+    "location": "52109 Kepong, Selangor, Malaysia (30 min from KL center)",
+    "cost_rm": 20,
+    "cost_usd": 10,
+    "duration_hours": 2.5,
+    "best_time": "Weekday mornings (8:30am-11am) for cooler weather and fewer crowds. Closed on Fridays.",
+    "tips": "Wear comfortable hiking shoes and bring water. Book online in advance as slots fill up quickly. Combine with nature trails. Parking fee RM 5. Arrive early as canopy walk closes at 3:30pm.",
+    "photos": [
+      "/KL-trip/assets/images/activities/frim-canopy-walk/1.jpg",
+      "/KL-trip/assets/images/activities/frim-canopy-walk/2.jpg",
+      "/KL-trip/assets/images/activities/frim-canopy-walk/3.jpg"
+    ],
+    "added_date": "2025-10-13",
+    "source": "proactive_research"
+  },
+  {
+    "id": 10,
+    "name": "Perdana Botanical Gardens",
+    "category": "Nature & Parks",
+    "subcategory": "Botanical Garden",
+    "description": "Kuala Lumpur's oldest and largest park spanning 220 acres with themed gardens including Orchid Garden, Hibiscus Garden, Deer Park, and a large scenic lake. This free-entry green oasis offers a peaceful escape from the city with beautiful landscaping and diverse flora.",
+    "location": "Jalan Perdana, 50480 Kuala Lumpur, Malaysia",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 3,
+    "best_time": "Early morning (7am-9am) or late afternoon (4pm-6pm) to avoid heat. Open daily 7am-8pm.",
+    "tips": "Rent bicycles or take a Segway tour for easier exploration. Bring picnic supplies. Visit multiple themed gardens. Some specialty gardens charge RM 1-5 entry. Great for photography and relaxation.",
+    "photos": [
+      "/KL-trip/assets/images/activities/perdana-botanical-gardens/1.jpg",
+      "/KL-trip/assets/images/activities/perdana-botanical-gardens/2.jpg",
+      "/KL-trip/assets/images/activities/perdana-botanical-gardens/3.jpg"
+    ],
+    "added_date": "2025-10-13",
+    "source": "proactive_research"
+  },
+  {
+    "id": 11,
+    "name": "KL Butterfly Park",
+    "category": "Nature & Parks",
+    "subcategory": "Wildlife Park",
+    "description": "A tropical butterfly sanctuary housing over 6,000 butterflies from 120+ species in a beautifully landscaped garden with waterfalls, ponds, and exotic plants. Walk among free-flying butterflies in this immersive natural habitat experience.",
+    "location": "Jalan Cenderawasih, Taman Tasik Perdana, 50480 Kuala Lumpur, Malaysia",
+    "cost_rm": 18,
+    "cost_usd": 4,
+    "duration_hours": 1.5,
+    "best_time": "Morning (9am-11am) when butterflies are most active. Open daily 9am-6pm.",
+    "tips": "Wear bright colors to attract butterflies. Bring camera for close-up shots. Combine visit with nearby Bird Park and Perdana Gardens. Bring cash as card payment may not be available. Allow butterflies to land on you naturally.",
+    "photos": [
+      "/KL-trip/assets/images/activities/kl-butterfly-park/1.jpg",
+      "/KL-trip/assets/images/activities/kl-butterfly-park/2.jpg",
+      "/KL-trip/assets/images/activities/kl-butterfly-park/3.jpg"
+    ],
+    "added_date": "2025-10-13",
+    "source": "proactive_research"
+  },
+  {
+    "id": 12,
+    "name": "Titiwangsa Lake Gardens",
+    "category": "Nature & Parks",
+    "subcategory": "Urban Park",
+    "description": "A 95-hectare urban park featuring a large scenic lake with paddle boats, cycling paths, jogging tracks, canopy walk, and splash park. Offers stunning views of the Kuala Lumpur skyline, making it perfect for recreation and photography.",
+    "location": "Jalan Temerloh, Titiwangsa, 53200 Kuala Lumpur, Malaysia",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 2.5,
+    "best_time": "Late afternoon/evening (4pm-7pm) for sunset views and cooler weather. Open 24 hours.",
+    "tips": "Rent bicycles (RM 5/hour) or paddle boats (RM 10-15). Visit the splash park for kids. Great for picnics and outdoor activities. Bring camera for skyline photos. Accessible by LRT (Titiwangsa station).",
+    "photos": [
+      "/KL-trip/assets/images/activities/titiwangsa-lake-gardens/1.jpg",
+      "/KL-trip/assets/images/activities/titiwangsa-lake-gardens/2.jpg",
+      "/KL-trip/assets/images/activities/titiwangsa-lake-gardens/3.jpg"
+    ],
+    "added_date": "2025-10-13",
+    "source": "proactive_research"
+  },
+  {
+    "id": 13,
+    "name": "Kanching Rainforest Waterfall",
+    "category": "Nature & Parks",
+    "subcategory": "Waterfall",
+    "description": "A stunning seven-tiered waterfall system in pristine rainforest with natural pools for swimming and jungle trails for hiking. Located in Templer Park, this natural attraction offers a refreshing escape into nature just 28km from KL city center.",
+    "location": "Templer Park, Rawang, Selangor, Malaysia (35 min drive from KL)",
+    "cost_rm": 3,
+    "cost_usd": 0.70,
+    "duration_hours": 3.5,
+    "best_time": "Weekday mornings to avoid crowds. Avoid visiting after heavy rain due to strong currents. Open daily 8am-6pm.",
+    "tips": "Bring swimwear and towel for swimming. Wear proper hiking shoes as trails can be slippery. Start early to hike to upper tiers. Bring insect repellent and drinking water. Pack out all trash. Can be crowded on weekends.",
+    "photos": [
+      "/KL-trip/assets/images/activities/kanching-waterfall/1.jpg",
+      "/KL-trip/assets/images/activities/kanching-waterfall/2.jpg",
+      "/KL-trip/assets/images/activities/kanching-waterfall/3.jpg"
+    ],
+    "added_date": "2025-10-13",
+    "source": "proactive_research"
+  },
+  {
+    "id": 14,
+    "name": "KL Forest Eco Park",
+    "category": "Nature & Parks",
+    "subcategory": "Eco Park",
+    "description": "A 10-hectare virgin rainforest in the heart of the city featuring a 200-meter canopy walk suspended 21 meters high. One of the world's oldest permanent forest reserves, offering a unique jungle experience right next to KL Tower.",
+    "location": "Jalan Raja Chulan, 50250 Kuala Lumpur, Malaysia (next to KL Tower)",
+    "cost_rm": 10,
+    "cost_usd": 2.50,
+    "duration_hours": 1.5,
+    "best_time": "Morning (7am-10am) for cooler temperature and fewer crowds. Open daily 7am-6pm.",
+    "tips": "Combine with KL Tower visit for package deals. Wear proper walking shoes. Bring water and insect repellent. Watch for wild monkeys - don't feed them. Free entry to park, RM 10 for canopy walk only. Great photo opportunities.",
+    "photos": [
+      "/KL-trip/assets/images/activities/kl-forest-eco-park/1.jpg",
+      "/KL-trip/assets/images/activities/kl-forest-eco-park/2.jpg",
+      "/KL-trip/assets/images/activities/kl-forest-eco-park/3.jpg"
+    ],
+    "added_date": "2025-10-13",
+    "source": "proactive_research"
   }
 ]
+
