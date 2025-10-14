@@ -331,5 +331,148 @@
     "added_date": "2025-10-12",
     "source": "proactive_research",
     "difficulty": "Easy to Moderate"
+  },
+  {
+    "id": 15,
+    "name": "Sky51 at EQ Hotel",
+    "category": "Nightlife & Entertainment",
+    "subcategory": "Rooftop Bar",
+    "description": "A sophisticated rooftop destination on the 51st floor of EQ Kuala Lumpur featuring Blue (an elegant indoor lounge) and Sky51 (a spectacular alfresco terrace). Offers panoramic views of KL Tower and Petronas Twin Towers, fine cocktails with Malaysian botanicals, and live DJs on weekends. Also home to Sabayon, an award-winning rooftop restaurant serving contemporary European cuisine.",
+    "location": "51st Floor, EQ Kuala Lumpur, Jalan Sultan Ismail, 50250 Kuala Lumpur",
+    "cost_rm": 100,
+    "cost_usd": 22,
+    "duration_hours": 2.5,
+    "best_time": "Sunset or evening, weekends for live DJ performances",
+    "tips": "Minimum spend RM100+ per person. Dress for success - popular among trendy crowd. Don't miss Sunday Sky Brunch. Smart casual dress code required.",
+    "photos": [
+      "/KL-trip/assets/images/activities/sky51-eq-hotel/1.jpg",
+      "/KL-trip/assets/images/activities/sky51-eq-hotel/2.jpg",
+      "/KL-trip/assets/images/activities/sky51-eq-hotel/3.jpg"
+    ],
+    "added_date": "2025-10-13",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 16,
+    "name": "Helipad KL (Heli Lounge Bar)",
+    "category": "Nightlife & Entertainment",
+    "subcategory": "Rooftop Bar",
+    "description": "A unique rooftop bar set on an actual working helipad, offering uninterrupted 360-degree panoramic views of Kuala Lumpur. With no walls or rails, this open-air terrace provides a truly unique experience. Features classic cocktails, Asian bar bites (wings are superb), and a high-energy vibe with younger crowds at night.",
+    "location": "34 Menara KH, Jalan Sultan Ismail, Bukit Bintang, 50450 Kuala Lumpur",
+    "cost_rm": 45,
+    "cost_usd": 10,
+    "duration_hours": 2,
+    "best_time": "Sunset for spectacular views, arrive close to opening time as it fills up quickly",
+    "tips": "Casual dress before 9pm, smart casual after 9pm. Not suitable for those with fear of heights. Try sunrise yoga sessions. Walk-ins only, no reservations.",
+    "photos": [
+      "/KL-trip/assets/images/activities/helipad-kl/1.jpg",
+      "/KL-trip/assets/images/activities/helipad-kl/2.jpg",
+      "/KL-trip/assets/images/activities/helipad-kl/3.jpg"
+    ],
+    "added_date": "2025-10-13",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 17,
+    "name": "Cielo KL Rooftop Dining & Lounge",
+    "category": "Nightlife & Entertainment",
+    "subcategory": "Rooftop Restaurant & Bar",
+    "description": "An elegant rooftop destination perched atop VIDA Bukit Ceylon, offering both fine dining and cocktail lounge experiences. Features a retractable roof for all-weather enjoyment, panoramic KL skyline views, delectable seafood and European cuisine, and a wine cellar with 170+ labels. Perfect for romantic dates with intimate, sophisticated atmosphere.",
+    "location": "23-01, VIDA Bukit Ceylon, Jalan Ceylon, Bukit Ceylon, 50200 Kuala Lumpur",
+    "cost_rm": 135,
+    "cost_usd": 30,
+    "duration_hours": 2.5,
+    "best_time": "Evening for dinner and sunset views",
+    "tips": "Great for wine lovers with extensive wine selection. Book in advance for romantic dates. Smart casual dress code, no flip flops permitted.",
+    "photos": [
+      "/KL-trip/assets/images/activities/cielo-kl/1.jpg",
+      "/KL-trip/assets/images/activities/cielo-kl/2.jpg"
+    ],
+    "added_date": "2025-10-13",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 18,
+    "name": "PS150 Speakeasy Bar",
+    "category": "Nightlife & Entertainment",
+    "subcategory": "Speakeasy Cocktail Bar",
+    "description": "A hidden speakeasy cocktail bar in Chinatown's Petaling Street, housed in a pre-war shophouse. Enter through a toy store to discover three distinct seating areas: the intimate Opium Den, outdoor courtyard, and the Main Bar. Features Southeast Asian-inspired cocktails with bold local flavors, divided into five eras (Vintage, Classic, Tiki, Disco, Contemporary).",
+    "location": "150 Petaling Street, Chinatown, 50000 Kuala Lumpur",
+    "cost_rm": 55,
+    "cost_usd": 12,
+    "duration_hours": 2,
+    "best_time": "Evening, closed Monday-Tuesday, opens 8pm-2am",
+    "tips": "Enter through the toy store next to Merchant's Lane cafe. Reservations recommended. Try adventurous cocktails with local ingredients. Smart casual dress code.",
+    "photos": [
+      "/KL-trip/assets/images/activities/ps150-speakeasy/1.jpg",
+      "/KL-trip/assets/images/activities/ps150-speakeasy/2.jpg"
+    ],
+    "added_date": "2025-10-13",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 19,
+    "name": "No Black Tie Jazz Venue",
+    "category": "Nightlife & Entertainment",
+    "subcategory": "Live Music Venue",
+    "description": "Kuala Lumpur's premier live jazz and music venue, offering an intimate setting for world-class performances. This legendary spot features different bands every Saturday, wine-paired dinner options, and excellent acoustics. A favorite among music lovers both locally and internationally, with a cozy, living room-like atmosphere.",
+    "location": "17 Jalan Mesui, Off Jalan Nagasari, 50200 Kuala Lumpur",
+    "cost_rm": 40,
+    "cost_usd": 9,
+    "duration_hours": 2.5,
+    "best_time": "Saturday evenings for different band performances",
+    "tips": "Cover charge RM30-50+ depending on artist (drinks/food separate). Book in advance for popular acts. Smart casual dress code (no formal attire required, as name suggests).",
+    "photos": [
+      "/KL-trip/assets/images/activities/no-black-tie/1.jpg",
+      "/KL-trip/assets/images/activities/no-black-tie/2.jpg"
+    ],
+    "added_date": "2025-10-13",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 20,
+    "name": "Zouk Club KL",
+    "category": "Nightlife & Entertainment",
+    "subcategory": "Nightclub",
+    "description": "Malaysia's premier nightclub destination featuring 5 different rooms with varied music styles and atmospheres. World-class DJs, spectacular views of Petronas Towers, and state-of-the-art sound and lighting systems. Each room offers unique experiences from EDM to hip-hop, making it perfect for groups wanting diverse nightlife experiences.",
+    "location": "TREC KL, Jalan Tun Razak, Kuala Lumpur",
+    "cost_rm": 65,
+    "cost_usd": 14,
+    "duration_hours": 4,
+    "best_time": "Friday and Saturday nights for best atmosphere and DJ lineups",
+    "tips": "Entry fee RM55-80. Popular with younger crowd, can get very crowded. Dress code enforced. Book table service for groups. Multiple rooms allow exploring different music genres.",
+    "photos": [
+      "/KL-trip/assets/images/activities/zouk-club-kl/1.jpg",
+      "/KL-trip/assets/images/activities/zouk-club-kl/2.jpg"
+    ],
+    "added_date": "2025-10-13",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 21,
+    "name": "Vertigo & Horizon Grill at Banyan Tree",
+    "category": "Nightlife & Entertainment",
+    "subcategory": "Rooftop Restaurant & Bar",
+    "description": "A multi-level rooftop destination spanning the 59th and 60th floors of Banyan Tree Kuala Lumpur. Vertigo bar offers indoor and outdoor terraces with breathtaking 360\u00b0 views, while Horizon Grill serves premium steaks and seafood. Recently added Vertigo TOO on the 60th floor takes the experience even higher with chill-out drinking and live DJs.",
+    "location": "Level 59-60, Banyan Tree Kuala Lumpur, 2 Jalan Conlay, 50450 Kuala Lumpur",
+    "cost_rm": 58,
+    "cost_usd": 13,
+    "duration_hours": 2.5,
+    "best_time": "Sunset for spectacular views, evenings for romantic dinner",
+    "tips": "Start with drinks at Vertigo, finish with dinner at Horizon Grill. Front-row views of Petronas Twin Towers. Smart casual dress code. Book in advance for dinner.",
+    "photos": [
+      "/KL-trip/assets/images/activities/vertigo-banyan-tree/1.jpg",
+      "/KL-trip/assets/images/activities/vertigo-banyan-tree/2.jpg",
+      "/KL-trip/assets/images/activities/vertigo-banyan-tree/3.jpg"
+    ],
+    "added_date": "2025-10-13",
+    "source": "proactive_research",
+    "difficulty": "Easy"
   }
 ]
