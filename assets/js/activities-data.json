@@ -459,7 +459,7 @@
     "name": "Vertigo & Horizon Grill at Banyan Tree",
     "category": "Nightlife & Entertainment",
     "subcategory": "Rooftop Restaurant & Bar",
-    "description": "A multi-level rooftop destination spanning the 59th and 60th floors of Banyan Tree Kuala Lumpur. Vertigo bar offers indoor and outdoor terraces with breathtaking 360\u00b0 views, while Horizon Grill serves premium steaks and seafood. Recently added Vertigo TOO on the 60th floor takes the experience even higher with chill-out drinking and live DJs.",
+    "description": "A multi-level rooftop destination spanning the 59th and 60th floors of Banyan Tree Kuala Lumpur. Vertigo bar offers indoor and outdoor terraces with breathtaking 360° views, while Horizon Grill serves premium steaks and seafood. Recently added Vertigo TOO on the 60th floor takes the experience even higher with chill-out drinking and live DJs.",
     "location": "Level 59-60, Banyan Tree Kuala Lumpur, 2 Jalan Conlay, 50450 Kuala Lumpur",
     "cost_rm": 58,
     "cost_usd": 13,
@@ -474,5 +474,139 @@
     "added_date": "2025-10-13",
     "source": "proactive_research",
     "difficulty": "Easy"
+  },
+  {
+    "id": 22,
+    "name": "Village Park Restaurant",
+    "category": "Food & Dining",
+    "subcategory": "Local Cuisine",
+    "description": "Famous for serving one of the best nasi lemak in Kuala Lumpur, Village Park Restaurant is a must-visit for authentic Malaysian breakfast. Their signature dish features fragrant coconut rice, crispy fried chicken drumstick, spicy sambal, peanuts, anchovies, and a hard-boiled egg. Despite the long queues, especially on weekends, the generous portions and reasonable prices make it worth the wait.",
+    "location": "5, Jalan SS 21/37, Damansara Utama, 47400 Petaling Jaya, Selangor (about 20 min from KLCC)",
+    "cost_rm": 12,
+    "cost_usd": 2.7,
+    "duration_hours": 1.5,
+    "best_time": "Weekday mornings (7-9am) to avoid weekend crowds",
+    "tips": "Arrive early to beat the crowds. The chicken drumstick nasi lemak is their signature dish. Cash payment preferred. Great for groups wanting authentic local breakfast experience.",
+    "photos": [
+      "/KL-trip/assets/images/activities/village-park-restaurant/1.jpg",
+      "/KL-trip/assets/images/activities/village-park-restaurant/2.jpg"
+    ],
+    "added_date": "2025-10-15",
+    "source": "proactive_research"
+  },
+  {
+    "id": 23,
+    "name": "Jalan Alor Food Street",
+    "category": "Food & Dining",
+    "subcategory": "Street Food",
+    "description": "Jalan Alor is Kuala Lumpur's most famous food street, transforming into a vibrant open-air hawker paradise every evening. This bustling street offers an incredible variety of Malaysian and Chinese street food, from Wong Ah Wah's legendary chicken wings to fresh seafood, satay, char kway teow, and exotic fruits like durian. The lively atmosphere with colorful lights and outdoor seating makes it perfect for group dining.",
+    "location": "Jalan Alor, Bukit Bintang, 50200 Kuala Lumpur (walking distance from Bukit Bintang)",
+    "cost_rm": 25,
+    "cost_usd": 5.6,
+    "duration_hours": 2.5,
+    "best_time": "Evening 6pm-midnight (peak atmosphere 7-10pm)",
+    "tips": "Try Wong Ah Wah's chicken wings (RM20 small portion), satay (RM16/10 pieces), and char kway teow (RM10). Bargain for seafood prices. Perfect for groups to share multiple dishes. Cash recommended.",
+    "photos": [
+      "/KL-trip/assets/images/activities/jalan-alor/1.jpg",
+      "/KL-trip/assets/images/activities/jalan-alor/2.jpg",
+      "/KL-trip/assets/images/activities/jalan-alor/3.jpg"
+    ],
+    "added_date": "2025-10-15",
+    "source": "proactive_research"
+  },
+  {
+    "id": 24,
+    "name": "Feeka Coffee Roasters",
+    "category": "Food & Dining",
+    "subcategory": "Cafe",
+    "description": "A popular hipster cafe in the heart of Bukit Bintang, Feeka Coffee Roasters offers a peaceful escape from KL's busy streets. Known for their excellent coffee, all-day breakfast, and Instagram-worthy brunch dishes like acai bowls, eggs royale, and artisan pastries. The cozy industrial-chic interior makes it ideal for casual group meetups or working sessions.",
+    "location": "19, Jalan Mesui, Bukit Bintang, 50200 Kuala Lumpur",
+    "cost_rm": 25,
+    "cost_usd": 5.6,
+    "duration_hours": 2,
+    "best_time": "Morning 9am-12pm for breakfast, or afternoon 2-5pm for coffee",
+    "tips": "Try the Salmon Eggs Royale (RM32), Tropical Bowl (RM19), or their signature coffee drinks. Reservations recommended for weekends. Free WiFi available. Great for groups of 4-6.",
+    "photos": [
+      "/KL-trip/assets/images/activities/feeka-coffee/1.jpg",
+      "/KL-trip/assets/images/activities/feeka-coffee/2.jpg"
+    ],
+    "added_date": "2025-10-15",
+    "source": "proactive_research"
+  },
+  {
+    "id": 25,
+    "name": "Lot 10 Hutong",
+    "category": "Food & Dining",
+    "subcategory": "Food Court",
+    "description": "An award-winning heritage food court located in the basement of Lot 10 Shopping Centre, Hutong brings together legendary hawker stalls from across Malaysia under one roof. Each vendor specializes in authentic traditional dishes passed down through generations, offering a curated culinary journey through Malaysian food culture in air-conditioned comfort.",
+    "location": "Lower Ground Floor, Lot 10 Shopping Centre, 50 Jalan Sultan Ismail, 50250 Kuala Lumpur",
+    "cost_rm": 18,
+    "cost_usd": 4.0,
+    "duration_hours": 1.5,
+    "best_time": "Lunch 12-2pm or dinner 6-8pm; open daily 10am-10pm",
+    "tips": "Try multiple stalls to sample different regional specialties. Air-conditioned and clean environment. Convenient location near Pavilion and Bukit Bintang. Perfect for groups wanting to try variety of Malaysian dishes.",
+    "photos": [
+      "/KL-trip/assets/images/activities/lot10-hutong/1.jpg",
+      "/KL-trip/assets/images/activities/lot10-hutong/2.jpg"
+    ],
+    "added_date": "2025-10-15",
+    "source": "proactive_research"
+  },
+  {
+    "id": 26,
+    "name": "Madam Kwan's",
+    "category": "Food & Dining",
+    "subcategory": "Malaysian Restaurant",
+    "description": "A beloved Malaysian restaurant chain known for serving refined versions of local favorites in a comfortable, modern setting. Madam Kwan's signature nasi lemak with beef rendang is legendary, alongside other classics like assam laksa, curry laksa, and Hainanese chicken chop. The extensive menu and multiple locations make it convenient for groups.",
+    "location": "Multiple locations - Pavilion KL (Level 6), KLCC Suria (Level 2), and others",
+    "cost_rm": 28,
+    "cost_usd": 6.2,
+    "duration_hours": 1.5,
+    "best_time": "Lunch or dinner; reservations recommended for large groups",
+    "tips": "Must-try: Nasi Lemak with Beef Rendang (RM24.99). Portions are generous. Good for groups wanting authentic Malaysian food in comfortable air-conditioned setting. Prices include 10% service charge.",
+    "photos": [
+      "/KL-trip/assets/images/activities/madam-kwans/1.jpg",
+      "/KL-trip/assets/images/activities/madam-kwans/2.jpg"
+    ],
+    "added_date": "2025-10-15",
+    "source": "proactive_research"
+  },
+  {
+    "id": 27,
+    "name": "LOKL Coffee Co.",
+    "category": "Food & Dining",
+    "subcategory": "Heritage Cafe",
+    "description": "A charming cafe located in the historic heart of Kuala Lumpur, LOKL Coffee Co. serves locally-inspired meals, excellent coffee, and homemade cakes in a beautifully restored heritage building. The menu features creative twists on Malaysian flavors alongside Western brunch favorites, all made with local ingredients.",
+    "location": "30, Jalan Tun HS Lee, 50100 Kuala Lumpur (near Petaling Street, 5 min walk from LRT)",
+    "cost_rm": 22,
+    "cost_usd": 4.9,
+    "duration_hours": 1.5,
+    "best_time": "Morning 8am-12pm for breakfast/brunch; open daily 8am-5pm",
+    "tips": "Located in historic area near Petaling Street and Merdeka Square. Try their locally-inspired dishes and specialty coffee. Beautiful heritage architecture. Good for smaller groups (4-6 people).",
+    "photos": [
+      "/KL-trip/assets/images/activities/lokl-coffee/1.jpg",
+      "/KL-trip/assets/images/activities/lokl-coffee/2.jpg"
+    ],
+    "added_date": "2025-10-15",
+    "source": "proactive_research"
+  },
+  {
+    "id": 28,
+    "name": "Nasi Kandar Pelita",
+    "category": "Food & Dining",
+    "subcategory": "Indian-Muslim Cuisine",
+    "description": "A popular 24-hour nasi kandar restaurant offering authentic Indian-Muslim cuisine with generous portions at affordable prices. Famous for their 'kuah campur' (mixed curry gravy) poured over rice with a selection of curries, fried chicken, fish, vegetables, and other side dishes. The KLCC location is perfect for late-night cravings after exploring the city.",
+    "location": "Multiple locations - Near KLCC: No. 24, Ground Floor, Jalan 25/70A, Desa Sri Hartamas, 50480 Kuala Lumpur",
+    "cost_rm": 16,
+    "cost_usd": 3.6,
+    "duration_hours": 1,
+    "best_time": "Open 24 hours - perfect for late dinner or supper after nightlife",
+    "tips": "Point to the dishes you want and they'll mix the curries over your rice. Spice levels can be high - ask for less spicy if needed. Very affordable for large groups. Cash preferred.",
+    "photos": [
+      "/KL-trip/assets/images/activities/nasi-kandar-pelita/1.jpg",
+      "/KL-trip/assets/images/activities/nasi-kandar-pelita/2.jpg"
+    ],
+    "added_date": "2025-10-15",
+    "source": "proactive_research"
   }
 ]
