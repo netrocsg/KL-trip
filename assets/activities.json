@@ -471,5 +471,152 @@
     ],
     "added_date": "2025-10-14",
     "source": "proactive_research"
+  },
+  {
+    "id": 22,
+    "name": "Islamic Arts Museum Malaysia",
+    "category": "Culture & Heritage",
+    "subcategory": "Museum",
+    "description": "Southeast Asia's largest Islamic arts museum featuring over 12 permanent galleries showcasing Islamic artifacts, textiles, calligraphy, architecture models, and decorative arts spanning over a millennium. The museum's stunning architecture includes an inverted dome and beautiful Qajar mirrorwork in the MOZA Restaurant.",
+    "location": "Jalan Lembah Perdana, 50480 Kuala Lumpur (near National Mosque and Perdana Botanical Garden)",
+    "cost_rm": 20,
+    "cost_usd": 4.4,
+    "duration_hours": 2.5,
+    "best_time": "Weekday mornings for fewer crowds, open 9:30 AM - 6:00 PM daily",
+    "tips": "No dress code required. Award-winning MOZA Restaurant on-site. Accessible by LRT (Pasar Seni station, 10-min walk). Free parking available. Wheelchair accessible with lifts and ramps.",
+    "photos": [
+      "/KL-trip/assets/images/activities/islamic-arts-museum/1.jpg",
+      "/KL-trip/assets/images/activities/islamic-arts-museum/2.jpg",
+      "/KL-trip/assets/images/activities/islamic-arts-museum/3.jpg"
+    ],
+    "added_date": "2025-10-15",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 23,
+    "name": "National Museum (Muzium Negara)",
+    "category": "Culture & Heritage",
+    "subcategory": "Museum",
+    "description": "Malaysia's premier museum showcasing the nation's history, culture, and heritage through four main galleries covering early history, Malay kingdoms, colonial era, and modern Malaysia. The building features traditional Malay palace-style architecture with a distinctive roof and beautiful murals.",
+    "location": "Jalan Damansara, 50566 Kuala Lumpur (near KL Sentral)",
+    "cost_rm": 5,
+    "cost_usd": 1.1,
+    "duration_hours": 2,
+    "best_time": "Morning visits recommended, open 9:00 AM - 5:00 PM daily",
+    "tips": "Very affordable entry. Near KL Sentral station for easy access. Last admission 4:30 PM. Air-conditioned galleries. Closed first two days of Hari Raya. Great for understanding Malaysian history.",
+    "photos": [
+      "/KL-trip/assets/images/activities/national-museum-malaysia/1.jpg",
+      "/KL-trip/assets/images/activities/national-museum-malaysia/2.jpg",
+      "/KL-trip/assets/images/activities/national-museum-malaysia/3.jpg"
+    ],
+    "added_date": "2025-10-15",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 24,
+    "name": "Thean Hou Temple",
+    "category": "Culture & Heritage",
+    "subcategory": "Temple",
+    "description": "One of the oldest and largest Chinese temples in Southeast Asia, this six-tiered Hainanese temple is dedicated to the Goddess Mazu. Features stunning traditional architecture with ornate decorations, red lanterns, prayer halls, and panoramic city views from the hilltop location. Spectacular during festivals.",
+    "location": "65, Persiaran Endah, Taman Persiaran Desa, 50460 Kuala Lumpur",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 1.5,
+    "best_time": "Early morning or evening for better lighting, spectacular during Chinese New Year and Mid-Autumn Festival",
+    "tips": "Wear sunscreen and hat (exposed hilltop location). Respectful dress recommended. Great photo opportunities. Accessible by taxi/Grab. Donations welcome. Free entry but beautiful experience.",
+    "photos": [
+      "/KL-trip/assets/images/activities/thean-hou-temple/1.jpg",
+      "/KL-trip/assets/images/activities/thean-hou-temple/2.jpg",
+      "/KL-trip/assets/images/activities/thean-hou-temple/3.jpg"
+    ],
+    "added_date": "2025-10-15",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 25,
+    "name": "Sri Mahamariamman Temple",
+    "category": "Culture & Heritage",
+    "subcategory": "Temple",
+    "description": "Kuala Lumpur's oldest Hindu temple, founded in 1873. This ornate South Indian temple features an impressive 5-tiered gopuram (tower) adorned with colorful statues of Hindu deities. Rich in history and architectural detail, it's a living testament to Malaysia's Indian heritage and multicultural roots.",
+    "location": "Jalan Tun H S Lee (Jalan Bandar), Chinatown, Kuala Lumpur",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 0.75,
+    "best_time": "Morning or evening prayers for authentic experience, open 6:00 AM - 9:00 PM",
+    "tips": "Remove shoes before entering. Dress modestly (shoulders and knees covered). Located at edge of Chinatown, easy to combine with Petaling Street visit. Photography allowed in courtyard. Donations appreciated.",
+    "photos": [
+      "/KL-trip/assets/images/activities/sri-mahamariamman-temple/1.jpg",
+      "/KL-trip/assets/images/activities/sri-mahamariamman-temple/2.jpg",
+      "/KL-trip/assets/images/activities/sri-mahamariamman-temple/3.jpg"
+    ],
+    "added_date": "2025-10-15",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 26,
+    "name": "Chan She Shu Yuen Clan Temple",
+    "category": "Culture & Heritage",
+    "subcategory": "Temple",
+    "description": "A stunning Cantonese-style ancestral hall built in 1908, featuring exquisite 100-year-old Shek Wan pottery panels, intricate wood carvings, and traditional Chinese architectural elements. One of KL's best-preserved clan houses and a masterpiece of southern Chinese craftsmanship.",
+    "location": "172, Jalan Petaling, Chinatown, 50000 Kuala Lumpur",
+    "cost_rm": 10,
+    "cost_usd": 2.2,
+    "duration_hours": 1,
+    "best_time": "Weekday afternoons, open 10:00 AM - 6:00 PM daily",
+    "tips": "Located at southern end of Petaling Street. Excellent example of traditional Chinese architecture. Great for photography enthusiasts. Guided information available. Small entrance fee supports preservation.",
+    "photos": [
+      "/KL-trip/assets/images/activities/chan-she-shu-yuen-temple/1.jpg",
+      "/KL-trip/assets/images/activities/chan-she-shu-yuen-temple/2.jpg",
+      "/KL-trip/assets/images/activities/chan-she-shu-yuen-temple/3.jpg"
+    ],
+    "added_date": "2025-10-15",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 27,
+    "name": "Bank Negara Malaysia Museum and Art Gallery",
+    "category": "Culture & Heritage",
+    "subcategory": "Museum",
+    "description": "A modern, interactive museum exploring Malaysia's economic and financial history through engaging exhibits on money, economics, and Islamic finance. Features the Children's Gallery, Numismatic Gallery, Art Gallery, and Economics Gallery with hands-on activities and multimedia displays.",
+    "location": "Sasana Kijang, 2 Jalan Dato Onn, 50480 Kuala Lumpur",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 2.5,
+    "best_time": "Weekday mornings, open 10:00 AM - 5:00 PM Tuesday-Sunday",
+    "tips": "Free admission and lockers available. Last admission 4:30 PM. Closed Mondays and first 3 days of Hari Raya. Great for families and groups. Gift shop with unique souvenirs. Near Merdeka Square.",
+    "photos": [
+      "/KL-trip/assets/images/activities/bank-negara-museum/1.jpg",
+      "/KL-trip/assets/images/activities/bank-negara-museum/2.jpg",
+      "/KL-trip/assets/images/activities/bank-negara-museum/3.jpg"
+    ],
+    "added_date": "2025-10-15",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 28,
+    "name": "Kuala Lumpur City Gallery",
+    "category": "Culture & Heritage",
+    "subcategory": "Museum",
+    "description": "Located in a beautifully restored colonial building at Merdeka Square, this gallery showcases KL's transformation through historical photos, maps, models, and multimedia exhibits. The highlight is the massive scale model of Kuala Lumpur. Features the iconic 'I Love KL' sculpture outside.",
+    "location": "No. 27, Jalan Raja, Dataran Merdeka, 50050 Kuala Lumpur",
+    "cost_rm": 10,
+    "cost_usd": 2.2,
+    "duration_hours": 1.5,
+    "best_time": "Morning or late afternoon, open 9:00 AM - 6:30 PM daily",
+    "tips": "Perfect starting point for KL exploration. RM5 of entry fee redeemable at gift shop/cafe. Located at historic Merdeka Square. ARCH Cafe on-site. Great souvenir shop. Combine with Sultan Abdul Samad Building visit.",
+    "photos": [
+      "/KL-trip/assets/images/activities/kl-city-gallery/1.jpg",
+      "/KL-trip/assets/images/activities/kl-city-gallery/2.jpg",
+      "/KL-trip/assets/images/activities/kl-city-gallery/3.jpg"
+    ],
+    "added_date": "2025-10-15",
+    "source": "proactive_research",
+    "difficulty": "Easy"
   }
 ]
