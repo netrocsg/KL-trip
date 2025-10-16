@@ -1,0 +1,56 @@
+{
+  "date": "2025-10-16",
+  "total_votes": 16,
+  "unique_users": 5,
+  "unique_activities_voted": 7,
+  "total_activities": 28,
+  "avg_votes_per_user": 3.2,
+  "avg_votes_per_activity": 2.29,
+  "top_activities": [
+    {
+      "activity_id": 1,
+      "votes": 4,
+      "activity_name": "District 21",
+      "category": "Adventure & Sports"
+    },
+    {
+      "activity_id": 2,
+      "votes": 2,
+      "activity_name": "SuperPark Malaysia",
+      "category": "Adventure & Sports"
+    },
+    {
+      "activity_id": 3,
+      "votes": 2,
+      "activity_name": "ESCAPE Petaling Jaya",
+      "category": "Adventure & Sports"
+    },
+    {
+      "activity_id": 4,
+      "votes": 2,
+      "activity_name": "LYL International Karting Circuit",
+      "category": "Adventure & Sports"
+    },
+    {
+      "activity_id": 5,
+      "votes": 2,
+      "activity_name": "Skytrex Adventure Sg Congkak",
+      "category": "Adventure & Sports"
+    },
+    {
+      "activity_id": 6,
+      "votes": 2,
+      "activity_name": "Jump Street Trampoline Park",
+      "category": "Adventure & Sports"
+    },
+    {
+      "activity_id": 7,
+      "votes": 2,
+      "activity_name": "Sunway Lagoon Theme Park",
+      "category": "Adventure & Sports"
+    }
+  ],
+  "category_breakdown": {
+    "Adventure & Sports": 16
+  }
+}
