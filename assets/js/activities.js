@@ -1,6 +1,5 @@
 // Load and display all activities
 console.log('activities.js script started');
-
 let allActivities = [
   {
     "id": 1,
@@ -43,8 +42,8 @@ let allActivities = [
       "weekend": 75
     },
     "cost_usd": {
-      "weekday": 14.00,
-      "weekend": 16.60
+      "weekday": 14.0,
+      "weekend": 16.6
     },
     "duration_hours": 3,
     "best_time": "Weekdays for fewer crowds. Check session times online.",
@@ -97,8 +96,8 @@ let allActivities = [
       "double_kart_10min": 90
     },
     "cost_usd": {
-      "single_kart_10min": 15.00,
-      "double_kart_10min": 19.00
+      "single_kart_10min": 15.0,
+      "double_kart_10min": 19.0
     },
     "duration_hours": 0.5,
     "best_time": "Evenings for cooler weather. Check availability and book in advance.",
@@ -125,9 +124,9 @@ let allActivities = [
       "extreme_challenge": 110
     },
     "cost_usd": {
-      "little_adventure": 12.00,
-      "big_thrill": 16.50,
-      "extreme_challenge": 24.00
+      "little_adventure": 12.0,
+      "big_thrill": 16.5,
+      "extreme_challenge": 24.0
     },
     "duration_hours": 1.5,
     "best_time": "Mornings for cooler weather. Book online in advance, especially on weekends.",
@@ -146,15 +145,15 @@ let allActivities = [
     "name": "Jump Street Trampoline Park",
     "category": "Adventure & Sports",
     "subcategory": "Trampoline Park",
-    "description": "Malaysia\\'s first indoor trampoline park, offering a variety of trampoline-based activities including free jumping, dodgeball, basketball, and a foam pit. Suitable for all ages.",
+    "description": "Malaysia's first indoor trampoline park, offering a variety of trampoline-based activities including free jumping, dodgeball, basketball, and a foam pit. Suitable for all ages.",
     "location": "No. 8, Jalan 13/6, Seksyen 13, 46200 Petaling Jaya, Selangor, Malaysia.",
     "cost_rm": {
       "per_hour": 30,
       "grip_socks": 5
     },
     "cost_usd": {
-      "per_hour": 6.50,
-      "grip_socks": 1.00
+      "per_hour": 6.5,
+      "grip_socks": 1.0
     },
     "duration_hours": 1,
     "best_time": "Weekdays for fewer crowds. Check session availability online.",
@@ -180,8 +179,8 @@ let allActivities = [
       "child_senior": 170
     },
     "cost_usd": {
-      "adult": 40.00,
-      "child_senior": 35.00
+      "adult": 40.0,
+      "child_senior": 35.0
     },
     "duration_hours": 8,
     "best_time": "Weekdays for fewer crowds. Arrive early to enjoy all attractions. Avoid public holidays.",
@@ -194,116 +193,1007 @@ let allActivities = [
     "added_date": "2025-10-09",
     "source": "proactive_research",
     "difficulty": "Varies by attraction"
+  },
+  {
+    "id": 8,
+    "name": "Camp5 Climbing Gym (1Utama)",
+    "category": "Adventure & Sports",
+    "subcategory": "Rock Climbing",
+    "description": "Malaysia's flagship climbing gym featuring the country's tallest indoor climbing wall at 20m. Offers both bouldering and roped climbing (top-rope and lead) with color-coded routes for all skill levels. Air-conditioned facility with cafe and pro shop on the 5th floor of 1Utama Shopping Centre.",
+    "location": "EZ501, 5th Floor, 1 Utama Shopping Centre, Bandar Utama, Petaling Jaya 47800, Selangor, Malaysia",
+    "cost_rm": 38,
+    "cost_usd": 8.4,
+    "duration_hours": 3.5,
+    "best_time": "Weekdays before 4pm for off-peak rates and fewer crowds",
+    "tips": "Wear comfortable athletic clothing. Grip socks recommended for bouldering. First-timers can register for RM35 including all equipment. Multiple Camp5 locations available across KL. Book online for convenience.",
+    "photos": [
+      "/KL-trip/assets/images/activities/camp5-1utama/1.jpg",
+      "/KL-trip/assets/images/activities/camp5-1utama/2.jpg",
+      "/KL-trip/assets/images/activities/camp5-1utama/3.jpg"
+    ],
+    "added_date": "2025-10-12",
+    "source": "proactive_research",
+    "difficulty": "Easy to Advanced"
+  },
+  {
+    "id": 9,
+    "name": "Breakout Escape Room",
+    "category": "Adventure & Sports",
+    "subcategory": "Escape Room",
+    "description": "Malaysia's largest escape room operator with 16 different themed rooms featuring high-quality props, special effects, and unique storylines. Each room offers a 55-minute challenge where teams must solve puzzles to escape. Also offers immersive Spy Game experiences with live actors.",
+    "location": "Multiple locations: NU Sentral KL, Avenue K KL, The Shore Melaka",
+    "cost_rm": 38,
+    "cost_usd": 8.4,
+    "duration_hours": 1,
+    "best_time": "Weekdays for better availability, book in advance",
+    "tips": "Book online in advance. Perfect for groups of 4-8 people. 15% discount if you play again within 30 days. Suitable for all ages and skill levels. Can do multiple rooms back-to-back for extended fun.",
+    "photos": [
+      "/KL-trip/assets/images/activities/breakout-escape-room/1.jpg",
+      "/KL-trip/assets/images/activities/breakout-escape-room/2.jpg"
+    ],
+    "added_date": "2025-10-12",
+    "source": "proactive_research",
+    "difficulty": "Moderate"
+  },
+  {
+    "id": 10,
+    "name": "Windlab Indoor Skydiving",
+    "category": "Adventure & Sports",
+    "subcategory": "Indoor Skydiving",
+    "description": "Experience the thrill of skydiving in a safe indoor environment with a 10-meter vertical wind tunnel. Professional instructors guide you through the experience of floating on air. Optional High Ride session whizzes you to the top of the tunnel for extra excitement.",
+    "location": "Sunway Pyramid, Petaling Jaya, Selangor, Malaysia",
+    "cost_rm": 108,
+    "cost_usd": 24.0,
+    "duration_hours": 1,
+    "best_time": "Off-peak hours for lower rates",
+    "tips": "Wear comfortable clothes, no loose items allowed. Minimum age 7 years. Great for first-time flyers and experienced skydivers. Book the High Ride for maximum thrill. Located in popular shopping mall with many dining options nearby.",
+    "photos": [
+      "/KL-trip/assets/images/activities/windlab-indoor-skydiving/1.jpg",
+      "/KL-trip/assets/images/activities/windlab-indoor-skydiving/2.jpg"
+    ],
+    "added_date": "2025-10-12",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 11,
+    "name": "White Water Rafting (Kuala Kubu Bharu)",
+    "category": "Adventure & Sports",
+    "subcategory": "Water Sports",
+    "description": "Grade 3-4 rapids adventure on the Selangor River, recognized as one of the best half-day rafting trips in Southeast Asia. Navigate 7km of thrilling rapids through lush rainforest with professional guides and full safety equipment. Perfect combination of adrenaline and natural beauty.",
+    "location": "Selangor River, Kuala Kubu Bharu, Selangor (approximately 1 hour from KL)",
+    "cost_rm": 180,
+    "cost_usd": 40.0,
+    "duration_hours": 2.5,
+    "best_time": "Morning departures, avoid rainy season (November-January)",
+    "tips": "Bring change of clothes and waterproof bag for valuables. Minimum age usually 12 years. Transport can be arranged from KL. All safety equipment provided. Great team bonding activity. Shower facilities available on-site.",
+    "photos": [
+      "/KL-trip/assets/images/activities/white-water-rafting-kkb/1.jpg",
+      "/KL-trip/assets/images/activities/white-water-rafting-kkb/2.jpg"
+    ],
+    "added_date": "2025-10-12",
+    "source": "proactive_research",
+    "difficulty": "Moderate to Challenging"
+  },
+  {
+    "id": 12,
+    "name": "ATV Adventure Ride (Kampung Kemensah)",
+    "category": "Adventure & Sports",
+    "subcategory": "Off-Road Adventure",
+    "description": "Off-road ATV adventure through jungle trails, riverbeds, and scenic landscapes. Ride brand new quad bikes with packages tailored to different skill levels. Experience includes stops at hidden waterfalls and local villages. No prior experience needed with full safety briefing and equipment provided.",
+    "location": "Kampung Kemensah, near Taman Zoo Negara (approximately 30 minutes from KL)",
+    "cost_rm": 120,
+    "cost_usd": 27.0,
+    "duration_hours": 2,
+    "best_time": "Morning for cooler weather and better trail conditions",
+    "tips": "Wear clothes you don't mind getting dirty and closed-toe shoes. Door-to-door transport available. Helmets and safety gear provided. Great for adventure seekers. Combine with waterfall visit for full experience.",
+    "photos": [
+      "/KL-trip/assets/images/activities/atv-adventure-kemensah/1.jpg",
+      "/KL-trip/assets/images/activities/atv-adventure-kemensah/2.jpg"
+    ],
+    "added_date": "2025-10-12",
+    "source": "proactive_research",
+    "difficulty": "Easy to Moderate"
+  },
+  {
+    "id": 13,
+    "name": "Laser Battle (Sunway)",
+    "category": "Adventure & Sports",
+    "subcategory": "Laser Tag",
+    "description": "Malaysia's largest laser tag arena with 5000 square feet of tactical gameplay. State-of-the-art equipment with interactive game modes in a futuristic arena. Multiple game scenarios available including team battles, capture the flag, and free-for-all modes. Perfect for competitive team fun.",
+    "location": "Sunway Big Box, Sunway City, Petaling Jaya, Selangor",
+    "cost_rm": 35,
+    "cost_usd": 8.0,
+    "duration_hours": 1.5,
+    "best_time": "Weekdays for less crowds and better group rates",
+    "tips": "Wear comfortable athletic shoes. Book for groups online for better rates. Multiple game modes available. Great for team building and friendly competition. Located in Sunway entertainment district with many dining options.",
+    "photos": [
+      "/KL-trip/assets/images/activities/laser-battle-sunway/1.jpg",
+      "/KL-trip/assets/images/activities/laser-battle-sunway/2.jpg"
+    ],
+    "added_date": "2025-10-12",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 14,
+    "name": "Mudtrekkerz Paintball Park",
+    "category": "Adventure & Sports",
+    "subcategory": "Paintball",
+    "description": "Malaysia's largest paintball park featuring 2 speedball fields and 3 themed scenario fields including Camelot Castle and Wild West. Corporate and family friendly facility with professional equipment and comprehensive safety gear. Multiple game modes for different group sizes and skill levels.",
+    "location": "Shah Alam, Selangor (approximately 30-40 minutes from KL)",
+    "cost_rm": 100,
+    "cost_usd": 22.0,
+    "duration_hours": 2.5,
+    "best_time": "Weekends for full group experience, weekdays for private sessions",
+    "tips": "Wear old clothes and closed-toe shoes. Bring change of clothes. Safety briefing mandatory. All equipment and paintballs included in packages. Great for team building and corporate events. Shower facilities available.",
+    "photos": [
+      "/KL-trip/assets/images/activities/mudtrekkerz-paintball/1.jpg"
+    ],
+    "added_date": "2025-10-12",
+    "source": "proactive_research",
+    "difficulty": "Easy to Moderate"
+  },
+  {
+    "id": 15,
+    "name": "Sky51 at EQ Hotel",
+    "category": "Nightlife & Entertainment",
+    "subcategory": "Rooftop Bar",
+    "description": "A sophisticated rooftop destination on the 51st floor of EQ Kuala Lumpur featuring Blue (an elegant indoor lounge) and Sky51 (a spectacular alfresco terrace). Offers panoramic views of KL Tower and Petronas Twin Towers, fine cocktails with Malaysian botanicals, and live DJs on weekends. Also home to Sabayon, an award-winning rooftop restaurant serving contemporary European cuisine.",
+    "location": "51st Floor, EQ Kuala Lumpur, Jalan Sultan Ismail, 50250 Kuala Lumpur",
+    "cost_rm": 100,
+    "cost_usd": 22,
+    "duration_hours": 2.5,
+    "best_time": "Sunset or evening, weekends for live DJ performances",
+    "tips": "Minimum spend RM100+ per person. Dress for success - popular among trendy crowd. Don't miss Sunday Sky Brunch. Smart casual dress code required.",
+    "photos": [
+      "/KL-trip/assets/images/activities/sky51-eq-hotel/1.jpg",
+      "/KL-trip/assets/images/activities/sky51-eq-hotel/2.jpg",
+      "/KL-trip/assets/images/activities/sky51-eq-hotel/3.jpg"
+    ],
+    "added_date": "2025-10-13",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 16,
+    "name": "Helipad KL (Heli Lounge Bar)",
+    "category": "Nightlife & Entertainment",
+    "subcategory": "Rooftop Bar",
+    "description": "A unique rooftop bar set on an actual working helipad, offering uninterrupted 360-degree panoramic views of Kuala Lumpur. With no walls or rails, this open-air terrace provides a truly unique experience. Features classic cocktails, Asian bar bites (wings are superb), and a high-energy vibe with younger crowds at night.",
+    "location": "34 Menara KH, Jalan Sultan Ismail, Bukit Bintang, 50450 Kuala Lumpur",
+    "cost_rm": 45,
+    "cost_usd": 10,
+    "duration_hours": 2,
+    "best_time": "Sunset for spectacular views, arrive close to opening time as it fills up quickly",
+    "tips": "Casual dress before 9pm, smart casual after 9pm. Not suitable for those with fear of heights. Try sunrise yoga sessions. Walk-ins only, no reservations.",
+    "photos": [
+      "/KL-trip/assets/images/activities/helipad-kl/1.jpg",
+      "/KL-trip/assets/images/activities/helipad-kl/2.jpg",
+      "/KL-trip/assets/images/activities/helipad-kl/3.jpg"
+    ],
+    "added_date": "2025-10-13",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 17,
+    "name": "Cielo KL Rooftop Dining & Lounge",
+    "category": "Nightlife & Entertainment",
+    "subcategory": "Rooftop Restaurant & Bar",
+    "description": "An elegant rooftop destination perched atop VIDA Bukit Ceylon, offering both fine dining and cocktail lounge experiences. Features a retractable roof for all-weather enjoyment, panoramic KL skyline views, delectable seafood and European cuisine, and a wine cellar with 170+ labels. Perfect for romantic dates with intimate, sophisticated atmosphere.",
+    "location": "23-01, VIDA Bukit Ceylon, Jalan Ceylon, Bukit Ceylon, 50200 Kuala Lumpur",
+    "cost_rm": 135,
+    "cost_usd": 30,
+    "duration_hours": 2.5,
+    "best_time": "Evening for dinner and sunset views",
+    "tips": "Great for wine lovers with extensive wine selection. Book in advance for romantic dates. Smart casual dress code, no flip flops permitted.",
+    "photos": [
+      "/KL-trip/assets/images/activities/cielo-kl/1.jpg",
+      "/KL-trip/assets/images/activities/cielo-kl/2.jpg"
+    ],
+    "added_date": "2025-10-13",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 18,
+    "name": "PS150 Speakeasy Bar",
+    "category": "Nightlife & Entertainment",
+    "subcategory": "Speakeasy Cocktail Bar",
+    "description": "A hidden speakeasy cocktail bar in Chinatown's Petaling Street, housed in a pre-war shophouse. Enter through a toy store to discover three distinct seating areas: the intimate Opium Den, outdoor courtyard, and the Main Bar. Features Southeast Asian-inspired cocktails with bold local flavors, divided into five eras (Vintage, Classic, Tiki, Disco, Contemporary).",
+    "location": "150 Petaling Street, Chinatown, 50000 Kuala Lumpur",
+    "cost_rm": 55,
+    "cost_usd": 12,
+    "duration_hours": 2,
+    "best_time": "Evening, closed Monday-Tuesday, opens 8pm-2am",
+    "tips": "Enter through the toy store next to Merchant's Lane cafe. Reservations recommended. Try adventurous cocktails with local ingredients. Smart casual dress code.",
+    "photos": [
+      "/KL-trip/assets/images/activities/ps150-speakeasy/1.jpg",
+      "/KL-trip/assets/images/activities/ps150-speakeasy/2.jpg"
+    ],
+    "added_date": "2025-10-13",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 19,
+    "name": "No Black Tie Jazz Venue",
+    "category": "Nightlife & Entertainment",
+    "subcategory": "Live Music Venue",
+    "description": "Kuala Lumpur's premier live jazz and music venue, offering an intimate setting for world-class performances. This legendary spot features different bands every Saturday, wine-paired dinner options, and excellent acoustics. A favorite among music lovers both locally and internationally, with a cozy, living room-like atmosphere.",
+    "location": "17 Jalan Mesui, Off Jalan Nagasari, 50200 Kuala Lumpur",
+    "cost_rm": 40,
+    "cost_usd": 9,
+    "duration_hours": 2.5,
+    "best_time": "Saturday evenings for different band performances",
+    "tips": "Cover charge RM30-50+ depending on artist (drinks/food separate). Book in advance for popular acts. Smart casual dress code (no formal attire required, as name suggests).",
+    "photos": [
+      "/KL-trip/assets/images/activities/no-black-tie/1.jpg",
+      "/KL-trip/assets/images/activities/no-black-tie/2.jpg"
+    ],
+    "added_date": "2025-10-13",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 20,
+    "name": "Zouk Club KL",
+    "category": "Nightlife & Entertainment",
+    "subcategory": "Nightclub",
+    "description": "Malaysia's premier nightclub destination featuring 5 different rooms with varied music styles and atmospheres. World-class DJs, spectacular views of Petronas Towers, and state-of-the-art sound and lighting systems. Each room offers unique experiences from EDM to hip-hop, making it perfect for groups wanting diverse nightlife experiences.",
+    "location": "TREC KL, Jalan Tun Razak, Kuala Lumpur",
+    "cost_rm": 65,
+    "cost_usd": 14,
+    "duration_hours": 4,
+    "best_time": "Friday and Saturday nights for best atmosphere and DJ lineups",
+    "tips": "Entry fee RM55-80. Popular with younger crowd, can get very crowded. Dress code enforced. Book table service for groups. Multiple rooms allow exploring different music genres.",
+    "photos": [
+      "/KL-trip/assets/images/activities/zouk-club-kl/1.jpg",
+      "/KL-trip/assets/images/activities/zouk-club-kl/2.jpg"
+    ],
+    "added_date": "2025-10-13",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 21,
+    "name": "Vertigo & Horizon Grill at Banyan Tree",
+    "category": "Nightlife & Entertainment",
+    "subcategory": "Rooftop Restaurant & Bar",
+    "description": "A multi-level rooftop destination spanning the 59th and 60th floors of Banyan Tree Kuala Lumpur. Vertigo bar offers indoor and outdoor terraces with breathtaking 360° views, while Horizon Grill serves premium steaks and seafood. Recently added Vertigo TOO on the 60th floor takes the experience even higher with chill-out drinking and live DJs.",
+    "location": "Level 59-60, Banyan Tree Kuala Lumpur, 2 Jalan Conlay, 50450 Kuala Lumpur",
+    "cost_rm": 58,
+    "cost_usd": 13,
+    "duration_hours": 2.5,
+    "best_time": "Sunset for spectacular views, evenings for romantic dinner",
+    "tips": "Start with drinks at Vertigo, finish with dinner at Horizon Grill. Front-row views of Petronas Twin Towers. Smart casual dress code. Book in advance for dinner.",
+    "photos": [
+      "/KL-trip/assets/images/activities/vertigo-banyan-tree/1.jpg",
+      "/KL-trip/assets/images/activities/vertigo-banyan-tree/2.jpg",
+      "/KL-trip/assets/images/activities/vertigo-banyan-tree/3.jpg"
+    ],
+    "added_date": "2025-10-13",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 22,
+    "name": "Village Park Restaurant",
+    "category": "Food & Dining",
+    "subcategory": "Local Cuisine",
+    "description": "Famous for serving one of the best nasi lemak in Kuala Lumpur, Village Park Restaurant is a must-visit for authentic Malaysian breakfast. Their signature dish features fragrant coconut rice, crispy fried chicken drumstick, spicy sambal, peanuts, anchovies, and a hard-boiled egg. Despite the long queues, especially on weekends, the generous portions and reasonable prices make it worth the wait.",
+    "location": "5, Jalan SS 21/37, Damansara Utama, 47400 Petaling Jaya, Selangor (about 20 min from KLCC)",
+    "cost_rm": 12,
+    "cost_usd": 2.7,
+    "duration_hours": 1.5,
+    "best_time": "Weekday mornings (7-9am) to avoid weekend crowds",
+    "tips": "Arrive early to beat the crowds. The chicken drumstick nasi lemak is their signature dish. Cash payment preferred. Great for groups wanting authentic local breakfast experience.",
+    "photos": [
+      "/KL-trip/assets/images/activities/village-park-restaurant/1.jpg",
+      "/KL-trip/assets/images/activities/village-park-restaurant/2.jpg"
+    ],
+    "added_date": "2025-10-15",
+    "source": "proactive_research"
+  },
+  {
+    "id": 23,
+    "name": "Jalan Alor Food Street",
+    "category": "Food & Dining",
+    "subcategory": "Street Food",
+    "description": "Jalan Alor is Kuala Lumpur's most famous food street, transforming into a vibrant open-air hawker paradise every evening. This bustling street offers an incredible variety of Malaysian and Chinese street food, from Wong Ah Wah's legendary chicken wings to fresh seafood, satay, char kway teow, and exotic fruits like durian. The lively atmosphere with colorful lights and outdoor seating makes it perfect for group dining.",
+    "location": "Jalan Alor, Bukit Bintang, 50200 Kuala Lumpur (walking distance from Bukit Bintang)",
+    "cost_rm": 25,
+    "cost_usd": 5.6,
+    "duration_hours": 2.5,
+    "best_time": "Evening 6pm-midnight (peak atmosphere 7-10pm)",
+    "tips": "Try Wong Ah Wah's chicken wings (RM20 small portion), satay (RM16/10 pieces), and char kway teow (RM10). Bargain for seafood prices. Perfect for groups to share multiple dishes. Cash recommended.",
+    "photos": [
+      "/KL-trip/assets/images/activities/jalan-alor/1.jpg",
+      "/KL-trip/assets/images/activities/jalan-alor/2.jpg",
+      "/KL-trip/assets/images/activities/jalan-alor/3.jpg"
+    ],
+    "added_date": "2025-10-15",
+    "source": "proactive_research"
+  },
+  {
+    "id": 24,
+    "name": "Feeka Coffee Roasters",
+    "category": "Food & Dining",
+    "subcategory": "Cafe",
+    "description": "A popular hipster cafe in the heart of Bukit Bintang, Feeka Coffee Roasters offers a peaceful escape from KL's busy streets. Known for their excellent coffee, all-day breakfast, and Instagram-worthy brunch dishes like acai bowls, eggs royale, and artisan pastries. The cozy industrial-chic interior makes it ideal for casual group meetups or working sessions.",
+    "location": "19, Jalan Mesui, Bukit Bintang, 50200 Kuala Lumpur",
+    "cost_rm": 25,
+    "cost_usd": 5.6,
+    "duration_hours": 2,
+    "best_time": "Morning 9am-12pm for breakfast, or afternoon 2-5pm for coffee",
+    "tips": "Try the Salmon Eggs Royale (RM32), Tropical Bowl (RM19), or their signature coffee drinks. Reservations recommended for weekends. Free WiFi available. Great for groups of 4-6.",
+    "photos": [
+      "/KL-trip/assets/images/activities/feeka-coffee/1.jpg",
+      "/KL-trip/assets/images/activities/feeka-coffee/2.jpg"
+    ],
+    "added_date": "2025-10-15",
+    "source": "proactive_research"
+  },
+  {
+    "id": 25,
+    "name": "Lot 10 Hutong",
+    "category": "Food & Dining",
+    "subcategory": "Food Court",
+    "description": "An award-winning heritage food court located in the basement of Lot 10 Shopping Centre, Hutong brings together legendary hawker stalls from across Malaysia under one roof. Each vendor specializes in authentic traditional dishes passed down through generations, offering a curated culinary journey through Malaysian food culture in air-conditioned comfort.",
+    "location": "Lower Ground Floor, Lot 10 Shopping Centre, 50 Jalan Sultan Ismail, 50250 Kuala Lumpur",
+    "cost_rm": 18,
+    "cost_usd": 4.0,
+    "duration_hours": 1.5,
+    "best_time": "Lunch 12-2pm or dinner 6-8pm; open daily 10am-10pm",
+    "tips": "Try multiple stalls to sample different regional specialties. Air-conditioned and clean environment. Convenient location near Pavilion and Bukit Bintang. Perfect for groups wanting to try variety of Malaysian dishes.",
+    "photos": [
+      "/KL-trip/assets/images/activities/lot10-hutong/1.jpg",
+      "/KL-trip/assets/images/activities/lot10-hutong/2.jpg"
+    ],
+    "added_date": "2025-10-15",
+    "source": "proactive_research"
+  },
+  {
+    "id": 26,
+    "name": "Madam Kwan's",
+    "category": "Food & Dining",
+    "subcategory": "Malaysian Restaurant",
+    "description": "A beloved Malaysian restaurant chain known for serving refined versions of local favorites in a comfortable, modern setting. Madam Kwan's signature nasi lemak with beef rendang is legendary, alongside other classics like assam laksa, curry laksa, and Hainanese chicken chop. The extensive menu and multiple locations make it convenient for groups.",
+    "location": "Multiple locations - Pavilion KL (Level 6), KLCC Suria (Level 2), and others",
+    "cost_rm": 28,
+    "cost_usd": 6.2,
+    "duration_hours": 1.5,
+    "best_time": "Lunch or dinner; reservations recommended for large groups",
+    "tips": "Must-try: Nasi Lemak with Beef Rendang (RM24.99). Portions are generous. Good for groups wanting authentic Malaysian food in comfortable air-conditioned setting. Prices include 10% service charge.",
+    "photos": [
+      "/KL-trip/assets/images/activities/madam-kwans/1.jpg",
+      "/KL-trip/assets/images/activities/madam-kwans/2.jpg"
+    ],
+    "added_date": "2025-10-15",
+    "source": "proactive_research"
+  },
+  {
+    "id": 27,
+    "name": "LOKL Coffee Co.",
+    "category": "Food & Dining",
+    "subcategory": "Heritage Cafe",
+    "description": "A charming cafe located in the historic heart of Kuala Lumpur, LOKL Coffee Co. serves locally-inspired meals, excellent coffee, and homemade cakes in a beautifully restored heritage building. The menu features creative twists on Malaysian flavors alongside Western brunch favorites, all made with local ingredients.",
+    "location": "30, Jalan Tun HS Lee, 50100 Kuala Lumpur (near Petaling Street, 5 min walk from LRT)",
+    "cost_rm": 22,
+    "cost_usd": 4.9,
+    "duration_hours": 1.5,
+    "best_time": "Morning 8am-12pm for breakfast/brunch; open daily 8am-5pm",
+    "tips": "Located in historic area near Petaling Street and Merdeka Square. Try their locally-inspired dishes and specialty coffee. Beautiful heritage architecture. Good for smaller groups (4-6 people).",
+    "photos": [
+      "/KL-trip/assets/images/activities/lokl-coffee/1.jpg",
+      "/KL-trip/assets/images/activities/lokl-coffee/2.jpg"
+    ],
+    "added_date": "2025-10-15",
+    "source": "proactive_research"
+  },
+  {
+    "id": 28,
+    "name": "Nasi Kandar Pelita",
+    "category": "Food & Dining",
+    "subcategory": "Indian-Muslim Cuisine",
+    "description": "A popular 24-hour nasi kandar restaurant offering authentic Indian-Muslim cuisine with generous portions at affordable prices. Famous for their 'kuah campur' (mixed curry gravy) poured over rice with a selection of curries, fried chicken, fish, vegetables, and other side dishes. The KLCC location is perfect for late-night cravings after exploring the city.",
+    "location": "Multiple locations - Near KLCC: No. 24, Ground Floor, Jalan 25/70A, Desa Sri Hartamas, 50480 Kuala Lumpur",
+    "cost_rm": 16,
+    "cost_usd": 3.6,
+    "duration_hours": 1,
+    "best_time": "Open 24 hours - perfect for late dinner or supper after nightlife",
+    "tips": "Point to the dishes you want and they'll mix the curries over your rice. Spice levels can be high - ask for less spicy if needed. Very affordable for large groups. Cash preferred.",
+    "photos": [
+      "/KL-trip/assets/images/activities/nasi-kandar-pelita/1.jpg",
+      "/KL-trip/assets/images/activities/nasi-kandar-pelita/2.jpg"
+    ],
+    "added_date": "2025-10-15",
+    "source": "proactive_research"
+  },
+  {
+    "id": 29,
+    "name": "Camp5 Jumpa Climbing Gym",
+    "category": "Adventure & Sports",
+    "subcategory": "Climbing & Active Park",
+    "description": "Located in the heart of Bukit Bintang at Sungei Wang Plaza, Camp5 Jumpa features 15-meter high lead walls, bouldering areas, and 9-11m top roping. The facility also includes Beastpark, an active park with ninja courses and suspended netting challenges suitable for all ages.",
+    "location": "3rd Floor Jumpa Mall, Sungei Wang Plaza, Jalan Sultan Ismail, Bukit Bintang KL 59200",
+    "cost_rm": {
+      "weekday_active": 31.5,
+      "weekend_active": 42,
+      "combo_deal": 85
+    },
+    "cost_usd": {
+      "weekday_active": 7,
+      "weekend_active": 9.5,
+      "combo_deal": 19
+    },
+    "duration_hours": 2.5,
+    "best_time": "Weekdays before 4pm for off-peak pricing and fewer crowds.",
+    "suitable_for": "Groups of all skill levels, ages 7+",
+    "booking_required": true,
+    "contact": {
+      "whatsapp": "+60126673571",
+      "email": "jumpa@camp5.com"
+    },
+    "opening_hours": "Mon-Fri 12PM-10PM, Weekends 10AM-8PM",
+    "tips": "Book online to avoid queues. Wear comfortable athletic clothing. Off-peak rates apply before 4pm on weekdays. Combo deal includes both climbing and Beastpark activities.",
+    "images": [],
+    "tags": [
+      "climbing",
+      "bouldering",
+      "ninja course",
+      "indoor",
+      "central location",
+      "group friendly"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "WINDLAB Indoor Skydiving",
+    "category": "Adventure & Sports",
+    "subcategory": "Indoor Skydiving",
+    "description": "Malaysia's only indoor skydiving facility featuring a vertical wind tunnel that simulates free-fall in a safe and controlled environment. Experience the thrill of skydiving without jumping from a plane. Suitable for ages 3 to 100+ years old.",
+    "location": "Level 2, 1Utama Shopping Centre, Petaling Jaya (about 30 min from Bukit Bintang)",
+    "cost_rm": {
+      "2_flights_offpeak": 108,
+      "2_flights_peak": 138,
+      "4_flights_offpeak": 168,
+      "4_flights_peak": 198
+    },
+    "cost_usd": {
+      "2_flights_offpeak": 24,
+      "2_flights_peak": 31,
+      "4_flights_offpeak": 38,
+      "4_flights_peak": 44
+    },
+    "duration_hours": 1.25,
+    "best_time": "Weekdays for off-peak pricing (excludes public holidays and Jan/Jul/Aug/Dec).",
+    "suitable_for": "All ages 3-100+, suitable for people with disabilities",
+    "booking_required": true,
+    "contact": {
+      "phone": "+60377285588",
+      "mobile": "+60122244342"
+    },
+    "opening_hours": "Check website for session times",
+    "tips": "Arrive 1 hour before scheduled flight time. Wear comfortable clothes and closed-toe laced shoes. All gear provided. Free viewing gallery for spectators.",
+    "images": [],
+    "tags": [
+      "indoor skydiving",
+      "wind tunnel",
+      "unique experience",
+      "all ages",
+      "group friendly"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Jump Street Trampoline Park",
+    "category": "Adventure & Sports",
+    "subcategory": "Trampoline Park",
+    "description": "Malaysia's first and biggest indoor trampoline park featuring wall-to-wall trampolines, foam pits, slam dunk zones, dodgeball courts, zipline, and high-performance areas. Over 9,000 square feet of bouncing space with various attractions suitable for all ages.",
+    "location": "Petaling Jaya (near 1Utama area, about 25-30 min from Bukit Bintang)",
+    "cost_rm": {
+      "3hrs_night": 29,
+      "3hrs_weekday": 45,
+      "3hrs_public_holiday": 50,
+      "whole_day": 65,
+      "whole_day_public_holiday": 70
+    },
+    "cost_usd": {
+      "3hrs_night": 6.5,
+      "3hrs_weekday": 10,
+      "3hrs_public_holiday": 11,
+      "whole_day": 14.5,
+      "whole_day_public_holiday": 15.75
+    },
+    "duration_hours": 3,
+    "best_time": "Weekday night sessions for best pricing, weekdays generally less crowded.",
+    "suitable_for": "All ages and fitness levels",
+    "booking_required": true,
+    "contact": {
+      "website": "jumpstreetasia.com"
+    },
+    "opening_hours": "Check website for current hours",
+    "tips": "Book tickets online in advance. Grip socks required (available for purchase). Multiple attractions including dodgeball, basketball, foam pit, zipline.",
+    "images": [],
+    "tags": [
+      "trampoline",
+      "indoor",
+      "dodgeball",
+      "foam pit",
+      "zipline",
+      "group activities"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Arena 51 Archery Tag",
+    "category": "Adventure & Sports",
+    "subcategory": "Combat Sport",
+    "description": "Malaysia's largest Archery Tag provider offering a unique combat sport that combines elements of paintball, dodgeball, and traditional archery. Uses specially designed foam-tipped arrows making it virtually painless and mess-free. Safe for ages 10 and above.",
+    "location": "Various locations in Klang Valley (mobile service, can set up at venues)",
+    "cost_rm": {
+      "45min_10pax": 420,
+      "1hr_20pax": 720,
+      "2hrs_40pax": 1250,
+      "per_person_min": 31.25,
+      "per_person_max": 42
+    },
+    "cost_usd": {
+      "45min_10pax": 94,
+      "1hr_20pax": 161,
+      "2hrs_40pax": 280
+    },
+    "duration_hours": 1,
+    "best_time": "Can be arranged anytime, anywhere - mobile service available.",
+    "suitable_for": "Ages 10+, great for corporate team building",
+    "booking_required": true,
+    "contact": {
+      "website": "arena51.my"
+    },
+    "opening_hours": "By appointment",
+    "tips": "Requires 50% deposit at least 5 working days prior. All equipment and masks provided. Minimum 10 players required. Can be played indoors or outdoors.",
+    "images": [],
+    "tags": [
+      "archery tag",
+      "combat sport",
+      "team building",
+      "mobile service",
+      "group activity"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Sunway Lagoon Theme Park",
+    "category": "Adventure & Sports",
+    "subcategory": "Theme Park",
+    "description": "Malaysia's premier multi-park theme park featuring 7 different experiences: Water Park, Amusement Park, Wildlife Park, Extreme Park, Scream Park, Nickelodeon Lost Lagoon, and Lynton V Harris' Scream Park. Over 90 attractions including water slides, thrill rides, and animal encounters.",
+    "location": "Sunway City, Petaling Jaya (about 30 min from Bukit Bintang)",
+    "cost_rm": {
+      "malaysian_min": 145,
+      "malaysian_max": 180,
+      "international_min": 195,
+      "international_max": 245
+    },
+    "cost_usd": {
+      "malaysian_min": 32,
+      "malaysian_max": 40,
+      "international_min": 44,
+      "international_max": 55
+    },
+    "duration_hours": 9,
+    "best_time": "Weekdays for fewer crowds, arrive early to maximize time.",
+    "suitable_for": "All ages, families, groups",
+    "booking_required": true,
+    "contact": {
+      "website": "sunwaylagoon.com"
+    },
+    "opening_hours": "Typically 10am-6pm, check website for current hours",
+    "tips": "Buy tickets online to skip queues. Includes ALL 7 parks and most attractions. Bring swimwear, towels, and change of clothes. Lockers and cabana rentals available.",
+    "images": [],
+    "tags": [
+      "theme park",
+      "water park",
+      "wildlife",
+      "full day",
+      "family friendly",
+      "90+ attractions"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Skytrex Adventure Shah Alam",
+    "category": "Adventure & Sports",
+    "subcategory": "High Rope Course",
+    "description": "Malaysia's first forest adventure park featuring high-rope obstacle courses set in a natural forest environment. Multiple circuits with varying difficulty levels from beginner to advanced, including ziplines, rope bridges, and aerial challenges.",
+    "location": "Taman Botani Negara Shah Alam (about 35-40 min from Bukit Bintang)",
+    "cost_rm": {
+      "beginner_online": 45,
+      "intermediate_online": 55,
+      "advanced_online": 65,
+      "park_entrance": 3
+    },
+    "cost_usd": {
+      "beginner_online": 10,
+      "intermediate_online": 12,
+      "advanced_online": 14.5
+    },
+    "duration_hours": 2.5,
+    "best_time": "Morning or late afternoon to avoid midday heat, weekdays less crowded.",
+    "suitable_for": "Ages 7+, minimum height 110cm-140cm depending on circuit",
+    "booking_required": true,
+    "contact": {
+      "website": "skytrex-adventure.com"
+    },
+    "opening_hours": "Check website for current hours",
+    "tips": "Book tickets online in advance for better pricing. Wear comfortable athletic clothing and closed-toe shoes. Bring water and insect repellent. Safety briefing and equipment provided.",
+    "images": [],
+    "tags": [
+      "high rope course",
+      "zipline",
+      "forest",
+      "outdoor",
+      "team building",
+      "multiple difficulty levels"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "VAR LIVE VR Theme Park",
+    "category": "Adventure & Sports",
+    "subcategory": "Virtual Reality",
+    "description": "Malaysia's largest virtual reality theme park featuring 13 exciting in-house VR attractions including Zombie Jail, Crazy Rush, Super Ninja, Viking Craft, and Horror Hospital. Experience cutting-edge VR technology with somatosensory feedback and immersive multi-sensory experiences.",
+    "location": "MyTOWN Shopping Centre, Kuala Lumpur (about 20-25 min from Bukit Bintang)",
+    "cost_rm": {
+      "single_game": 46,
+      "triple_combo": 120,
+      "one_day_pass": 150
+    },
+    "cost_usd": {
+      "single_game": 10.29,
+      "triple_combo": 27,
+      "one_day_pass": 33.5
+    },
+    "duration_hours": 2,
+    "best_time": "Weekdays for shorter wait times, indoor activity suitable anytime.",
+    "suitable_for": "Ages with minimum height 110cm",
+    "booking_required": true,
+    "contact": {
+      "website": "klook.com",
+      "location": "MyTOWN Shopping Centre"
+    },
+    "opening_hours": "Check shopping mall hours",
+    "tips": "Book online through Klook for better pricing. 13 different VR experiences to choose from. Includes horror, racing, shooting, and adventure games. Highly rated (4.6/5 from 418 reviews).",
+    "images": [],
+    "tags": [
+      "virtual reality",
+      "VR",
+      "indoor",
+      "13 experiences",
+      "technology",
+      "group friendly"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Islamic Arts Museum Malaysia",
+    "category": "Culture & Heritage",
+    "subcategory": "Museum",
+    "description": "Southeast Asia's largest Islamic arts museum featuring over 7,000 artifacts spanning more than a millennium of Islamic art. The museum showcases 12 permanent galleries with collections including architecture, textiles, jewelry, weaponry, ceramics, manuscripts, and contemporary Islamic art. The building itself features stunning Islamic architectural elements including Qajar mirrorwork.",
+    "location": "Jalan Lembah Perdana, 50480 Kuala Lumpur (near Masjid Negara and Perdana Botanical Garden)",
+    "cost_rm": 20,
+    "cost_usd": 4.4,
+    "duration_hours": 2.5,
+    "best_time": "Weekday mornings for fewer crowds, avoid public holidays",
+    "tips": "No booking required. Free parking available. MOZA Restaurant on-site. Museum shop with Islamic art books. Wheelchair accessible. Combine visit with nearby Masjid Negara. Allow 2-3 hours to fully appreciate collections.",
+    "photos": [
+      "/KL-trip/assets/images/activities/islamic-arts-museum/1.jpg",
+      "/KL-trip/assets/images/activities/islamic-arts-museum/2.jpg",
+      "/KL-trip/assets/images/activities/islamic-arts-museum/3.jpg"
+    ],
+    "added_date": "2025-10-16",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 37,
+    "name": "National Museum Malaysia",
+    "category": "Culture & Heritage",
+    "subcategory": "Museum",
+    "description": "Malaysia's premier national museum showcasing the country's rich cultural heritage and history. Features four main galleries covering Early History, Malay Kingdoms, Colonial Era, and Malaysia Today. Collections include archaeological artifacts, traditional crafts, royal regalia, historical documents, and cultural exhibits representing Malaysia's diverse ethnic communities.",
+    "location": "Jalan Damansara, Perdana Botanical Gardens, 50566 Kuala Lumpur (near Lake Gardens)",
+    "cost_rm": 5,
+    "cost_usd": 1.1,
+    "duration_hours": 1.75,
+    "best_time": "Weekday mornings, avoid weekends for quieter experience",
+    "tips": "Very affordable admission. Photography without flash permitted. Wheelchair accessible. Cafeteria and souvenir shop on-site. Prayer room available. Direct MRT access. Combine with nearby Lake Gardens attractions.",
+    "photos": [
+      "/KL-trip/assets/images/activities/national-museum/1.jpg",
+      "/KL-trip/assets/images/activities/national-museum/2.jpg",
+      "/KL-trip/assets/images/activities/national-museum/3.jpg"
+    ],
+    "added_date": "2025-10-16",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 38,
+    "name": "Thean Hou Temple",
+    "category": "Culture & Heritage",
+    "subcategory": "Temple",
+    "description": "One of the oldest and largest Chinese temples in Southeast Asia, this six-tiered Buddhist temple is dedicated to the goddess Thean Hou (Heavenly Mother). Perched on a hilltop in Robson Heights, the temple features stunning traditional Chinese architecture with ornate decorations, red lanterns, intricate carvings, and beautiful gardens offering panoramic views of Kuala Lumpur.",
+    "location": "65, Persiaran Endah, Taman Persiaran Desa, 50460 Kuala Lumpur (Robson Heights area)",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 1.25,
+    "best_time": "Evening (6-8 PM) for beautiful illuminated views, or early morning for peaceful atmosphere",
+    "tips": "Free entry, donations welcome. Best visited in evening when temple is beautifully lit. Not directly accessible by public transport - take Grab/taxi. Wear modest clothing. Photography allowed. Particularly beautiful during Chinese New Year.",
+    "photos": [
+      "/KL-trip/assets/images/activities/thean-hou-temple/1.jpg",
+      "/KL-trip/assets/images/activities/thean-hou-temple/2.jpg",
+      "/KL-trip/assets/images/activities/thean-hou-temple/3.jpg"
+    ],
+    "added_date": "2025-10-16",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 39,
+    "name": "Batu Caves",
+    "category": "Culture & Heritage",
+    "subcategory": "Temple & Natural Site",
+    "description": "An iconic limestone hill featuring a series of caves and Hindu temples, most notably the Temple Cave dedicated to Lord Murugan. Famous for its 272 colorful rainbow stairs and the towering 42.7-meter golden statue of Lord Murugan. The caves contain Hindu shrines and are a major pilgrimage site during Thaipusam festival.",
+    "location": "Gombak, 68100 Batu Caves, Selangor (13 km north of Kuala Lumpur)",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 1.75,
+    "best_time": "Early morning (7-9 AM) to avoid heat and crowds, or late afternoon (4-6 PM)",
+    "tips": "Free entry to main temple. Climb 272 colorful stairs (moderate fitness required). Wear modest clothing. Watch out for monkeys. Bring water and wear comfortable shoes. Direct KTM train access. Extremely crowded during Thaipusam festival.",
+    "photos": [
+      "/KL-trip/assets/images/activities/batu-caves/1.jpg",
+      "/KL-trip/assets/images/activities/batu-caves/2.jpg",
+      "/KL-trip/assets/images/activities/batu-caves/3.jpg"
+    ],
+    "added_date": "2025-10-16",
+    "source": "proactive_research",
+    "difficulty": "Moderate"
+  },
+  {
+    "id": 40,
+    "name": "Sri Mahamariamman Temple",
+    "category": "Culture & Heritage",
+    "subcategory": "Hindu Temple",
+    "description": "Malaysia's oldest functioning Hindu temple, dating back to 1873. Located at the edge of Chinatown, this ornate South Indian temple features a stunning 5-tier gopuram adorned with intricate colorful sculptures of Hindu deities. The temple showcases beautiful Dravidian architecture with detailed carvings, gold embellishments, and precious stones.",
+    "location": "163, Jalan Tun H S Lee, 50000 Kuala Lumpur (Chinatown area)",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 0.625,
+    "best_time": "Morning (8-10 AM) or evening (5-7 PM) for prayer ceremonies",
+    "tips": "Free entry, donations appreciated. Remove shoes before entering (small storage fee). Dress modestly. Photography allowed in courtyard. Visit during prayer times for authentic experience. Combine with Chinatown exploration. Best during Hindu festivals.",
+    "photos": [
+      "/KL-trip/assets/images/activities/sri-mahamariamman-temple/1.jpg",
+      "/KL-trip/assets/images/activities/sri-mahamariamman-temple/2.jpg",
+      "/KL-trip/assets/images/activities/sri-mahamariamman-temple/3.jpg"
+    ],
+    "added_date": "2025-10-16",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 41,
+    "name": "Bank Negara Malaysia Museum and Art Gallery",
+    "category": "Culture & Heritage",
+    "subcategory": "Museum",
+    "description": "A modern, world-class museum located in Malaysia's Central Bank headquarters. Offers an engaging blend of financial education, economic history, and contemporary art. Interactive galleries cover money evolution, Islamic finance, children's financial literacy, numismatics, and rotating art exhibitions. The building features an impressive spiral staircase.",
+    "location": "Sasana Kijang, 2, Jalan Dato Onn, 50480 Kuala Lumpur (near Merdeka Square)",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 1.75,
+    "best_time": "Weekday mornings for quieter experience, excellent for families with children",
+    "tips": "Completely free admission. Highly educational and interactive. Excellent for children and families. Free lockers available. Museum café open 8 AM-8 PM. Wheelchair accessible. Combine with nearby Merdeka Square. Closed Mondays.",
+    "photos": [
+      "/KL-trip/assets/images/activities/bank-negara-museum/1.jpg",
+      "/KL-trip/assets/images/activities/bank-negara-museum/2.jpg",
+      "/KL-trip/assets/images/activities/bank-negara-museum/3.jpg"
+    ],
+    "added_date": "2025-10-16",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 42,
+    "name": "Kuala Lumpur City Gallery",
+    "category": "Culture & Heritage",
+    "subcategory": "Gallery & Cultural Center",
+    "description": "A heritage gallery housed in a beautifully restored 115-year-old colonial building at Merdeka Square. Features permanent exhibitions on Kuala Lumpur's history, urban development, and future vision, including the famous ARCH miniature model of KL. The iconic 'I ♥ KL' sculpture stands outside, making it one of the city's most photographed landmarks.",
+    "location": "27, Jalan Raja, Dataran Merdeka, 50050 Kuala Lumpur (Merdeka Square)",
+    "cost_rm": 10,
+    "cost_usd": 2.2,
+    "duration_hours": 1.25,
+    "best_time": "Morning (9-11 AM) before visiting other Merdeka Square attractions",
+    "tips": "RM10 admission with RM5 redeemable at shop/café. Famous 'I ♥ KL' photo opportunity outside. Detailed miniature model of KL. Gift shop has unique souvenirs. Perfect starting point for Merdeka Square heritage tour. Combine with Sultan Abdul Samad Building.",
+    "photos": [
+      "/KL-trip/assets/images/activities/kl-city-gallery/1.jpg",
+      "/KL-trip/assets/images/activities/kl-city-gallery/2.jpg",
+      "/KL-trip/assets/images/activities/kl-city-gallery/3.jpg"
+    ],
+    "added_date": "2025-10-16",
+    "source": "proactive_research",
+    "difficulty": "Easy"
   }
 ];
 
-function loadAllActivities() {
-    console.log('loadAllActivities started');
-    displayActivities(allActivities);
-    setupFilters();
-    console.log('loadAllActivities finished');
-}
+console.log('Total activities loaded:', allActivities.length);
 
-function displayActivities(activities) {
-    console.log('displayActivities started with', activities.length, 'activities');
-    const grid = document.getElementById('activities-full-grid');
-    if (!grid) {
-        console.error('activities-full-grid element not found');
+// Get the grid container
+const activitiesGrid = document.getElementById('activities-full-grid');
+
+// Get filter buttons
+const filterButtons = document.querySelectorAll('.filter-btn');
+
+// Current filter
+let currentFilter = 'all';
+
+// Function to render activities
+function renderActivities(filter = 'all') {
+    console.log('Rendering activities with filter:', filter);
+    if (!activitiesGrid) {
+        console.error('Activities grid not found');
         return;
     }
     
-    const votes = getVotes();
-    console.log('Votes fetched:', votes);
+    activitiesGrid.innerHTML = '';
     
-    grid.innerHTML = activities.map(activity => {
-        console.log('Rendering activity:', activity.name);
-        return `
-            <div class="activity-detail-card" data-category="${activity.category}">
-                 <div class="activity-detail-image" style="background-image: url(\'${activity.photos[0]}\')">
-                    <div class="activity-category">${activity.category}</div>
+    const filteredActivities = filter === 'all' 
+        ? allActivities 
+        : allActivities.filter(activity => activity.category === filter);
+    
+    console.log('Filtered activities count:', filteredActivities.length);
+    
+    filteredActivities.forEach(activity => {
+        const card = createActivityCard(activity);
+        activitiesGrid.appendChild(card);
+    });
+    
+    // Update filter button counts
+    updateFilterCounts();
+}
+
+// Function to create activity card
+function createActivityCard(activity) {
+    const card = document.createElement('div');
+    card.className = 'activity-card-full';
+    card.setAttribute('data-category', activity.category);
+    
+    // Get cost display
+    let costDisplay = 'Free';
+    if (activity.cost_rm && typeof activity.cost_rm === 'object') {
+        const costs = Object.values(activity.cost_rm);
+        const minCost = Math.min(...costs);
+        costDisplay = `$${(minCost / 4.5).toFixed(0)}+`;
+    } else if (activity.cost_usd && activity.cost_usd > 0) {
+        costDisplay = `$${activity.cost_usd}`;
+    } else if (activity.cost_rm && activity.cost_rm > 0) {
+        costDisplay = `$${(activity.cost_rm / 4.5).toFixed(0)}`;
+    }
+    
+    // Get photos
+    const photos = activity.photos || activity.images || [];
+    const hasPhotos = photos.length > 0;
+    
+    card.innerHTML = `
+        ${hasPhotos ? `
+        <div class="activity-images">
+            ${photos.slice(0, 3).map(photo => `
+                <img src="${photo}" alt="${activity.name}" loading="lazy">
+            `).join('')}
+        </div>
+        ` : ''}
+        
+        <div class="activity-content">
+            <div class="activity-category-badge">${activity.category}</div>
+            <h3>${activity.name}</h3>
+            <p class="activity-description">${activity.description}</p>
+            
+            <div class="activity-details">
+                <div class="detail-item">
+                    <span class="detail-icon">📍</span>
+                    <span class="detail-label">Location</span>
+                    <span class="detail-value">${activity.location}</span>
                 </div>
-                <div class="activity-detail-content">
-                    <h3>${activity.name}</h3>
-                    <p class="activity-description">${activity.description}</p>
-                    
-                    <div class="activity-info-grid">
-                        <div class="info-item">
-                            <span class="info-label">📍 Location</span>
-                            <span class="info-value">${activity.location}</span>
-                        </div>
-                        <div class="info-item">
-                            <span class="info-label">⏱️ Duration</span>
-                            <span class="info-value">${activity.duration_hours} hours</span>
-                        </div>
-                        <div class="info-item">
-                            <span class="info-label">💰 Cost</span>
-                            <span class="info-value">$${activity.cost_usd.weekend_active || activity.cost_usd.adult || activity.cost_usd.per_hour}</span>
-                        </div>
-                        <div class="info-item">
-                            <span class="info-label">🕐 Best Time</span>
-                            <span class="info-value">${activity.best_time}</span>
-                        </div>
-                    </div>
-                    
-                    <div class="activity-tips">
-                        <h4>💡 Tips:</h4>
-                        <ul>
-                            ${activity.tips.split('. ').slice(0, 2).map(t => `<li>${t}</li>`).join('')}
-                        </ul>
-                    </div>
-                    
-                    <div class="activity-footer">
-                        <div class="activity-votes">
-                            <div class="vote-count">
-                                <span class="vote-number" id="votes-activity-${activity.id}">${votes.activities[activity.id] || 0}</span>
-                                <span class="vote-label">votes</span>
-                            </div>
-                            <button class="btn-vote" onclick="vote(null, ${activity.id})">👍 Vote</button>
-                        </div>
-                        <div class="activity-difficulty">
-                            <span class="difficulty-badge">${activity.difficulty}</span>
-                        </div>
-                    </div>
+                
+                <div class="detail-item">
+                    <span class="detail-icon">⏱️</span>
+                    <span class="detail-label">Duration</span>
+                    <span class="detail-value">${activity.duration_hours} hours</span>
+                </div>
+                
+                <div class="detail-item">
+                    <span class="detail-icon">💰</span>
+                    <span class="detail-label">Cost</span>
+                    <span class="detail-value">${costDisplay}</span>
+                </div>
+                
+                <div class="detail-item">
+                    <span class="detail-icon">🕐</span>
+                    <span class="detail-label">Best Time</span>
+                    <span class="detail-value">${activity.best_time}</span>
                 </div>
             </div>
-        `;
-    })
-    .join('');
-    console.log('displayActivities finished');
-}
-
-function setupFilters() {
-    console.log('setupFilters started');
-    const filterBtns = document.querySelectorAll('.filter-btn');
-    
-    filterBtns.forEach(btn => {
-        btn.addEventListener('click', () => {
-            console.log('Filter button clicked:', btn.dataset.filter);
-            // Update active state
-            filterBtns.forEach(b => b.classList.remove('active'));
-            btn.classList.add('active');
             
-            // Filter activities
-            const filter = btn.dataset.filter;
-            if (filter === 'all') {
-                displayActivities(allActivities);
-            } else {
-                const filtered = allActivities.filter(a => a.category === filter);
-                displayActivities(filtered);
-            }
-        });
-    });
-    console.log('setupFilters finished');
+            ${activity.tips ? `
+            <div class="activity-tips">
+                <h4>💡 Tips:</h4>
+                <ul>
+                    ${activity.tips.split('.').filter(tip => tip.trim()).slice(0, 2).map(tip => 
+                        `<li>${tip.trim()}</li>`
+                    ).join('')}
+                </ul>
+            </div>
+            ` : ''}
+            
+            <div class="activity-footer">
+                <div class="vote-section">
+                    <span class="vote-count">0 votes</span>
+                    <button class="btn-vote" onclick="voteActivity(${activity.id})">👍 Vote</button>
+                </div>
+                ${activity.difficulty ? `<span class="difficulty-badge">${activity.difficulty}</span>` : ''}
+            </div>
+        </div>
+    `;
+    
+    return card;
 }
 
-// Dummy getVotes function for now, as it's not defined elsewhere
-function getVotes() {
-    return { activities: {} };
+// Function to update filter counts
+function updateFilterCounts() {
+    const categoryCounts = {};
+    allActivities.forEach(activity => {
+        categoryCounts[activity.category] = (categoryCounts[activity.category] || 0) + 1;
+    });
+    
+    filterButtons.forEach(btn => {
+        const filter = btn.getAttribute('data-filter');
+        if (filter !== 'all') {
+            const count = categoryCounts[filter] || 0;
+            // Update button text to show count if not already there
+            if (!btn.textContent.includes('(')) {
+                btn.textContent = `${filter} (${count})`;
+            }
+        }
+    });
+}
+
+// Add filter button event listeners
+filterButtons.forEach(button => {
+    button.addEventListener('click', () => {
+        filterButtons.forEach(btn => btn.classList.remove('active'));
+        button.classList.add('active');
+        
+        const filter = button.getAttribute('data-filter');
+        currentFilter = filter;
+        renderActivities(filter);
+    });
+});
+
+// Function to vote for an activity
+function voteActivity(activityId) {
+    console.log('Voting for activity:', activityId);
+    // Implementation would save to localStorage or backend
+    alert('Thank you for voting! Your vote has been recorded.');
 }
 
 // Initialize on page load
 document.addEventListener('DOMContentLoaded', () => {
-    console.log('DOMContentLoaded event fired');
-    loadAllActivities();
+    console.log('DOM loaded, rendering activities');
+    renderActivities();
 });
 
+// Also render immediately if DOM is already loaded
+if (document.readyState === 'loading') {
+    console.log('DOM still loading');
+} else {
+    console.log('DOM already loaded, rendering activities immediately');
+    renderActivities();
+}
