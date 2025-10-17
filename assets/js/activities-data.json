@@ -459,7 +459,7 @@
     "name": "Vertigo & Horizon Grill at Banyan Tree",
     "category": "Nightlife & Entertainment",
     "subcategory": "Rooftop Restaurant & Bar",
-    "description": "A multi-level rooftop destination spanning the 59th and 60th floors of Banyan Tree Kuala Lumpur. Vertigo bar offers indoor and outdoor terraces with breathtaking 360\u00b0 views, while Horizon Grill serves premium steaks and seafood. Recently added Vertigo TOO on the 60th floor takes the experience even higher with chill-out drinking and live DJs.",
+    "description": "A multi-level rooftop destination spanning the 59th and 60th floors of Banyan Tree Kuala Lumpur. Vertigo bar offers indoor and outdoor terraces with breathtaking 360° views, while Horizon Grill serves premium steaks and seafood. Recently added Vertigo TOO on the 60th floor takes the experience even higher with chill-out drinking and live DJs.",
     "location": "Level 59-60, Banyan Tree Kuala Lumpur, 2 Jalan Conlay, 50450 Kuala Lumpur",
     "cost_rm": 58,
     "cost_usd": 13,
@@ -872,5 +872,152 @@
       "technology",
       "group friendly"
     ]
+  },
+  {
+    "id": 36,
+    "name": "Islamic Arts Museum Malaysia",
+    "category": "Culture & Heritage",
+    "subcategory": "Museum",
+    "description": "Southeast Asia's largest Islamic arts museum featuring over 7,000 artifacts spanning more than a millennium of Islamic art. The museum showcases 12 permanent galleries with collections including architecture, textiles, jewelry, weaponry, ceramics, manuscripts, and contemporary Islamic art. The building itself features stunning Islamic architectural elements including Qajar mirrorwork.",
+    "location": "Jalan Lembah Perdana, 50480 Kuala Lumpur (near Masjid Negara and Perdana Botanical Garden)",
+    "cost_rm": 20,
+    "cost_usd": 4.4,
+    "duration_hours": 2.5,
+    "best_time": "Weekday mornings for fewer crowds, avoid public holidays",
+    "tips": "No booking required. Free parking available. MOZA Restaurant on-site. Museum shop with Islamic art books. Wheelchair accessible. Combine visit with nearby Masjid Negara. Allow 2-3 hours to fully appreciate collections.",
+    "photos": [
+      "/KL-trip/assets/images/activities/islamic-arts-museum/1.jpg",
+      "/KL-trip/assets/images/activities/islamic-arts-museum/2.jpg",
+      "/KL-trip/assets/images/activities/islamic-arts-museum/3.jpg"
+    ],
+    "added_date": "2025-10-16",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 37,
+    "name": "National Museum Malaysia",
+    "category": "Culture & Heritage",
+    "subcategory": "Museum",
+    "description": "Malaysia's premier national museum showcasing the country's rich cultural heritage and history. Features four main galleries covering Early History, Malay Kingdoms, Colonial Era, and Malaysia Today. Collections include archaeological artifacts, traditional crafts, royal regalia, historical documents, and cultural exhibits representing Malaysia's diverse ethnic communities.",
+    "location": "Jalan Damansara, Perdana Botanical Gardens, 50566 Kuala Lumpur (near Lake Gardens)",
+    "cost_rm": 5,
+    "cost_usd": 1.1,
+    "duration_hours": 1.75,
+    "best_time": "Weekday mornings, avoid weekends for quieter experience",
+    "tips": "Very affordable admission. Photography without flash permitted. Wheelchair accessible. Cafeteria and souvenir shop on-site. Prayer room available. Direct MRT access. Combine with nearby Lake Gardens attractions.",
+    "photos": [
+      "/KL-trip/assets/images/activities/national-museum/1.jpg",
+      "/KL-trip/assets/images/activities/national-museum/2.jpg",
+      "/KL-trip/assets/images/activities/national-museum/3.jpg"
+    ],
+    "added_date": "2025-10-16",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 38,
+    "name": "Thean Hou Temple",
+    "category": "Culture & Heritage",
+    "subcategory": "Temple",
+    "description": "One of the oldest and largest Chinese temples in Southeast Asia, this six-tiered Buddhist temple is dedicated to the goddess Thean Hou (Heavenly Mother). Perched on a hilltop in Robson Heights, the temple features stunning traditional Chinese architecture with ornate decorations, red lanterns, intricate carvings, and beautiful gardens offering panoramic views of Kuala Lumpur.",
+    "location": "65, Persiaran Endah, Taman Persiaran Desa, 50460 Kuala Lumpur (Robson Heights area)",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 1.25,
+    "best_time": "Evening (6-8 PM) for beautiful illuminated views, or early morning for peaceful atmosphere",
+    "tips": "Free entry, donations welcome. Best visited in evening when temple is beautifully lit. Not directly accessible by public transport - take Grab/taxi. Wear modest clothing. Photography allowed. Particularly beautiful during Chinese New Year.",
+    "photos": [
+      "/KL-trip/assets/images/activities/thean-hou-temple/1.jpg",
+      "/KL-trip/assets/images/activities/thean-hou-temple/2.jpg",
+      "/KL-trip/assets/images/activities/thean-hou-temple/3.jpg"
+    ],
+    "added_date": "2025-10-16",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 39,
+    "name": "Batu Caves",
+    "category": "Culture & Heritage",
+    "subcategory": "Temple & Natural Site",
+    "description": "An iconic limestone hill featuring a series of caves and Hindu temples, most notably the Temple Cave dedicated to Lord Murugan. Famous for its 272 colorful rainbow stairs and the towering 42.7-meter golden statue of Lord Murugan. The caves contain Hindu shrines and are a major pilgrimage site during Thaipusam festival.",
+    "location": "Gombak, 68100 Batu Caves, Selangor (13 km north of Kuala Lumpur)",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 1.75,
+    "best_time": "Early morning (7-9 AM) to avoid heat and crowds, or late afternoon (4-6 PM)",
+    "tips": "Free entry to main temple. Climb 272 colorful stairs (moderate fitness required). Wear modest clothing. Watch out for monkeys. Bring water and wear comfortable shoes. Direct KTM train access. Extremely crowded during Thaipusam festival.",
+    "photos": [
+      "/KL-trip/assets/images/activities/batu-caves/1.jpg",
+      "/KL-trip/assets/images/activities/batu-caves/2.jpg",
+      "/KL-trip/assets/images/activities/batu-caves/3.jpg"
+    ],
+    "added_date": "2025-10-16",
+    "source": "proactive_research",
+    "difficulty": "Moderate"
+  },
+  {
+    "id": 40,
+    "name": "Sri Mahamariamman Temple",
+    "category": "Culture & Heritage",
+    "subcategory": "Hindu Temple",
+    "description": "Malaysia's oldest functioning Hindu temple, dating back to 1873. Located at the edge of Chinatown, this ornate South Indian temple features a stunning 5-tier gopuram adorned with intricate colorful sculptures of Hindu deities. The temple showcases beautiful Dravidian architecture with detailed carvings, gold embellishments, and precious stones.",
+    "location": "163, Jalan Tun H S Lee, 50000 Kuala Lumpur (Chinatown area)",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 0.625,
+    "best_time": "Morning (8-10 AM) or evening (5-7 PM) for prayer ceremonies",
+    "tips": "Free entry, donations appreciated. Remove shoes before entering (small storage fee). Dress modestly. Photography allowed in courtyard. Visit during prayer times for authentic experience. Combine with Chinatown exploration. Best during Hindu festivals.",
+    "photos": [
+      "/KL-trip/assets/images/activities/sri-mahamariamman-temple/1.jpg",
+      "/KL-trip/assets/images/activities/sri-mahamariamman-temple/2.jpg",
+      "/KL-trip/assets/images/activities/sri-mahamariamman-temple/3.jpg"
+    ],
+    "added_date": "2025-10-16",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 41,
+    "name": "Bank Negara Malaysia Museum and Art Gallery",
+    "category": "Culture & Heritage",
+    "subcategory": "Museum",
+    "description": "A modern, world-class museum located in Malaysia's Central Bank headquarters. Offers an engaging blend of financial education, economic history, and contemporary art. Interactive galleries cover money evolution, Islamic finance, children's financial literacy, numismatics, and rotating art exhibitions. The building features an impressive spiral staircase.",
+    "location": "Sasana Kijang, 2, Jalan Dato Onn, 50480 Kuala Lumpur (near Merdeka Square)",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 1.75,
+    "best_time": "Weekday mornings for quieter experience, excellent for families with children",
+    "tips": "Completely free admission. Highly educational and interactive. Excellent for children and families. Free lockers available. Museum café open 8 AM-8 PM. Wheelchair accessible. Combine with nearby Merdeka Square. Closed Mondays.",
+    "photos": [
+      "/KL-trip/assets/images/activities/bank-negara-museum/1.jpg",
+      "/KL-trip/assets/images/activities/bank-negara-museum/2.jpg",
+      "/KL-trip/assets/images/activities/bank-negara-museum/3.jpg"
+    ],
+    "added_date": "2025-10-16",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 42,
+    "name": "Kuala Lumpur City Gallery",
+    "category": "Culture & Heritage",
+    "subcategory": "Gallery & Cultural Center",
+    "description": "A heritage gallery housed in a beautifully restored 115-year-old colonial building at Merdeka Square. Features permanent exhibitions on Kuala Lumpur's history, urban development, and future vision, including the famous ARCH miniature model of KL. The iconic 'I ♥ KL' sculpture stands outside, making it one of the city's most photographed landmarks.",
+    "location": "27, Jalan Raja, Dataran Merdeka, 50050 Kuala Lumpur (Merdeka Square)",
+    "cost_rm": 10,
+    "cost_usd": 2.2,
+    "duration_hours": 1.25,
+    "best_time": "Morning (9-11 AM) before visiting other Merdeka Square attractions",
+    "tips": "RM10 admission with RM5 redeemable at shop/café. Famous 'I ♥ KL' photo opportunity outside. Detailed miniature model of KL. Gift shop has unique souvenirs. Perfect starting point for Merdeka Square heritage tour. Combine with Sultan Abdul Samad Building.",
+    "photos": [
+      "/KL-trip/assets/images/activities/kl-city-gallery/1.jpg",
+      "/KL-trip/assets/images/activities/kl-city-gallery/2.jpg",
+      "/KL-trip/assets/images/activities/kl-city-gallery/3.jpg"
+    ],
+    "added_date": "2025-10-16",
+    "source": "proactive_research",
+    "difficulty": "Easy"
   }
 ]
