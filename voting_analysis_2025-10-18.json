@@ -1,0 +1,41 @@
+{
+  "total_votes": 16,
+  "unique_voters": 5,
+  "top_activities": [
+    {
+      "activity_id": 1,
+      "activity_name": "District 21",
+      "vote_count": 4
+    },
+    {
+      "activity_id": 2,
+      "activity_name": "SuperPark Malaysia",
+      "vote_count": 2
+    },
+    {
+      "activity_id": 3,
+      "activity_name": "ESCAPE Petaling Jaya",
+      "vote_count": 2
+    },
+    {
+      "activity_id": 4,
+      "activity_name": "LYL International Karting Circuit",
+      "vote_count": 2
+    },
+    {
+      "activity_id": 5,
+      "activity_name": "Skytrex Adventure Sg Congkak",
+      "vote_count": 2
+    },
+    {
+      "activity_id": 6,
+      "activity_name": "Jump Street Trampoline Park",
+      "vote_count": 2
+    },
+    {
+      "activity_id": 7,
+      "activity_name": "Sunway Lagoon Theme Park",
+      "vote_count": 2
+    }
+  ]
+}
