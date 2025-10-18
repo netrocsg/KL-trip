@@ -459,7 +459,7 @@
     "name": "Vertigo & Horizon Grill at Banyan Tree",
     "category": "Nightlife & Entertainment",
     "subcategory": "Rooftop Restaurant & Bar",
-    "description": "A multi-level rooftop destination spanning the 59th and 60th floors of Banyan Tree Kuala Lumpur. Vertigo bar offers indoor and outdoor terraces with breathtaking 360\u00b0 views, while Horizon Grill serves premium steaks and seafood. Recently added Vertigo TOO on the 60th floor takes the experience even higher with chill-out drinking and live DJs.",
+    "description": "A multi-level rooftop destination spanning the 59th and 60th floors of Banyan Tree Kuala Lumpur. Vertigo bar offers indoor and outdoor terraces with breathtaking 360° views, while Horizon Grill serves premium steaks and seafood. Recently added Vertigo TOO on the 60th floor takes the experience even higher with chill-out drinking and live DJs.",
     "location": "Level 59-60, Banyan Tree Kuala Lumpur, 2 Jalan Conlay, 50450 Kuala Lumpur",
     "cost_rm": 58,
     "cost_usd": 13,
@@ -1218,6 +1218,146 @@
       "/KL-trip/assets/images/activities/sri-mahamariamman-temple/1.jpg",
       "/KL-trip/assets/images/activities/sri-mahamariamman-temple/2.jpg",
       "/KL-trip/assets/images/activities/sri-mahamariamman-temple/3.jpg"
+    ],
+    "added_date": "2025-10-18",
+    "source": "proactive_research"
+  },
+  {
+    "id": 50,
+    "name": "Pavilion Kuala Lumpur",
+    "category": "Shopping & Markets",
+    "subcategory": "Luxury Shopping Mall",
+    "description": "Malaysia's premier award-winning shopping destination located in the heart of Bukit Bintang, featuring over 700 retail outlets and restaurants. This upscale mall houses international luxury brands, flagship stores, unique concept stores, and a wide variety of dining options across multiple floors. Known for its elegant architecture and sophisticated shopping experience.",
+    "location": "168, Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Malaysia",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 2.5,
+    "best_time": "Weekdays 10am-6pm for fewer crowds, weekends for full atmosphere. Open daily 10am-10pm.",
+    "tips": "Easily accessible via MRT (Bukit Bintang Station, Door D or E). Free WiFi available. Mix of luxury and mid-range brands. Great food court and restaurants. Air-conditioned comfort. Perfect for group shopping with variety for all budgets.",
+    "photos": [
+      "/KL-trip/assets/images/activities/pavilion-kl/1.jpg",
+      "/KL-trip/assets/images/activities/pavilion-kl/2.jpg",
+      "/KL-trip/assets/images/activities/pavilion-kl/3.jpg"
+    ],
+    "added_date": "2025-10-18",
+    "source": "proactive_research"
+  },
+  {
+    "id": 51,
+    "name": "Suria KLCC",
+    "category": "Shopping & Markets",
+    "subcategory": "Iconic Shopping Mall",
+    "description": "The iconic experiential shopping destination located directly beneath the world-famous Petronas Twin Towers. Features over 300 specialty stores offering an exclusive blend of renowned international fashion brands, flagship stores, and unique concept stores. Combines world-class shopping with stunning architecture and the KLCC Park experience.",
+    "location": "Lot 241, Jalan P Ramlee, Kuala Lumpur City Center, 50088 Kuala Lumpur, Malaysia",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 2.5,
+    "best_time": "Early morning 10am-12pm or late afternoon 4pm-6pm to avoid peak crowds. Open daily 10am-10pm.",
+    "tips": "Take photos with Petronas Towers. Visit KLCC Park after shopping. Accessible via LRT (KLCC Station). Petrosains science center inside. Mix of luxury and accessible brands. Excellent dining options. Book Skybridge tickets in advance if interested.",
+    "photos": [
+      "/KL-trip/assets/images/activities/suria-klcc/1.jpg",
+      "/KL-trip/assets/images/activities/suria-klcc/2.jpg",
+      "/KL-trip/assets/images/activities/suria-klcc/3.jpg"
+    ],
+    "added_date": "2025-10-18",
+    "source": "proactive_research"
+  },
+  {
+    "id": 52,
+    "name": "Central Market (Pasar Seni)",
+    "category": "Shopping & Markets",
+    "subcategory": "Cultural Heritage Market",
+    "description": "A historic landmark built in 1888, originally a wet market and now transformed into the center for Malaysian culture, art, and craft. Houses over 350 shops retailing traditional goods, art collectibles, local handicrafts, batik, souvenirs, and cultural items. Features batik painting workshops, cultural performances, and authentic Malaysian products.",
+    "location": "Jalan Hang Kasturi, 50050 Kuala Lumpur, Malaysia",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 1.5,
+    "best_time": "Weekday mornings 10am-12pm for relaxed browsing. Open daily 10am-9:30pm.",
+    "tips": "Try batik painting workshop (RM30-50). Cash preferred by many vendors. ATMs available inside. Fixed prices in most shops (no bargaining). Authentic Malaysian souvenirs and gifts. Air-conditioned comfort. Near Petaling Street and Chinatown. Accessible via LRT (Pasar Seni Station).",
+    "photos": [
+      "/KL-trip/assets/images/activities/central-market/1.jpg",
+      "/KL-trip/assets/images/activities/central-market/2.jpg",
+      "/KL-trip/assets/images/activities/central-market/3.jpg"
+    ],
+    "added_date": "2025-10-18",
+    "source": "proactive_research"
+  },
+  {
+    "id": 53,
+    "name": "Petaling Street Market",
+    "category": "Shopping & Markets",
+    "subcategory": "Night Market & Street Shopping",
+    "description": "The vibrant heart of Kuala Lumpur's Chinatown, offering an authentic Malaysian street market experience. This bustling covered market comes alive especially in the evenings with hundreds of stalls selling bargain clothing, accessories, souvenirs, replica goods, and street food. A cultural experience combining shopping, food, and the art of bargaining.",
+    "location": "Jalan Petaling, City Centre, 50000 Kuala Lumpur, Malaysia",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 2,
+    "best_time": "Evening 5pm-10pm when the market is most vibrant and all stalls are open. Some shops open from noon.",
+    "tips": "Bargain hard - start at 50-70% of asking price. Bring cash only. Watch belongings in crowds. Try street food from surrounding stalls. Fake branded goods common. Near Central Market (5 min walk). Accessible via LRT (Pasar Seni). Best experienced as a group. Combine with dinner at nearby restaurants.",
+    "photos": [
+      "/KL-trip/assets/images/activities/petaling-street/1.jpg",
+      "/KL-trip/assets/images/activities/petaling-street/2.jpg",
+      "/KL-trip/assets/images/activities/petaling-street/3.jpg"
+    ],
+    "added_date": "2025-10-18",
+    "source": "proactive_research"
+  },
+  {
+    "id": 54,
+    "name": "Mid Valley Megamall",
+    "category": "Shopping & Markets",
+    "subcategory": "Family Shopping Mall",
+    "description": "One of Kuala Lumpur's largest and most comprehensive shopping destinations, offering a massive selection of retail outlets, dining options, and entertainment. This family-friendly megamall features international and local brands across all price ranges, a huge food court, cinema, and everything needed for a full day of shopping and entertainment.",
+    "location": "Mid Valley City, Lingkaran Syed Putra, 59200 Kuala Lumpur, Malaysia",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 3,
+    "best_time": "Weekdays 11am-3pm to avoid weekend crowds. Open daily 10am-10pm.",
+    "tips": "Huge mall - wear comfortable shoes. Connected to The Gardens Mall for luxury shopping. Excellent food court with many options. Free parking for first hours. Accessible via KTM (Mid Valley Station). Great for groups with diverse shopping needs. Cinema and entertainment options. Budget to mid-range shopping paradise.",
+    "photos": [
+      "/KL-trip/assets/images/activities/mid-valley-megamall/1.jpg",
+      "/KL-trip/assets/images/activities/mid-valley-megamall/2.jpg",
+      "/KL-trip/assets/images/activities/mid-valley-megamall/3.jpg"
+    ],
+    "added_date": "2025-10-18",
+    "source": "proactive_research"
+  },
+  {
+    "id": 55,
+    "name": "Berjaya Times Square",
+    "category": "Shopping & Markets",
+    "subcategory": "Shopping Mall with Theme Park",
+    "description": "A massive shopping complex featuring both extensive retail options and Malaysia's largest indoor theme park. Offers over 1000 retail lots with a wide range of shops from budget to mid-range, plus Berjaya Times Square Theme Park with rides and attractions. A unique combination of shopping and entertainment in the heart of Kuala Lumpur.",
+    "location": "1, Jalan Imbi, Kuala Lumpur, 55100, Malaysia",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 3,
+    "best_time": "Weekdays for shopping, weekends if visiting theme park. Mall open 10am-10pm, theme park 12pm-8pm.",
+    "tips": "Theme park tickets: RM60 adults, RM50 children (separate from free mall entry). Budget-friendly shopping. Monorail accessible (Imbi Station). Large food court. Mix shopping with theme park fun. Good for groups with varied interests. Wear comfortable shoes - it's huge. Some shops offer great bargains.",
+    "photos": [
+      "/KL-trip/assets/images/activities/berjaya-times-square/1.jpg",
+      "/KL-trip/assets/images/activities/berjaya-times-square/2.jpg",
+      "/KL-trip/assets/images/activities/berjaya-times-square/3.jpg"
+    ],
+    "added_date": "2025-10-18",
+    "source": "proactive_research"
+  },
+  {
+    "id": 56,
+    "name": "Sungei Wang Plaza",
+    "category": "Shopping & Markets",
+    "subcategory": "Budget Shopping Mall",
+    "description": "One of Kuala Lumpur's oldest and most iconic shopping malls, established in 1977 and still thriving today. Known for affordable fashion, accessories, electronics, and local brands popular with young shoppers. Features unique specialty shops including Malaysia's most optical stores (50 outlets), hobby shops, collectibles, and a nostalgic local shopping atmosphere.",
+    "location": "Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Malaysia",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 1.5,
+    "best_time": "Afternoons 2pm-6pm. Open daily 10am-10pm, some shops until late.",
+    "tips": "Budget-friendly shopping paradise. Connected to Pavilion KL via walkway. MRT accessible (Bukit Bintang Station). Famous for affordable fashion and electronics. 5th floor has hobby and collectibles shops. Local shopping vibe. Good food court. Cash preferred in many shops. Great for bargain hunters and unique finds.",
+    "photos": [
+      "/KL-trip/assets/images/activities/sungei-wang-plaza/1.jpg",
+      "/KL-trip/assets/images/activities/sungei-wang-plaza/2.jpg",
+      "/KL-trip/assets/images/activities/sungei-wang-plaza/3.jpg"
     ],
     "added_date": "2025-10-18",
     "source": "proactive_research"
