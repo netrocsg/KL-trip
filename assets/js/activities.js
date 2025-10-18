@@ -1,4 +1,4 @@
-// Load and display all activities
+// Activities data for KL Trip 2025
 console.log('activities.js script started');
 let allActivities = [
   {
@@ -878,322 +878,492 @@ let allActivities = [
   {
     "id": 36,
     "name": "Islamic Arts Museum Malaysia",
-    "category": "Culture & Heritage",
+    "category": "Cultural & Religious",
     "subcategory": "Museum",
-    "description": "Southeast Asia's largest Islamic arts museum featuring over 7,000 artifacts spanning more than a millennium of Islamic art. The museum showcases 12 permanent galleries with collections including architecture, textiles, jewelry, weaponry, ceramics, manuscripts, and contemporary Islamic art. The building itself features stunning Islamic architectural elements including Qajar mirrorwork.",
-    "location": "Jalan Lembah Perdana, 50480 Kuala Lumpur (near Masjid Negara and Perdana Botanical Garden)",
+    "description": "One of Southeast Asia's finest Islamic art museums, housing over 7,000 artifacts including manuscripts, textiles, ceramics, and architecture models from across the Muslim world. The museum features stunning domed ceilings, intricate calligraphy displays, and beautifully curated galleries showcasing Islamic heritage from Malaysia and beyond.",
+    "location": "Jalan Lembah Perdana, near KL Sentral (about 15 min from KLCC)",
     "cost_rm": 20,
-    "cost_usd": 4.4,
-    "duration_hours": 2.5,
-    "best_time": "Weekday mornings for fewer crowds, avoid public holidays",
-    "tips": "No booking required. Free parking available. MOZA Restaurant on-site. Museum shop with Islamic art books. Wheelchair accessible. Combine visit with nearby Masjid Negara. Allow 2-3 hours to fully appreciate collections.",
+    "cost_usd": 4.5,
+    "duration_hours": 2,
+    "best_time": "Weekday mornings for quieter experience, open 9:30 AM - 6:00 PM daily",
+    "tips": "Don't miss the stunning domed ceilings and intricate calligraphy displays. The museum cafe offers a nice break. Allow 2-3 hours to fully appreciate the collection. Photography allowed in most areas. Student discounts available with ID.",
     "photos": [
       "/KL-trip/assets/images/activities/islamic-arts-museum/1.jpg",
       "/KL-trip/assets/images/activities/islamic-arts-museum/2.jpg",
       "/KL-trip/assets/images/activities/islamic-arts-museum/3.jpg"
     ],
-    "added_date": "2025-10-16",
+    "added_date": "2025-10-17",
     "source": "proactive_research",
-    "difficulty": "Easy"
+    "tags": [
+      "museum",
+      "Islamic art",
+      "culture",
+      "history",
+      "indoor",
+      "group friendly",
+      "educational"
+    ]
   },
   {
     "id": 37,
-    "name": "National Museum Malaysia",
-    "category": "Culture & Heritage",
-    "subcategory": "Museum",
-    "description": "Malaysia's premier national museum showcasing the country's rich cultural heritage and history. Features four main galleries covering Early History, Malay Kingdoms, Colonial Era, and Malaysia Today. Collections include archaeological artifacts, traditional crafts, royal regalia, historical documents, and cultural exhibits representing Malaysia's diverse ethnic communities.",
-    "location": "Jalan Damansara, Perdana Botanical Gardens, 50566 Kuala Lumpur (near Lake Gardens)",
-    "cost_rm": 5,
-    "cost_usd": 1.1,
-    "duration_hours": 1.75,
-    "best_time": "Weekday mornings, avoid weekends for quieter experience",
-    "tips": "Very affordable admission. Photography without flash permitted. Wheelchair accessible. Cafeteria and souvenir shop on-site. Prayer room available. Direct MRT access. Combine with nearby Lake Gardens attractions.",
-    "photos": [
-      "/KL-trip/assets/images/activities/national-museum/1.jpg",
-      "/KL-trip/assets/images/activities/national-museum/2.jpg",
-      "/KL-trip/assets/images/activities/national-museum/3.jpg"
-    ],
-    "added_date": "2025-10-16",
-    "source": "proactive_research",
-    "difficulty": "Easy"
-  },
-  {
-    "id": 38,
-    "name": "Thean Hou Temple",
-    "category": "Culture & Heritage",
-    "subcategory": "Temple",
-    "description": "One of the oldest and largest Chinese temples in Southeast Asia, this six-tiered Buddhist temple is dedicated to the goddess Thean Hou (Heavenly Mother). Perched on a hilltop in Robson Heights, the temple features stunning traditional Chinese architecture with ornate decorations, red lanterns, intricate carvings, and beautiful gardens offering panoramic views of Kuala Lumpur.",
-    "location": "65, Persiaran Endah, Taman Persiaran Desa, 50460 Kuala Lumpur (Robson Heights area)",
-    "cost_rm": 0,
-    "cost_usd": 0,
-    "duration_hours": 1.25,
-    "best_time": "Evening (6-8 PM) for beautiful illuminated views, or early morning for peaceful atmosphere",
-    "tips": "Free entry, donations welcome. Best visited in evening when temple is beautifully lit. Not directly accessible by public transport - take Grab/taxi. Wear modest clothing. Photography allowed. Particularly beautiful during Chinese New Year.",
-    "photos": [
-      "/KL-trip/assets/images/activities/thean-hou-temple/1.jpg",
-      "/KL-trip/assets/images/activities/thean-hou-temple/2.jpg",
-      "/KL-trip/assets/images/activities/thean-hou-temple/3.jpg"
-    ],
-    "added_date": "2025-10-16",
-    "source": "proactive_research",
-    "difficulty": "Easy"
-  },
-  {
-    "id": 39,
     "name": "Batu Caves",
-    "category": "Culture & Heritage",
-    "subcategory": "Temple & Natural Site",
-    "description": "An iconic limestone hill featuring a series of caves and Hindu temples, most notably the Temple Cave dedicated to Lord Murugan. Famous for its 272 colorful rainbow stairs and the towering 42.7-meter golden statue of Lord Murugan. The caves contain Hindu shrines and are a major pilgrimage site during Thaipusam festival.",
-    "location": "Gombak, 68100 Batu Caves, Selangor (13 km north of Kuala Lumpur)",
+    "category": "Cultural & Religious",
+    "subcategory": "Hindu Temple & Landmark",
+    "description": "Malaysia's most iconic Hindu temple complex featuring 272 vibrant rainbow-colored steps leading to limestone caves housing shrines dedicated to Lord Murugan. The site includes the massive 42.7m golden statue of Lord Murugan, Cathedral Cave with ornate Hindu shrines, and stunning natural limestone formations. A must-visit cultural landmark combining spirituality, nature, and architectural beauty.",
+    "location": "Gombak, Selangor (about 30 min from KLCC via KTM train or Grab)",
     "cost_rm": 0,
     "cost_usd": 0,
-    "duration_hours": 1.75,
-    "best_time": "Early morning (7-9 AM) to avoid heat and crowds, or late afternoon (4-6 PM)",
-    "tips": "Free entry to main temple. Climb 272 colorful stairs (moderate fitness required). Wear modest clothing. Watch out for monkeys. Bring water and wear comfortable shoes. Direct KTM train access. Extremely crowded during Thaipusam festival.",
+    "duration_hours": 2,
+    "best_time": "Early morning (7-9 AM) to avoid crowds and heat. Avoid weekends and public holidays.",
+    "tips": "Wear modest clothing covering shoulders and knees. Watch out for monkeys - don't feed them or show food. The climb is steep, take your time. Bring water. Free entry to main cave. Dark Cave tour costs extra (RM 35). Best reached by KTM train to Batu Caves station.",
     "photos": [
       "/KL-trip/assets/images/activities/batu-caves/1.jpg",
       "/KL-trip/assets/images/activities/batu-caves/2.jpg",
       "/KL-trip/assets/images/activities/batu-caves/3.jpg"
     ],
-    "added_date": "2025-10-16",
+    "added_date": "2025-10-17",
     "source": "proactive_research",
-    "difficulty": "Moderate"
+    "tags": [
+      "temple",
+      "Hindu",
+      "landmark",
+      "free",
+      "outdoor",
+      "cultural",
+      "iconic",
+      "photography"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Batik Painting Workshop",
+    "category": "Cultural & Religious",
+    "subcategory": "Cultural Workshop",
+    "description": "Hands-on traditional Malaysian batik painting workshop where you learn the ancient art of wax-resist dyeing. Create your own batik artwork on fabric using traditional canting tools and vibrant dyes. Instructors guide you through the process from design to coloring, teaching the basic principles of this UNESCO-recognized craft. Take home your unique creation as a meaningful souvenir.",
+    "location": "Multiple locations in KL including Ampang and Central Market area",
+    "cost_rm": 60,
+    "cost_usd": 13.5,
+    "duration_hours": 2.5,
+    "best_time": "Book in advance, morning or afternoon sessions available",
+    "tips": "Wear clothes you don't mind getting dye on. The workshop is suitable for all skill levels. English-speaking instructors available. Great for groups and team building. You'll receive a certificate upon completion. The batik piece needs time to dry, so factor that into your schedule.",
+    "photos": [
+      "/KL-trip/assets/images/activities/batik-painting-workshop/1.jpg",
+      "/KL-trip/assets/images/activities/batik-painting-workshop/2.jpg",
+      "/KL-trip/assets/images/activities/batik-painting-workshop/3.jpg"
+    ],
+    "added_date": "2025-10-17",
+    "source": "proactive_research",
+    "tags": [
+      "workshop",
+      "batik",
+      "traditional art",
+      "hands-on",
+      "cultural experience",
+      "souvenir",
+      "group friendly",
+      "indoor"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Royal Selangor School of Hard Knocks",
+    "category": "Cultural & Religious",
+    "subcategory": "Pewter Crafting Workshop",
+    "description": "Unique hands-on pewter crafting workshop at the world's largest pewter manufacturer. Learn the traditional art of pewter smithing by creating your own pewter dish or bowl. Under expert guidance, you'll hammer, engrave, and polish your creation using techniques passed down through generations. The workshop includes a factory tour and museum visit showcasing Royal Selangor's 130-year heritage.",
+    "location": "Royal Selangor Visitor Centre, Setapak Jaya (about 20-25 min from KLCC)",
+    "cost_rm": 85,
+    "cost_usd": 19,
+    "duration_hours": 1.5,
+    "best_time": "Book online in advance, sessions available throughout the day",
+    "tips": "Wear comfortable clothes. The workshop is suitable for ages 12+. You'll receive a certificate and take home your pewter creation. Combine with a visit to the free museum and gift shop. Great for groups. English-speaking instructors. Highly rated experience (4.8/5 from 300+ reviews).",
+    "photos": [
+      "/KL-trip/assets/images/activities/royal-selangor-hard-knocks/1.jpg",
+      "/KL-trip/assets/images/activities/royal-selangor-hard-knocks/2.jpg",
+      "/KL-trip/assets/images/activities/royal-selangor-hard-knocks/3.jpg"
+    ],
+    "added_date": "2025-10-17",
+    "source": "proactive_research",
+    "tags": [
+      "workshop",
+      "pewter",
+      "crafting",
+      "hands-on",
+      "cultural",
+      "souvenir",
+      "group friendly",
+      "unique experience"
+    ]
   },
   {
     "id": 40,
-    "name": "Sri Mahamariamman Temple",
-    "category": "Culture & Heritage",
-    "subcategory": "Hindu Temple",
-    "description": "Malaysia's oldest functioning Hindu temple, dating back to 1873. Located at the edge of Chinatown, this ornate South Indian temple features a stunning 5-tier gopuram adorned with intricate colorful sculptures of Hindu deities. The temple showcases beautiful Dravidian architecture with detailed carvings, gold embellishments, and precious stones.",
-    "location": "163, Jalan Tun H S Lee, 50000 Kuala Lumpur (Chinatown area)",
+    "name": "Thean Hou Temple",
+    "category": "Cultural & Religious",
+    "subcategory": "Chinese Temple",
+    "description": "One of Southeast Asia's largest and most beautiful Chinese temples, perched on a hilltop with panoramic views of Kuala Lumpur. This six-tiered temple combines elements of Buddhism, Taoism, and Confucianism, featuring ornate dragon columns, red lanterns, intricate carvings, and stunning architecture. The temple is especially spectacular during Chinese New Year when decorated with thousands of lanterns.",
+    "location": "Robson Heights, off Jalan Syed Putra (about 15-20 min from KLCC)",
     "cost_rm": 0,
     "cost_usd": 0,
-    "duration_hours": 0.625,
-    "best_time": "Morning (8-10 AM) or evening (5-7 PM) for prayer ceremonies",
-    "tips": "Free entry, donations appreciated. Remove shoes before entering (small storage fee). Dress modestly. Photography allowed in courtyard. Visit during prayer times for authentic experience. Combine with Chinatown exploration. Best during Hindu festivals.",
+    "duration_hours": 1.5,
+    "best_time": "Late afternoon for golden hour photos, or during Chinese New Year for festive decorations. Open 8 AM - 8 PM daily.",
+    "tips": "Free entry, donations welcome. Photography is encouraged. Wear modest clothing. The temple offers great city views. Visit the medicinal herb garden and wishing well. Small shops sell incense and religious items. Accessible by Grab or taxi. Less crowded on weekdays.",
     "photos": [
-      "/KL-trip/assets/images/activities/sri-mahamariamman-temple/1.jpg",
-      "/KL-trip/assets/images/activities/sri-mahamariamman-temple/2.jpg",
-      "/KL-trip/assets/images/activities/sri-mahamariamman-temple/3.jpg"
+      "/KL-trip/assets/images/activities/thean-hou-temple/1.jpg",
+      "/KL-trip/assets/images/activities/thean-hou-temple/2.jpg",
+      "/KL-trip/assets/images/activities/thean-hou-temple/3.jpg"
     ],
-    "added_date": "2025-10-16",
+    "added_date": "2025-10-17",
     "source": "proactive_research",
-    "difficulty": "Easy"
+    "tags": [
+      "temple",
+      "Chinese",
+      "free",
+      "cultural",
+      "photography",
+      "city views",
+      "architecture",
+      "peaceful"
+    ]
   },
   {
     "id": 41,
-    "name": "Bank Negara Malaysia Museum and Art Gallery",
-    "category": "Culture & Heritage",
-    "subcategory": "Museum",
-    "description": "A modern, world-class museum located in Malaysia's Central Bank headquarters. Offers an engaging blend of financial education, economic history, and contemporary art. Interactive galleries cover money evolution, Islamic finance, children's financial literacy, numismatics, and rotating art exhibitions. The building features an impressive spiral staircase.",
-    "location": "Sasana Kijang, 2, Jalan Dato Onn, 50480 Kuala Lumpur (near Merdeka Square)",
-    "cost_rm": 0,
-    "cost_usd": 0,
-    "duration_hours": 1.75,
-    "best_time": "Weekday mornings for quieter experience, excellent for families with children",
-    "tips": "Completely free admission. Highly educational and interactive. Excellent for children and families. Free lockers available. Museum café open 8 AM-8 PM. Wheelchair accessible. Combine with nearby Merdeka Square. Closed Mondays.",
-    "photos": [
-      "/KL-trip/assets/images/activities/bank-negara-museum/1.jpg",
-      "/KL-trip/assets/images/activities/bank-negara-museum/2.jpg",
-      "/KL-trip/assets/images/activities/bank-negara-museum/3.jpg"
-    ],
-    "added_date": "2025-10-16",
-    "source": "proactive_research",
-    "difficulty": "Easy"
-  },
-  {
-    "id": 42,
-    "name": "Kuala Lumpur City Gallery",
-    "category": "Culture & Heritage",
-    "subcategory": "Gallery & Cultural Center",
-    "description": "A heritage gallery housed in a beautifully restored 115-year-old colonial building at Merdeka Square. Features permanent exhibitions on Kuala Lumpur's history, urban development, and future vision, including the famous ARCH miniature model of KL. The iconic 'I ♥ KL' sculpture stands outside, making it one of the city's most photographed landmarks.",
-    "location": "27, Jalan Raja, Dataran Merdeka, 50050 Kuala Lumpur (Merdeka Square)",
+    "name": "KL City Gallery",
+    "category": "Cultural & Religious",
+    "subcategory": "City Museum & Gallery",
+    "description": "Charming gallery showcasing Kuala Lumpur's history, architecture, and urban development through interactive exhibits, miniature models, and multimedia displays. Home to the famous 'I Love KL' sculpture - the city's most popular photo spot. The gallery features a spectacular miniature model of KL's cityscape, historical photographs, and cultural exhibits. Includes a gift shop and cafe.",
+    "location": "Merdeka Square area, Jalan Raja (about 10 min from KLCC)",
     "cost_rm": 10,
-    "cost_usd": 2.2,
-    "duration_hours": 1.25,
-    "best_time": "Morning (9-11 AM) before visiting other Merdeka Square attractions",
-    "tips": "RM10 admission with RM5 redeemable at shop/café. Famous 'I ♥ KL' photo opportunity outside. Detailed miniature model of KL. Gift shop has unique souvenirs. Perfect starting point for Merdeka Square heritage tour. Combine with Sultan Abdul Samad Building.",
+    "cost_usd": 2.25,
+    "duration_hours": 1.5,
+    "best_time": "Morning or late afternoon, open 9 AM - 6:30 PM daily",
+    "tips": "RM 5 of the RM 10 entrance fee is redeemable at the gift shop or cafe. Don't miss the 'I Love KL' sculpture outside for photos. The miniature city model is impressive. Good air-conditioned break from the heat. Combine with a visit to nearby Merdeka Square and Sultan Abdul Samad Building.",
     "photos": [
       "/KL-trip/assets/images/activities/kl-city-gallery/1.jpg",
       "/KL-trip/assets/images/activities/kl-city-gallery/2.jpg",
       "/KL-trip/assets/images/activities/kl-city-gallery/3.jpg"
     ],
-    "added_date": "2025-10-16",
+    "added_date": "2025-10-17",
     "source": "proactive_research",
-    "difficulty": "Easy"
+    "tags": [
+      "museum",
+      "city history",
+      "I Love KL",
+      "photography",
+      "indoor",
+      "affordable",
+      "central location",
+      "family friendly"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "National Textile Museum",
+    "category": "Cultural & Religious",
+    "subcategory": "Museum",
+    "description": "Fascinating museum dedicated to Malaysia's rich textile heritage, showcasing traditional fabrics including batik, songket, pua kumbu, and other indigenous textiles. Exhibits feature intricate weaving techniques, historical costumes, traditional tools, and the cultural significance of Malaysian textiles. The museum occupies a beautifully restored colonial building and offers insights into the craftsmanship and artistry of Southeast Asian textile traditions.",
+    "location": "Jalan Sultan Hishamuddin, near Merdeka Square (about 10 min from KLCC)",
+    "cost_rm": 5,
+    "cost_usd": 1.15,
+    "duration_hours": 1.5,
+    "best_time": "Weekday mornings for quieter experience, open 9 AM - 5 PM daily",
+    "tips": "Very affordable entry fee. Photography allowed. The museum is housed in a beautiful colonial building. Great for understanding Malaysian textile traditions before buying batik or songket. Air-conditioned comfort. Combine with visits to nearby National Museum or Merdeka Square. Free guided tours available on request.",
+    "photos": [
+      "/KL-trip/assets/images/activities/national-textile-museum/1.jpg",
+      "/KL-trip/assets/images/activities/national-textile-museum/2.jpg",
+      "/KL-trip/assets/images/activities/national-textile-museum/3.jpg"
+    ],
+    "added_date": "2025-10-17",
+    "source": "proactive_research",
+    "tags": [
+      "museum",
+      "textiles",
+      "batik",
+      "traditional crafts",
+      "affordable",
+      "cultural",
+      "indoor",
+      "educational"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Islamic Arts Museum Malaysia",
+    "category": "Cultural & Religious",
+    "subcategory": "Museum",
+    "description": "The largest Islamic arts museum in Southeast Asia, featuring over 12 galleries showcasing more than a millennium of Islamic art, design, and culture. Collections include textiles, manuscripts, ceramics, jewelry, and architectural elements from across the Islamic world.",
+    "location": "Jalan Lembah Perdana, 50480 Kuala Lumpur (near National Mosque and Perdana Botanical Gardens)",
+    "cost_rm": 20,
+    "cost_usd": 4.5,
+    "duration_hours": 1.5,
+    "best_time": "Weekday mornings for quieter experience. Open 9:30 AM - 6:00 PM daily.",
+    "tips": "No booking required for general visits. Museum shop and cafe on site. Photography allowed without flash. Combine with visit to National Mosque nearby. Near Pasar Seni LRT station (10-minute walk).",
+    "photos": [
+      "/KL-trip/assets/images/activities/islamic-arts-museum/1.jpg",
+      "/KL-trip/assets/images/activities/islamic-arts-museum/2.jpg",
+      "/KL-trip/assets/images/activities/islamic-arts-museum/3.jpg"
+    ],
+    "added_date": "2025-10-18",
+    "source": "proactive_research"
+  },
+  {
+    "id": 44,
+    "name": "Bank Negara Malaysia Museum and Art Gallery",
+    "category": "Cultural & Religious",
+    "subcategory": "Museum",
+    "description": "A unique combination of museum and art gallery focusing on Malaysian economic history, currency, and contemporary art. Features interactive exhibits on banking, economics, and financial literacy, plus rotating art exhibitions.",
+    "location": "Sasana Kijang, 2 Jalan Dato' Onn, 50480 Kuala Lumpur",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 1.5,
+    "best_time": "Weekday mornings. Open Tuesday-Sunday, 10:00 AM - 5:00 PM (Closed Mondays).",
+    "tips": "FREE admission. Free guided tours available by trained museum guides. Educational and family-friendly. Air-conditioned. Photography allowed. Last admission at 4:30 PM. Near KL Sentral, accessible by LRT/MRT.",
+    "photos": [
+      "/KL-trip/assets/images/activities/bank-negara-museum/1.jpg",
+      "/KL-trip/assets/images/activities/bank-negara-museum/2.jpg",
+      "/KL-trip/assets/images/activities/bank-negara-museum/3.jpg"
+    ],
+    "added_date": "2025-10-18",
+    "source": "proactive_research"
+  },
+  {
+    "id": 45,
+    "name": "Thean Hou Temple",
+    "category": "Cultural & Religious",
+    "subcategory": "Temple",
+    "description": "One of the oldest and largest Chinese temples in Southeast Asia, this six-tiered Buddhist temple is dedicated to the goddess Tian Hou (Mazu). Features stunning traditional architecture, ornate decorations, beautiful gardens, and panoramic city views.",
+    "location": "65 Persiaran Endah, Off Jalan Syed Putra, 50460 Kuala Lumpur",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 1,
+    "best_time": "Early morning or late afternoon for best lighting. Open 8:00 AM - 8:00 PM daily.",
+    "tips": "FREE admission (RM5 parking fee per vehicle). Not accessible by public transport - take Grab/taxi (15-20 min from city center). Dress modestly. Great for photography. Especially beautiful during Chinese New Year and Mid-Autumn Festival.",
+    "photos": [
+      "/KL-trip/assets/images/activities/thean-hou-temple/1.jpg",
+      "/KL-trip/assets/images/activities/thean-hou-temple/2.jpg",
+      "/KL-trip/assets/images/activities/thean-hou-temple/3.jpg"
+    ],
+    "added_date": "2025-10-18",
+    "source": "proactive_research"
+  },
+  {
+    "id": 46,
+    "name": "National Textile Museum",
+    "category": "Cultural & Religious",
+    "subcategory": "Museum",
+    "description": "Housed in a beautiful colonial building, this museum showcases Malaysia's rich textile heritage across 4 galleries. Exhibits include traditional Malay textiles, batik, songket, ceremonial costumes, and the evolution of Malaysian fashion.",
+    "location": "Jalan Sultan Hishamuddin, 50050 Kuala Lumpur (near Merdeka Square)",
+    "cost_rm": 5,
+    "cost_usd": 1.2,
+    "duration_hours": 1,
+    "best_time": "Weekday mornings. Open 9:00 AM - 6:00 PM daily.",
+    "tips": "Free entrance with registration (sign-in required). Well-displayed exhibits with good descriptions. Near Masjid Jamek LRT Station (5-minute walk). Combine with Merdeka Square visit.",
+    "photos": [
+      "/KL-trip/assets/images/activities/national-textile-museum/1.jpg",
+      "/KL-trip/assets/images/activities/national-textile-museum/2.jpg",
+      "/KL-trip/assets/images/activities/national-textile-museum/3.jpg"
+    ],
+    "added_date": "2025-10-18",
+    "source": "proactive_research"
+  },
+  {
+    "id": 47,
+    "name": "Kuala Lumpur City Gallery",
+    "category": "Cultural & Religious",
+    "subcategory": "Gallery",
+    "description": "An architectural gallery showcasing KL's history, development, and future through exhibits, models, and multimedia displays. Features the famous 'I Love KL' sign and a spectacular miniature model of the city.",
+    "location": "27 Jalan Raja, Dataran Merdeka, 50050 Kuala Lumpur",
+    "cost_rm": 10,
+    "cost_usd": 2.25,
+    "duration_hours": 1,
+    "best_time": "Morning or late afternoon. Open 9:00 AM - 6:30 PM daily.",
+    "tips": "RM10 per person (RM5 redeemable at gift shop or cafe). Great introduction to KL's history. Photo opportunity with 'I Love KL' sign outside. Gift shop has unique KL souvenirs. Located at Merdeka Square. Near Masjid Jamek LRT Station (5-minute walk).",
+    "photos": [
+      "/KL-trip/assets/images/activities/kl-city-gallery/1.jpg",
+      "/KL-trip/assets/images/activities/kl-city-gallery/2.jpg",
+      "/KL-trip/assets/images/activities/kl-city-gallery/3.jpg"
+    ],
+    "added_date": "2025-10-18",
+    "source": "proactive_research"
+  },
+  {
+    "id": 48,
+    "name": "Royal Selangor Visitor Centre",
+    "category": "Cultural & Religious",
+    "subcategory": "Cultural Workshop",
+    "description": "Discover Malaysia's pewter heritage at the world's largest pewter manufacturer. Includes factory tour, museum showcasing Royal Selangor's 140-year history, and hands-on workshops where visitors can craft their own pewter items.",
+    "location": "4 Jalan Usahawan 6, Setapak Jaya, 53300 Kuala Lumpur",
+    "cost_rm": 80,
+    "cost_usd": 18,
+    "duration_hours": 2.5,
+    "best_time": "Weekday mornings for less crowded workshops. Open 9:00 AM - 5:00 PM daily.",
+    "tips": "Factory tour FREE, Workshops RM80-150. Book workshops online in advance (popular). Most popular: The Foundry Workshop (30 mins, RM80). Take home your handmade pewter creation. Gift shop with full product range. 15-20 min drive from city center (Grab/taxi recommended).",
+    "photos": [
+      "/KL-trip/assets/images/activities/royal-selangor-centre/1.jpg",
+      "/KL-trip/assets/images/activities/royal-selangor-centre/2.jpg",
+      "/KL-trip/assets/images/activities/royal-selangor-centre/3.jpg"
+    ],
+    "added_date": "2025-10-18",
+    "source": "proactive_research"
+  },
+  {
+    "id": 49,
+    "name": "Sri Mahamariamman Temple",
+    "category": "Cultural & Religious",
+    "subcategory": "Temple",
+    "description": "Kuala Lumpur's oldest and largest Hindu temple, built in 1873. Features stunning Dravidian architecture with an ornate 5-tier gopuram (tower) adorned with colorful Hindu deities. The interior is richly decorated with gold, silver, and precious stones.",
+    "location": "Jalan Tun H S Lee, Chinatown, 50000 Kuala Lumpur",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 0.5,
+    "best_time": "Early morning or evening for prayer ceremonies. Open 6:00 AM - 9:00 PM daily.",
+    "tips": "FREE admission (small donation appreciated). Dress modestly (shoulders and knees covered). Remove shoes before entering. Photography allowed but be respectful during prayers. Located in Chinatown - combine with Petaling Street visit. Beautiful from outside at night when lit up. Pasar Seni LRT Station (5-minute walk).",
+    "photos": [
+      "/KL-trip/assets/images/activities/sri-mahamariamman-temple/1.jpg",
+      "/KL-trip/assets/images/activities/sri-mahamariamman-temple/2.jpg",
+      "/KL-trip/assets/images/activities/sri-mahamariamman-temple/3.jpg"
+    ],
+    "added_date": "2025-10-18",
+    "source": "proactive_research"
+  },
+  {
+    "id": 50,
+    "name": "Pavilion Kuala Lumpur",
+    "category": "Shopping & Entertainment",
+    "subcategory": "Luxury Shopping Mall",
+    "description": "Malaysia's premier award-winning shopping destination located in the heart of Bukit Bintang, featuring over 700 retail outlets and restaurants. This upscale mall houses international luxury brands, flagship stores, unique concept stores, and a wide variety of dining options across multiple floors. Known for its elegant architecture and sophisticated shopping experience.",
+    "location": "168, Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Malaysia",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 2.5,
+    "best_time": "Weekdays 10am-6pm for fewer crowds, weekends for full atmosphere. Open daily 10am-10pm.",
+    "tips": "Easily accessible via MRT (Bukit Bintang Station, Door D or E). Free WiFi available. Mix of luxury and mid-range brands. Great food court and restaurants. Air-conditioned comfort. Perfect for group shopping with variety for all budgets.",
+    "photos": [
+      "/KL-trip/assets/images/activities/pavilion-kl/1.jpg",
+      "/KL-trip/assets/images/activities/pavilion-kl/2.jpg",
+      "/KL-trip/assets/images/activities/pavilion-kl/3.jpg"
+    ],
+    "added_date": "2025-10-18",
+    "source": "proactive_research"
+  },
+  {
+    "id": 51,
+    "name": "Suria KLCC",
+    "category": "Shopping & Entertainment",
+    "subcategory": "Iconic Shopping Mall",
+    "description": "The iconic experiential shopping destination located directly beneath the world-famous Petronas Twin Towers. Features over 300 specialty stores offering an exclusive blend of renowned international fashion brands, flagship stores, and unique concept stores. Combines world-class shopping with stunning architecture and the KLCC Park experience.",
+    "location": "Lot 241, Jalan P Ramlee, Kuala Lumpur City Center, 50088 Kuala Lumpur, Malaysia",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 2.5,
+    "best_time": "Early morning 10am-12pm or late afternoon 4pm-6pm to avoid peak crowds. Open daily 10am-10pm.",
+    "tips": "Take photos with Petronas Towers. Visit KLCC Park after shopping. Accessible via LRT (KLCC Station). Petrosains science center inside. Mix of luxury and accessible brands. Excellent dining options. Book Skybridge tickets in advance if interested.",
+    "photos": [
+      "/KL-trip/assets/images/activities/suria-klcc/1.jpg",
+      "/KL-trip/assets/images/activities/suria-klcc/2.jpg",
+      "/KL-trip/assets/images/activities/suria-klcc/3.jpg"
+    ],
+    "added_date": "2025-10-18",
+    "source": "proactive_research"
+  },
+  {
+    "id": 52,
+    "name": "Central Market (Pasar Seni)",
+    "category": "Shopping & Entertainment",
+    "subcategory": "Cultural Heritage Market",
+    "description": "A historic landmark built in 1888, originally a wet market and now transformed into the center for Malaysian culture, art, and craft. Houses over 350 shops retailing traditional goods, art collectibles, local handicrafts, batik, souvenirs, and cultural items. Features batik painting workshops, cultural performances, and authentic Malaysian products.",
+    "location": "Jalan Hang Kasturi, 50050 Kuala Lumpur, Malaysia",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 1.5,
+    "best_time": "Weekday mornings 10am-12pm for relaxed browsing. Open daily 10am-9:30pm.",
+    "tips": "Try batik painting workshop (RM30-50). Cash preferred by many vendors. ATMs available inside. Fixed prices in most shops (no bargaining). Authentic Malaysian souvenirs and gifts. Air-conditioned comfort. Near Petaling Street and Chinatown. Accessible via LRT (Pasar Seni Station).",
+    "photos": [
+      "/KL-trip/assets/images/activities/central-market/1.jpg",
+      "/KL-trip/assets/images/activities/central-market/2.jpg",
+      "/KL-trip/assets/images/activities/central-market/3.jpg"
+    ],
+    "added_date": "2025-10-18",
+    "source": "proactive_research"
+  },
+  {
+    "id": 53,
+    "name": "Petaling Street Market",
+    "category": "Shopping & Entertainment",
+    "subcategory": "Night Market & Street Shopping",
+    "description": "The vibrant heart of Kuala Lumpur's Chinatown, offering an authentic Malaysian street market experience. This bustling covered market comes alive especially in the evenings with hundreds of stalls selling bargain clothing, accessories, souvenirs, replica goods, and street food. A cultural experience combining shopping, food, and the art of bargaining.",
+    "location": "Jalan Petaling, City Centre, 50000 Kuala Lumpur, Malaysia",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 2,
+    "best_time": "Evening 5pm-10pm when the market is most vibrant and all stalls are open. Some shops open from noon.",
+    "tips": "Bargain hard - start at 50-70% of asking price. Bring cash only. Watch belongings in crowds. Try street food from surrounding stalls. Fake branded goods common. Near Central Market (5 min walk). Accessible via LRT (Pasar Seni). Best experienced as a group. Combine with dinner at nearby restaurants.",
+    "photos": [
+      "/KL-trip/assets/images/activities/petaling-street/1.jpg",
+      "/KL-trip/assets/images/activities/petaling-street/2.jpg",
+      "/KL-trip/assets/images/activities/petaling-street/3.jpg"
+    ],
+    "added_date": "2025-10-18",
+    "source": "proactive_research"
+  },
+  {
+    "id": 54,
+    "name": "Mid Valley Megamall",
+    "category": "Shopping & Entertainment",
+    "subcategory": "Family Shopping Mall",
+    "description": "One of Kuala Lumpur's largest and most comprehensive shopping destinations, offering a massive selection of retail outlets, dining options, and entertainment. This family-friendly megamall features international and local brands across all price ranges, a huge food court, cinema, and everything needed for a full day of shopping and entertainment.",
+    "location": "Mid Valley City, Lingkaran Syed Putra, 59200 Kuala Lumpur, Malaysia",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 3,
+    "best_time": "Weekdays 11am-3pm to avoid weekend crowds. Open daily 10am-10pm.",
+    "tips": "Huge mall - wear comfortable shoes. Connected to The Gardens Mall for luxury shopping. Excellent food court with many options. Free parking for first hours. Accessible via KTM (Mid Valley Station). Great for groups with diverse shopping needs. Cinema and entertainment options. Budget to mid-range shopping paradise.",
+    "photos": [
+      "/KL-trip/assets/images/activities/mid-valley-megamall/1.jpg",
+      "/KL-trip/assets/images/activities/mid-valley-megamall/2.jpg",
+      "/KL-trip/assets/images/activities/mid-valley-megamall/3.jpg"
+    ],
+    "added_date": "2025-10-18",
+    "source": "proactive_research"
+  },
+  {
+    "id": 55,
+    "name": "Berjaya Times Square",
+    "category": "Shopping & Entertainment",
+    "subcategory": "Shopping Mall with Theme Park",
+    "description": "A massive shopping complex featuring both extensive retail options and Malaysia's largest indoor theme park. Offers over 1000 retail lots with a wide range of shops from budget to mid-range, plus Berjaya Times Square Theme Park with rides and attractions. A unique combination of shopping and entertainment in the heart of Kuala Lumpur.",
+    "location": "1, Jalan Imbi, Kuala Lumpur, 55100, Malaysia",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 3,
+    "best_time": "Weekdays for shopping, weekends if visiting theme park. Mall open 10am-10pm, theme park 12pm-8pm.",
+    "tips": "Theme park tickets: RM60 adults, RM50 children (separate from free mall entry). Budget-friendly shopping. Monorail accessible (Imbi Station). Large food court. Mix shopping with theme park fun. Good for groups with varied interests. Wear comfortable shoes - it's huge. Some shops offer great bargains.",
+    "photos": [
+      "/KL-trip/assets/images/activities/berjaya-times-square/1.jpg",
+      "/KL-trip/assets/images/activities/berjaya-times-square/2.jpg",
+      "/KL-trip/assets/images/activities/berjaya-times-square/3.jpg"
+    ],
+    "added_date": "2025-10-18",
+    "source": "proactive_research"
+  },
+  {
+    "id": 56,
+    "name": "Sungei Wang Plaza",
+    "category": "Shopping & Entertainment",
+    "subcategory": "Budget Shopping Mall",
+    "description": "One of Kuala Lumpur's oldest and most iconic shopping malls, established in 1977 and still thriving today. Known for affordable fashion, accessories, electronics, and local brands popular with young shoppers. Features unique specialty shops including Malaysia's most optical stores (50 outlets), hobby shops, collectibles, and a nostalgic local shopping atmosphere.",
+    "location": "Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Malaysia",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 1.5,
+    "best_time": "Afternoons 2pm-6pm. Open daily 10am-10pm, some shops until late.",
+    "tips": "Budget-friendly shopping paradise. Connected to Pavilion KL via walkway. MRT accessible (Bukit Bintang Station). Famous for affordable fashion and electronics. 5th floor has hobby and collectibles shops. Local shopping vibe. Good food court. Cash preferred in many shops. Great for bargain hunters and unique finds.",
+    "photos": [
+      "/KL-trip/assets/images/activities/sungei-wang-plaza/1.jpg",
+      "/KL-trip/assets/images/activities/sungei-wang-plaza/2.jpg",
+      "/KL-trip/assets/images/activities/sungei-wang-plaza/3.jpg"
+    ],
+    "added_date": "2025-10-18",
+    "source": "proactive_research"
   }
 ];
 
 console.log('Total activities loaded:', allActivities.length);
-
-// Get the grid container
-const activitiesGrid = document.getElementById('activities-full-grid');
-
-// Get filter buttons
-const filterButtons = document.querySelectorAll('.filter-btn');
-
-// Current filter
-let currentFilter = 'all';
-
-// Function to render activities
-function renderActivities(filter = 'all') {
-    console.log('Rendering activities with filter:', filter);
-    if (!activitiesGrid) {
-        console.error('Activities grid not found');
-        return;
-    }
-    
-    activitiesGrid.innerHTML = '';
-    
-    const filteredActivities = filter === 'all' 
-        ? allActivities 
-        : allActivities.filter(activity => activity.category === filter);
-    
-    console.log('Filtered activities count:', filteredActivities.length);
-    
-    filteredActivities.forEach(activity => {
-        const card = createActivityCard(activity);
-        activitiesGrid.appendChild(card);
-    });
-    
-    // Update filter button counts
-    updateFilterCounts();
-}
-
-// Function to create activity card
-function createActivityCard(activity) {
-    const card = document.createElement('div');
-    card.className = 'activity-card-full';
-    card.setAttribute('data-category', activity.category);
-    
-    // Get cost display
-    let costDisplay = 'Free';
-    if (activity.cost_rm && typeof activity.cost_rm === 'object') {
-        const costs = Object.values(activity.cost_rm);
-        const minCost = Math.min(...costs);
-        costDisplay = `$${(minCost / 4.5).toFixed(0)}+`;
-    } else if (activity.cost_usd && activity.cost_usd > 0) {
-        costDisplay = `$${activity.cost_usd}`;
-    } else if (activity.cost_rm && activity.cost_rm > 0) {
-        costDisplay = `$${(activity.cost_rm / 4.5).toFixed(0)}`;
-    }
-    
-    // Get photos
-    const photos = activity.photos || activity.images || [];
-    const hasPhotos = photos.length > 0;
-    
-    card.innerHTML = `
-        ${hasPhotos ? `
-        <div class="activity-images">
-            ${photos.slice(0, 3).map(photo => `
-                <img src="${photo}" alt="${activity.name}" loading="lazy">
-            `).join('')}
-        </div>
-        ` : ''}
-        
-        <div class="activity-content">
-            <div class="activity-category-badge">${activity.category}</div>
-            <h3>${activity.name}</h3>
-            <p class="activity-description">${activity.description}</p>
-            
-            <div class="activity-details">
-                <div class="detail-item">
-                    <span class="detail-icon">📍</span>
-                    <span class="detail-label">Location</span>
-                    <span class="detail-value">${activity.location}</span>
-                </div>
-                
-                <div class="detail-item">
-                    <span class="detail-icon">⏱️</span>
-                    <span class="detail-label">Duration</span>
-                    <span class="detail-value">${activity.duration_hours} hours</span>
-                </div>
-                
-                <div class="detail-item">
-                    <span class="detail-icon">💰</span>
-                    <span class="detail-label">Cost</span>
-                    <span class="detail-value">${costDisplay}</span>
-                </div>
-                
-                <div class="detail-item">
-                    <span class="detail-icon">🕐</span>
-                    <span class="detail-label">Best Time</span>
-                    <span class="detail-value">${activity.best_time}</span>
-                </div>
-            </div>
-            
-            ${activity.tips ? `
-            <div class="activity-tips">
-                <h4>💡 Tips:</h4>
-                <ul>
-                    ${activity.tips.split('.').filter(tip => tip.trim()).slice(0, 2).map(tip => 
-                        `<li>${tip.trim()}</li>`
-                    ).join('')}
-                </ul>
-            </div>
-            ` : ''}
-            
-            <div class="activity-footer">
-                <div class="vote-section">
-                    <span class="vote-count">0 votes</span>
-                    <button class="btn-vote" onclick="voteActivity(${activity.id})">👍 Vote</button>
-                </div>
-                ${activity.difficulty ? `<span class="difficulty-badge">${activity.difficulty}</span>` : ''}
-            </div>
-        </div>
-    `;
-    
-    return card;
-}
-
-// Function to update filter counts
-function updateFilterCounts() {
-    const categoryCounts = {};
-    allActivities.forEach(activity => {
-        categoryCounts[activity.category] = (categoryCounts[activity.category] || 0) + 1;
-    });
-    
-    filterButtons.forEach(btn => {
-        const filter = btn.getAttribute('data-filter');
-        if (filter !== 'all') {
-            const count = categoryCounts[filter] || 0;
-            // Update button text to show count if not already there
-            if (!btn.textContent.includes('(')) {
-                btn.textContent = `${filter} (${count})`;
-            }
-        }
-    });
-}
-
-// Add filter button event listeners
-filterButtons.forEach(button => {
-    button.addEventListener('click', () => {
-        filterButtons.forEach(btn => btn.classList.remove('active'));
-        button.classList.add('active');
-        
-        const filter = button.getAttribute('data-filter');
-        currentFilter = filter;
-        renderActivities(filter);
-    });
-});
-
-// Function to vote for an activity
-function voteActivity(activityId) {
-    console.log('Voting for activity:', activityId);
-    // Implementation would save to localStorage or backend
-    alert('Thank you for voting! Your vote has been recorded.');
-}
-
-// Initialize on page load
-document.addEventListener('DOMContentLoaded', () => {
-    console.log('DOM loaded, rendering activities');
-    renderActivities();
-});
-
-// Also render immediately if DOM is already loaded
-if (document.readyState === 'loading') {
-    console.log('DOM still loading');
-} else {
-    console.log('DOM already loaded, rendering activities immediately');
-    renderActivities();
-}
