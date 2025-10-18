@@ -1085,7 +1085,7 @@
   {
     "id": 43,
     "name": "Islamic Arts Museum Malaysia",
-    "category": "Culture & Heritage",
+    "category": "Cultural & Religious",
     "subcategory": "Museum",
     "description": "The largest Islamic arts museum in Southeast Asia, featuring over 12 galleries showcasing more than a millennium of Islamic art, design, and culture. Collections include textiles, manuscripts, ceramics, jewelry, and architectural elements from across the Islamic world.",
     "location": "Jalan Lembah Perdana, 50480 Kuala Lumpur (near National Mosque and Perdana Botanical Gardens)",
@@ -1105,7 +1105,7 @@
   {
     "id": 44,
     "name": "Bank Negara Malaysia Museum and Art Gallery",
-    "category": "Culture & Heritage",
+    "category": "Cultural & Religious",
     "subcategory": "Museum",
     "description": "A unique combination of museum and art gallery focusing on Malaysian economic history, currency, and contemporary art. Features interactive exhibits on banking, economics, and financial literacy, plus rotating art exhibitions.",
     "location": "Sasana Kijang, 2 Jalan Dato' Onn, 50480 Kuala Lumpur",
@@ -1125,7 +1125,7 @@
   {
     "id": 45,
     "name": "Thean Hou Temple",
-    "category": "Culture & Heritage",
+    "category": "Cultural & Religious",
     "subcategory": "Temple",
     "description": "One of the oldest and largest Chinese temples in Southeast Asia, this six-tiered Buddhist temple is dedicated to the goddess Tian Hou (Mazu). Features stunning traditional architecture, ornate decorations, beautiful gardens, and panoramic city views.",
     "location": "65 Persiaran Endah, Off Jalan Syed Putra, 50460 Kuala Lumpur",
@@ -1145,7 +1145,7 @@
   {
     "id": 46,
     "name": "National Textile Museum",
-    "category": "Culture & Heritage",
+    "category": "Cultural & Religious",
     "subcategory": "Museum",
     "description": "Housed in a beautiful colonial building, this museum showcases Malaysia's rich textile heritage across 4 galleries. Exhibits include traditional Malay textiles, batik, songket, ceremonial costumes, and the evolution of Malaysian fashion.",
     "location": "Jalan Sultan Hishamuddin, 50050 Kuala Lumpur (near Merdeka Square)",
@@ -1165,7 +1165,7 @@
   {
     "id": 47,
     "name": "Kuala Lumpur City Gallery",
-    "category": "Culture & Heritage",
+    "category": "Cultural & Religious",
     "subcategory": "Gallery",
     "description": "An architectural gallery showcasing KL's history, development, and future through exhibits, models, and multimedia displays. Features the famous 'I Love KL' sign and a spectacular miniature model of the city.",
     "location": "27 Jalan Raja, Dataran Merdeka, 50050 Kuala Lumpur",
@@ -1185,7 +1185,7 @@
   {
     "id": 48,
     "name": "Royal Selangor Visitor Centre",
-    "category": "Culture & Heritage",
+    "category": "Cultural & Religious",
     "subcategory": "Cultural Workshop",
     "description": "Discover Malaysia's pewter heritage at the world's largest pewter manufacturer. Includes factory tour, museum showcasing Royal Selangor's 140-year history, and hands-on workshops where visitors can craft their own pewter items.",
     "location": "4 Jalan Usahawan 6, Setapak Jaya, 53300 Kuala Lumpur",
@@ -1205,7 +1205,7 @@
   {
     "id": 49,
     "name": "Sri Mahamariamman Temple",
-    "category": "Culture & Heritage",
+    "category": "Cultural & Religious",
     "subcategory": "Temple",
     "description": "Kuala Lumpur's oldest and largest Hindu temple, built in 1873. Features stunning Dravidian architecture with an ornate 5-tier gopuram (tower) adorned with colorful Hindu deities. The interior is richly decorated with gold, silver, and precious stones.",
     "location": "Jalan Tun H S Lee, Chinatown, 50000 Kuala Lumpur",
@@ -1225,7 +1225,7 @@
   {
     "id": 50,
     "name": "Pavilion Kuala Lumpur",
-    "category": "Shopping & Markets",
+    "category": "Shopping & Entertainment",
     "subcategory": "Luxury Shopping Mall",
     "description": "Malaysia's premier award-winning shopping destination located in the heart of Bukit Bintang, featuring over 700 retail outlets and restaurants. This upscale mall houses international luxury brands, flagship stores, unique concept stores, and a wide variety of dining options across multiple floors. Known for its elegant architecture and sophisticated shopping experience.",
     "location": "168, Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Malaysia",
@@ -1245,7 +1245,7 @@
   {
     "id": 51,
     "name": "Suria KLCC",
-    "category": "Shopping & Markets",
+    "category": "Shopping & Entertainment",
     "subcategory": "Iconic Shopping Mall",
     "description": "The iconic experiential shopping destination located directly beneath the world-famous Petronas Twin Towers. Features over 300 specialty stores offering an exclusive blend of renowned international fashion brands, flagship stores, and unique concept stores. Combines world-class shopping with stunning architecture and the KLCC Park experience.",
     "location": "Lot 241, Jalan P Ramlee, Kuala Lumpur City Center, 50088 Kuala Lumpur, Malaysia",
@@ -1265,7 +1265,7 @@
   {
     "id": 52,
     "name": "Central Market (Pasar Seni)",
-    "category": "Shopping & Markets",
+    "category": "Shopping & Entertainment",
     "subcategory": "Cultural Heritage Market",
     "description": "A historic landmark built in 1888, originally a wet market and now transformed into the center for Malaysian culture, art, and craft. Houses over 350 shops retailing traditional goods, art collectibles, local handicrafts, batik, souvenirs, and cultural items. Features batik painting workshops, cultural performances, and authentic Malaysian products.",
     "location": "Jalan Hang Kasturi, 50050 Kuala Lumpur, Malaysia",
@@ -1285,7 +1285,7 @@
   {
     "id": 53,
     "name": "Petaling Street Market",
-    "category": "Shopping & Markets",
+    "category": "Shopping & Entertainment",
     "subcategory": "Night Market & Street Shopping",
     "description": "The vibrant heart of Kuala Lumpur's Chinatown, offering an authentic Malaysian street market experience. This bustling covered market comes alive especially in the evenings with hundreds of stalls selling bargain clothing, accessories, souvenirs, replica goods, and street food. A cultural experience combining shopping, food, and the art of bargaining.",
     "location": "Jalan Petaling, City Centre, 50000 Kuala Lumpur, Malaysia",
@@ -1305,7 +1305,7 @@
   {
     "id": 54,
     "name": "Mid Valley Megamall",
-    "category": "Shopping & Markets",
+    "category": "Shopping & Entertainment",
     "subcategory": "Family Shopping Mall",
     "description": "One of Kuala Lumpur's largest and most comprehensive shopping destinations, offering a massive selection of retail outlets, dining options, and entertainment. This family-friendly megamall features international and local brands across all price ranges, a huge food court, cinema, and everything needed for a full day of shopping and entertainment.",
     "location": "Mid Valley City, Lingkaran Syed Putra, 59200 Kuala Lumpur, Malaysia",
@@ -1325,7 +1325,7 @@
   {
     "id": 55,
     "name": "Berjaya Times Square",
-    "category": "Shopping & Markets",
+    "category": "Shopping & Entertainment",
     "subcategory": "Shopping Mall with Theme Park",
     "description": "A massive shopping complex featuring both extensive retail options and Malaysia's largest indoor theme park. Offers over 1000 retail lots with a wide range of shops from budget to mid-range, plus Berjaya Times Square Theme Park with rides and attractions. A unique combination of shopping and entertainment in the heart of Kuala Lumpur.",
     "location": "1, Jalan Imbi, Kuala Lumpur, 55100, Malaysia",
@@ -1345,7 +1345,7 @@
   {
     "id": 56,
     "name": "Sungei Wang Plaza",
-    "category": "Shopping & Markets",
+    "category": "Shopping & Entertainment",
     "subcategory": "Budget Shopping Mall",
     "description": "One of Kuala Lumpur's oldest and most iconic shopping malls, established in 1977 and still thriving today. Known for affordable fashion, accessories, electronics, and local brands popular with young shoppers. Features unique specialty shops including Malaysia's most optical stores (50 outlets), hobby shops, collectibles, and a nostalgic local shopping atmosphere.",
     "location": "Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Malaysia",
