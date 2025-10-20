@@ -459,7 +459,7 @@
     "name": "Vertigo & Horizon Grill at Banyan Tree",
     "category": "Nightlife & Entertainment",
     "subcategory": "Rooftop Restaurant & Bar",
-    "description": "A multi-level rooftop destination spanning the 59th and 60th floors of Banyan Tree Kuala Lumpur. Vertigo bar offers indoor and outdoor terraces with breathtaking 360\u00b0 views, while Horizon Grill serves premium steaks and seafood. Recently added Vertigo TOO on the 60th floor takes the experience even higher with chill-out drinking and live DJs.",
+    "description": "A multi-level rooftop destination spanning the 59th and 60th floors of Banyan Tree Kuala Lumpur. Vertigo bar offers indoor and outdoor terraces with breathtaking 360° views, while Horizon Grill serves premium steaks and seafood. Recently added Vertigo TOO on the 60th floor takes the experience even higher with chill-out drinking and live DJs.",
     "location": "Level 59-60, Banyan Tree Kuala Lumpur, 2 Jalan Conlay, 50450 Kuala Lumpur",
     "cost_rm": 58,
     "cost_usd": 13,
@@ -686,46 +686,6 @@
   },
   {
     "id": 31,
-    "name": "Jump Street Trampoline Park",
-    "category": "Adventure & Sports",
-    "subcategory": "Trampoline Park",
-    "description": "Malaysia's first and biggest indoor trampoline park featuring wall-to-wall trampolines, foam pits, slam dunk zones, dodgeball courts, zipline, and high-performance areas. Over 9,000 square feet of bouncing space with various attractions suitable for all ages.",
-    "location": "Petaling Jaya (near 1Utama area, about 25-30 min from Bukit Bintang)",
-    "cost_rm": {
-      "3hrs_night": 29,
-      "3hrs_weekday": 45,
-      "3hrs_public_holiday": 50,
-      "whole_day": 65,
-      "whole_day_public_holiday": 70
-    },
-    "cost_usd": {
-      "3hrs_night": 6.5,
-      "3hrs_weekday": 10,
-      "3hrs_public_holiday": 11,
-      "whole_day": 14.5,
-      "whole_day_public_holiday": 15.75
-    },
-    "duration_hours": 3,
-    "best_time": "Weekday night sessions for best pricing, weekdays generally less crowded.",
-    "suitable_for": "All ages and fitness levels",
-    "booking_required": true,
-    "contact": {
-      "website": "jumpstreetasia.com"
-    },
-    "opening_hours": "Check website for current hours",
-    "tips": "Book tickets online in advance. Grip socks required (available for purchase). Multiple attractions including dodgeball, basketball, foam pit, zipline.",
-    "images": [],
-    "tags": [
-      "trampoline",
-      "indoor",
-      "dodgeball",
-      "foam pit",
-      "zipline",
-      "group activities"
-    ]
-  },
-  {
-    "id": 32,
     "name": "Arena 51 Archery Tag",
     "category": "Adventure & Sports",
     "subcategory": "Combat Sport",
@@ -762,45 +722,7 @@
     ]
   },
   {
-    "id": 33,
-    "name": "Sunway Lagoon Theme Park",
-    "category": "Adventure & Sports",
-    "subcategory": "Theme Park",
-    "description": "Malaysia's premier multi-park theme park featuring 7 different experiences: Water Park, Amusement Park, Wildlife Park, Extreme Park, Scream Park, Nickelodeon Lost Lagoon, and Lynton V Harris' Scream Park. Over 90 attractions including water slides, thrill rides, and animal encounters.",
-    "location": "Sunway City, Petaling Jaya (about 30 min from Bukit Bintang)",
-    "cost_rm": {
-      "malaysian_min": 145,
-      "malaysian_max": 180,
-      "international_min": 195,
-      "international_max": 245
-    },
-    "cost_usd": {
-      "malaysian_min": 32,
-      "malaysian_max": 40,
-      "international_min": 44,
-      "international_max": 55
-    },
-    "duration_hours": 9,
-    "best_time": "Weekdays for fewer crowds, arrive early to maximize time.",
-    "suitable_for": "All ages, families, groups",
-    "booking_required": true,
-    "contact": {
-      "website": "sunwaylagoon.com"
-    },
-    "opening_hours": "Typically 10am-6pm, check website for current hours",
-    "tips": "Buy tickets online to skip queues. Includes ALL 7 parks and most attractions. Bring swimwear, towels, and change of clothes. Lockers and cabana rentals available.",
-    "images": [],
-    "tags": [
-      "theme park",
-      "water park",
-      "wildlife",
-      "full day",
-      "family friendly",
-      "90+ attractions"
-    ]
-  },
-  {
-    "id": 34,
+    "id": 32,
     "name": "Skytrex Adventure Shah Alam",
     "category": "Adventure & Sports",
     "subcategory": "High Rope Course",
@@ -837,7 +759,7 @@
     ]
   },
   {
-    "id": 35,
+    "id": 33,
     "name": "VAR LIVE VR Theme Park",
     "category": "Adventure & Sports",
     "subcategory": "Virtual Reality",
@@ -874,7 +796,7 @@
     ]
   },
   {
-    "id": 36,
+    "id": 34,
     "name": "Islamic Arts Museum Malaysia",
     "category": "Cultural & Religious",
     "subcategory": "Museum",
@@ -903,7 +825,7 @@
     ]
   },
   {
-    "id": 37,
+    "id": 35,
     "name": "Batu Caves",
     "category": "Cultural & Religious",
     "subcategory": "Hindu Temple & Landmark",
@@ -933,7 +855,7 @@
     ]
   },
   {
-    "id": 38,
+    "id": 36,
     "name": "Batik Painting Workshop",
     "category": "Cultural & Religious",
     "subcategory": "Cultural Workshop",
@@ -963,7 +885,7 @@
     ]
   },
   {
-    "id": 39,
+    "id": 37,
     "name": "Royal Selangor School of Hard Knocks",
     "category": "Cultural & Religious",
     "subcategory": "Pewter Crafting Workshop",
@@ -993,7 +915,7 @@
     ]
   },
   {
-    "id": 40,
+    "id": 38,
     "name": "Thean Hou Temple",
     "category": "Cultural & Religious",
     "subcategory": "Chinese Temple",
@@ -1023,7 +945,7 @@
     ]
   },
   {
-    "id": 41,
+    "id": 39,
     "name": "KL City Gallery",
     "category": "Cultural & Religious",
     "subcategory": "City Museum & Gallery",
@@ -1053,7 +975,7 @@
     ]
   },
   {
-    "id": 42,
+    "id": 40,
     "name": "National Textile Museum",
     "category": "Cultural & Religious",
     "subcategory": "Museum",
@@ -1083,27 +1005,7 @@
     ]
   },
   {
-    "id": 43,
-    "name": "Islamic Arts Museum Malaysia",
-    "category": "Cultural & Religious",
-    "subcategory": "Museum",
-    "description": "The largest Islamic arts museum in Southeast Asia, featuring over 12 galleries showcasing more than a millennium of Islamic art, design, and culture. Collections include textiles, manuscripts, ceramics, jewelry, and architectural elements from across the Islamic world.",
-    "location": "Jalan Lembah Perdana, 50480 Kuala Lumpur (near National Mosque and Perdana Botanical Gardens)",
-    "cost_rm": 20,
-    "cost_usd": 4.5,
-    "duration_hours": 1.5,
-    "best_time": "Weekday mornings for quieter experience. Open 9:30 AM - 6:00 PM daily.",
-    "tips": "No booking required for general visits. Museum shop and cafe on site. Photography allowed without flash. Combine with visit to National Mosque nearby. Near Pasar Seni LRT station (10-minute walk).",
-    "photos": [
-      "/KL-trip/assets/images/activities/islamic-arts-museum/1.jpg",
-      "/KL-trip/assets/images/activities/islamic-arts-museum/2.jpg",
-      "/KL-trip/assets/images/activities/islamic-arts-museum/3.jpg"
-    ],
-    "added_date": "2025-10-18",
-    "source": "proactive_research"
-  },
-  {
-    "id": 44,
+    "id": 41,
     "name": "Bank Negara Malaysia Museum and Art Gallery",
     "category": "Cultural & Religious",
     "subcategory": "Museum",
@@ -1123,47 +1025,7 @@
     "source": "proactive_research"
   },
   {
-    "id": 45,
-    "name": "Thean Hou Temple",
-    "category": "Cultural & Religious",
-    "subcategory": "Temple",
-    "description": "One of the oldest and largest Chinese temples in Southeast Asia, this six-tiered Buddhist temple is dedicated to the goddess Tian Hou (Mazu). Features stunning traditional architecture, ornate decorations, beautiful gardens, and panoramic city views.",
-    "location": "65 Persiaran Endah, Off Jalan Syed Putra, 50460 Kuala Lumpur",
-    "cost_rm": 0,
-    "cost_usd": 0,
-    "duration_hours": 1,
-    "best_time": "Early morning or late afternoon for best lighting. Open 8:00 AM - 8:00 PM daily.",
-    "tips": "FREE admission (RM5 parking fee per vehicle). Not accessible by public transport - take Grab/taxi (15-20 min from city center). Dress modestly. Great for photography. Especially beautiful during Chinese New Year and Mid-Autumn Festival.",
-    "photos": [
-      "/KL-trip/assets/images/activities/thean-hou-temple/1.jpg",
-      "/KL-trip/assets/images/activities/thean-hou-temple/2.jpg",
-      "/KL-trip/assets/images/activities/thean-hou-temple/3.jpg"
-    ],
-    "added_date": "2025-10-18",
-    "source": "proactive_research"
-  },
-  {
-    "id": 46,
-    "name": "National Textile Museum",
-    "category": "Cultural & Religious",
-    "subcategory": "Museum",
-    "description": "Housed in a beautiful colonial building, this museum showcases Malaysia's rich textile heritage across 4 galleries. Exhibits include traditional Malay textiles, batik, songket, ceremonial costumes, and the evolution of Malaysian fashion.",
-    "location": "Jalan Sultan Hishamuddin, 50050 Kuala Lumpur (near Merdeka Square)",
-    "cost_rm": 5,
-    "cost_usd": 1.2,
-    "duration_hours": 1,
-    "best_time": "Weekday mornings. Open 9:00 AM - 6:00 PM daily.",
-    "tips": "Free entrance with registration (sign-in required). Well-displayed exhibits with good descriptions. Near Masjid Jamek LRT Station (5-minute walk). Combine with Merdeka Square visit.",
-    "photos": [
-      "/KL-trip/assets/images/activities/national-textile-museum/1.jpg",
-      "/KL-trip/assets/images/activities/national-textile-museum/2.jpg",
-      "/KL-trip/assets/images/activities/national-textile-museum/3.jpg"
-    ],
-    "added_date": "2025-10-18",
-    "source": "proactive_research"
-  },
-  {
-    "id": 47,
+    "id": 42,
     "name": "Kuala Lumpur City Gallery",
     "category": "Cultural & Religious",
     "subcategory": "Gallery",
@@ -1183,7 +1045,7 @@
     "source": "proactive_research"
   },
   {
-    "id": 48,
+    "id": 43,
     "name": "Royal Selangor Visitor Centre",
     "category": "Cultural & Religious",
     "subcategory": "Cultural Workshop",
@@ -1203,7 +1065,7 @@
     "source": "proactive_research"
   },
   {
-    "id": 49,
+    "id": 44,
     "name": "Sri Mahamariamman Temple",
     "category": "Cultural & Religious",
     "subcategory": "Temple",
@@ -1223,7 +1085,7 @@
     "source": "proactive_research"
   },
   {
-    "id": 50,
+    "id": 45,
     "name": "Pavilion Kuala Lumpur",
     "category": "Shopping & Entertainment",
     "subcategory": "Luxury Shopping Mall",
@@ -1243,7 +1105,7 @@
     "source": "proactive_research"
   },
   {
-    "id": 51,
+    "id": 46,
     "name": "Suria KLCC",
     "category": "Shopping & Entertainment",
     "subcategory": "Iconic Shopping Mall",
@@ -1263,7 +1125,7 @@
     "source": "proactive_research"
   },
   {
-    "id": 52,
+    "id": 47,
     "name": "Central Market (Pasar Seni)",
     "category": "Shopping & Entertainment",
     "subcategory": "Cultural Heritage Market",
@@ -1283,7 +1145,7 @@
     "source": "proactive_research"
   },
   {
-    "id": 53,
+    "id": 48,
     "name": "Petaling Street Market",
     "category": "Shopping & Entertainment",
     "subcategory": "Night Market & Street Shopping",
@@ -1303,7 +1165,7 @@
     "source": "proactive_research"
   },
   {
-    "id": 54,
+    "id": 49,
     "name": "Mid Valley Megamall",
     "category": "Shopping & Entertainment",
     "subcategory": "Family Shopping Mall",
@@ -1323,7 +1185,7 @@
     "source": "proactive_research"
   },
   {
-    "id": 55,
+    "id": 50,
     "name": "Berjaya Times Square",
     "category": "Shopping & Entertainment",
     "subcategory": "Shopping Mall with Theme Park",
@@ -1343,7 +1205,7 @@
     "source": "proactive_research"
   },
   {
-    "id": 56,
+    "id": 51,
     "name": "Sungei Wang Plaza",
     "category": "Shopping & Entertainment",
     "subcategory": "Budget Shopping Mall",
@@ -1363,7 +1225,7 @@
     "source": "proactive_research"
   },
   {
-    "id": 57,
+    "id": 52,
     "name": "FlowRider 1 Utama Indoor Surfing",
     "category": "Adventure & Sports",
     "subcategory": "Indoor Surfing",
@@ -1384,7 +1246,7 @@
     "difficulty": "Easy to Advanced"
   },
   {
-    "id": 58,
+    "id": 53,
     "name": "Bubble Sports Malaysia",
     "category": "Adventure & Sports",
     "subcategory": "Bubble Football",
@@ -1405,7 +1267,7 @@
     "difficulty": "Easy to Moderate"
   },
   {
-    "id": 59,
+    "id": 54,
     "name": "Conquer Indoor Extreme Park",
     "category": "Adventure & Sports",
     "subcategory": "Indoor Adventure Park",
@@ -1426,7 +1288,7 @@
     "difficulty": "Moderate to Challenging"
   },
   {
-    "id": 60,
+    "id": 55,
     "name": "X Park Sunway - Extreme Sports Theme Park",
     "category": "Adventure & Sports",
     "subcategory": "Outdoor Extreme Park",
@@ -1447,7 +1309,7 @@
     "difficulty": "Varies by activity"
   },
   {
-    "id": 61,
+    "id": 56,
     "name": "Flyboard Malaysia Putrajaya",
     "category": "Adventure & Sports",
     "subcategory": "Water Sports",
@@ -1468,7 +1330,7 @@
     "difficulty": "Moderate to Challenging"
   },
   {
-    "id": 62,
+    "id": 57,
     "name": "Axe Throwing at The Bomb Battle",
     "category": "Adventure & Sports",
     "subcategory": "Axe Throwing",
@@ -1489,7 +1351,7 @@
     "difficulty": "Easy to Moderate"
   },
   {
-    "id": 63,
+    "id": 58,
     "name": "Sunway Lagoon Bungee Jump",
     "category": "Adventure & Sports",
     "subcategory": "Bungee Jumping",
@@ -1510,7 +1372,7 @@
     "difficulty": "Extreme"
   },
   {
-    "id": 64,
+    "id": 59,
     "name": "Royal Selangor Pewter Workshop",
     "category": "Unique Experiences",
     "subcategory": "Cultural Workshop",
@@ -1539,7 +1401,7 @@
     "source": "proactive_research"
   },
   {
-    "id": 65,
+    "id": 60,
     "name": "LaZat Malaysian Cooking Class",
     "category": "Unique Experiences",
     "subcategory": "Culinary Experience",
@@ -1568,31 +1430,7 @@
     "source": "proactive_research"
   },
   {
-    "id": 66,
-    "name": "PS150 Speakeasy Bar",
-    "category": "Unique Experiences",
-    "subcategory": "Hidden Bar",
-    "description": "Hidden speakeasy bar disguised as a toy store on Petaling Street in Chinatown. Housed in pre-war shop lot with three distinct seating areas: Opium Den (intimate booths), outdoor courtyard, and Main Bar. Cocktails inspired by Southeast Asian flavors using local ingredients. Menu divided into five eras: Vintage, Classic, Tiki, Disco, and Contemporary. Unassuming entrance rewards curious explorers.",
-    "location": "150 Petaling Street, Kuala Lumpur (next to Merchant's Lane cafe)",
-    "cost_rm": {
-      "cocktail": 47.5
-    },
-    "cost_usd": {
-      "cocktail": 10.5
-    },
-    "duration_hours": 2.5,
-    "best_time": "Evening 6pm-2am daily, weekdays less crowded",
-    "tips": "Reservations recommended for weekends. Dress code on Fri/Sat/eve of public holidays (no flip-flops). Look for toy store entrance. Try cocktails with local ingredients like ginger wine.",
-    "photos": [
-      "/KL-trip/assets/images/activities/ps150-speakeasy/1.jpg",
-      "/KL-trip/assets/images/activities/ps150-speakeasy/2.jpg",
-      "/KL-trip/assets/images/activities/ps150-speakeasy/3.jpg"
-    ],
-    "added_date": "2025-10-19",
-    "source": "proactive_research"
-  },
-  {
-    "id": 67,
+    "id": 61,
     "name": "Kwai Chai Hong Street Art Alley",
     "category": "Unique Experiences",
     "subcategory": "Street Art & Heritage",
@@ -1612,7 +1450,7 @@
     "source": "proactive_research"
   },
   {
-    "id": 68,
+    "id": 62,
     "name": "Kuala Selangor Firefly Tour",
     "category": "Unique Experiences",
     "subcategory": "Nature Experience",
@@ -1638,7 +1476,7 @@
     "source": "proactive_research"
   },
   {
-    "id": 69,
+    "id": 63,
     "name": "Bike With Elena - Hidden Secrets Cycling Tour",
     "category": "Unique Experiences",
     "subcategory": "Guided Tour",
@@ -1653,34 +1491,6 @@
       "/KL-trip/assets/images/activities/bicycle-tour/1.jpg",
       "/KL-trip/assets/images/activities/bicycle-tour/2.jpg",
       "/KL-trip/assets/images/activities/bicycle-tour/3.jpg"
-    ],
-    "added_date": "2025-10-19",
-    "source": "proactive_research"
-  },
-  {
-    "id": 70,
-    "name": "Breakout Escape Room",
-    "category": "Unique Experiences",
-    "subcategory": "Entertainment",
-    "description": "Premier escape room experience with 16 themed rooms featuring mind-boggling puzzles and immersive scenarios. Also offers Spy Game with live NPCs for interactive experience. Multiple locations including Avenue K and NU Sentral. Great team-building activity. Solve puzzles, find clues, and escape within 1 hour. Suitable for groups of 3-8 people.",
-    "location": "Multiple locations - Avenue K (Jalan Ampang) and NU Sentral (near KL Sentral)",
-    "cost_rm": {
-      "group_7_8": 35,
-      "group_5_6": 36.5,
-      "group_3_4": 42
-    },
-    "cost_usd": {
-      "group_7_8": 7.8,
-      "group_5_6": 8.1,
-      "group_3_4": 9.3
-    },
-    "duration_hours": 1,
-    "best_time": "Any time, daily 10am-10pm, weekdays less crowded",
-    "tips": "Book in advance. Arrive 15 mins early for briefing. Student discounts available (20% off). Perfect for rainy days. Great for team of 8. Choose from 16 different themed rooms.",
-    "photos": [
-      "/KL-trip/assets/images/activities/breakout-escape-room/1.jpg",
-      "/KL-trip/assets/images/activities/breakout-escape-room/2.jpg",
-      "/KL-trip/assets/images/activities/breakout-escape-room/3.jpg"
     ],
     "added_date": "2025-10-19",
     "source": "proactive_research"
