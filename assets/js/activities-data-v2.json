@@ -1,6 +1,4 @@
-// Activities data - inline version for better caching control
-console.log('activities.js script started');
-let allActivities = [
+[
   {
     "id": 1,
     "name": "District 21",
@@ -1687,5 +1685,4 @@ let allActivities = [
     "added_date": "2025-10-19",
     "source": "proactive_research"
   }
-];
-console.log('Total activities loaded:', allActivities.length);
+]
