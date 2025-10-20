@@ -53,7 +53,7 @@
     <section class="all-activities">
         <div class="container">
             <div id="activities-full-grid" class="activities-full-grid">
-                <!-- Activities will be loaded dynamically - Forced refresh 2025-10-12 12:59:00 -->
+                <!-- Activities are now inlined and loaded dynamically -->
 
 
             </div>
@@ -83,7 +83,1236 @@
     </footer>
 
     <script src="/KL-trip/assets/js/main.js?v=1760273868"></script>
+<script>
+    let allActivities = [
+  {
+    "id": 1,
+    "name": "District 21",
+    "category": "Adventure & Sports",
+    "subcategory": "Indoor Theme Park",
+    "description": "An apocalypse-themed indoor adventure park featuring 8 attractions such as Tubby Ride, Launch Pad, Power Station, Free Fall, Maze, Ninja Warrior Course, Sky Trail, and Roller Glider. It offers activities for all ages and skill levels, encouraging climbing, jumping, riding, sliding, and flying.",
+    "location": "AT 6, Level 1, IOI City Mall, Lebuh IRC, IOI Resort City, 62502 Putrajaya, Malaysia.",
+    "cost_rm": {
+      "weekday_active": 64,
+      "weekend_active": 80,
+      "non_active": 10
+    },
+    "cost_usd": {
+      "weekday_active": 14.25,
+      "weekend_active": 16.6,
+      "non_active": 2.2
+    },
+    "duration_hours": 3,
+    "best_time": "Weekdays for fewer crowds, any time during opening hours.",
+    "tips": "Wear comfortable clothing and closed-toe shoes. Arrive early, especially on weekends. Book tickets online to secure a slot. Suitable for groups.",
+    "photos": [
+      "/KL-trip/assets/images/activities/district-21/1.jpg",
+      "/KL-trip/assets/images/activities/district-21/2.jpg",
+      "/KL-trip/assets/images/activities/district-21/3.jpg"
+    ],
+    "added_date": "2025-10-09",
+    "source": "proactive_research",
+    "difficulty": "Moderate"
+  },
+  {
+    "id": 2,
+    "name": "SuperPark Malaysia",
+    "category": "Adventure & Sports",
+    "subcategory": "Indoor Activity Park",
+    "description": "A unique, purpose-built indoor activity park from Finland, offering over 20 activities across three themed areas: Adventure Area, Game Arena, and Freestyle Hall. Activities include trampolines, zip wires, climbing walls, and more.",
+    "location": "Unit 4-1, Level 4, Avenue K Shopping Mall, 156, Jalan Ampang, 50450 Kuala Lumpur, Malaysia.",
+    "cost_rm": {
+      "weekday": 60,
+      "weekend": 75
+    },
+    "cost_usd": {
+      "weekday": 14.0,
+      "weekend": 16.6
+    },
+    "duration_hours": 3,
+    "best_time": "Weekdays for fewer crowds. Check session times online.",
+    "tips": "Wear comfortable sports attire and grip socks (available for purchase). Book online in advance. Lockers are available.",
+    "photos": [
+      "/KL-trip/assets/images/activities/superpark-malaysia/1.jpg",
+      "/KL-trip/assets/images/activities/superpark-malaysia/2.jpg",
+      "/KL-trip/assets/images/activities/superpark-malaysia/3.jpg"
+    ],
+    "added_date": "2025-10-09",
+    "source": "proactive_research",
+    "difficulty": "Easy to Moderate"
+  },
+  {
+    "id": 3,
+    "name": "ESCAPE Petaling Jaya",
+    "category": "Adventure & Sports",
+    "subcategory": "Indoor Theme Park",
+    "description": "An indoor adventure park with thrilling rides and games, promoting play and challenging physical activities. Features include a high-ropes course, zip lines, climbing zones, and a variety of obstacle courses.",
+    "location": "Paradigm Mall, Level 1, 1, Jalan SS 7/26a, SS 7, 47301 Petaling Jaya, Selangor, Malaysia.",
+    "cost_rm": {
+      "junior": 100,
+      "adult": 120
+    },
+    "cost_usd": {
+      "junior": 20.87,
+      "adult": 24.42
+    },
+    "duration_hours": 8,
+    "best_time": "Weekdays for a less crowded experience. Arrive early to maximize play time.",
+    "tips": "Wear comfortable sports attire. Grip socks are required. Book tickets online. Lockers are available. Facial recognition for entry.",
+    "photos": [
+      "/KL-trip/assets/images/activities/escape-petaling-jaya/1.jpg",
+      "/KL-trip/assets/images/activities/escape-petaling-jaya/2.jpg",
+      "/KL-trip/assets/images/activities/escape-petaling-jaya/3.jpg"
+    ],
+    "added_date": "2025-10-09",
+    "source": "proactive_research",
+    "difficulty": "Moderate to Challenging"
+  },
+  {
+    "id": 4,
+    "name": "LYL International Karting Circuit",
+    "category": "Adventure & Sports",
+    "subcategory": "Go-Karting",
+    "description": "An FIA-certified outdoor karting circuit offering a professional racing experience for both beginners and experienced drivers. Features a challenging track layout and well-maintained karts.",
+    "location": "Lot 600, Jalan Sungai Long, Kampung Sungai Long, 43000 Kajang, Selangor, Malaysia.",
+    "cost_rm": {
+      "single_kart_10min": 70,
+      "double_kart_10min": 90
+    },
+    "cost_usd": {
+      "single_kart_10min": 15.0,
+      "double_kart_10min": 19.0
+    },
+    "duration_hours": 0.5,
+    "best_time": "Evenings for cooler weather. Check availability and book in advance.",
+    "tips": "Wear comfortable clothing and closed-toe shoes. Mandatory balaclava and gloves (available for rent/purchase). Minimum age/height requirements apply.",
+    "photos": [
+      "/KL-trip/assets/images/activities/lyl-karting/1.jpg",
+      "/KL-trip/assets/images/activities/lyl-karting/2.jpg",
+      "/KL-trip/assets/images/activities/lyl-karting/3.jpg"
+    ],
+    "added_date": "2025-10-09",
+    "source": "proactive_research",
+    "difficulty": "Moderate"
+  },
+  {
+    "id": 5,
+    "name": "Skytrex Adventure Sg Congkak",
+    "category": "Adventure & Sports",
+    "subcategory": "Zipline & Forest Adventure",
+    "description": "An eco-adventure park set in a lush rainforest, offering various aerial obstacle courses and ziplines. Participants navigate through different circuits with varying difficulty levels.",
+    "location": "Hulu Langat, 43100 Selangor, Malaysia.",
+    "cost_rm": {
+      "little_adventure": 55,
+      "big_thrill": 75,
+      "extreme_challenge": 110
+    },
+    "cost_usd": {
+      "little_adventure": 12.0,
+      "big_thrill": 16.5,
+      "extreme_challenge": 24.0
+    },
+    "duration_hours": 1.5,
+    "best_time": "Mornings for cooler weather. Book online in advance, especially on weekends.",
+    "tips": "Wear comfortable outdoor clothing and closed-toe shoes. Bring insect repellent and water. Arrive 30 minutes before your session.",
+    "photos": [
+      "/KL-trip/assets/images/activities/skytrex-adventure-sg-congkak/1.jpg",
+      "/KL-trip/assets/images/activities/skytrex-adventure-sg-congkak/2.jpg",
+      "/KL-trip/assets/images/activities/skytrex-adventure-sg-congkak/3.jpg"
+    ],
+    "added_date": "2025-10-09",
+    "source": "proactive_research",
+    "difficulty": "Varies by circuit (Easy to Extreme)"
+  },
+  {
+    "id": 6,
+    "name": "Jump Street Trampoline Park",
+    "category": "Adventure & Sports",
+    "subcategory": "Trampoline Park",
+    "description": "Malaysia\'s first indoor trampoline park, offering a variety of trampoline-based activities including free jumping, dodgeball, basketball, and a foam pit. Suitable for all ages.",
+    "location": "No. 8, Jalan 13/6, Seksyen 13, 46200 Petaling Jaya, Selangor, Malaysia.",
+    "cost_rm": {
+      "per_hour": 30,
+      "grip_socks": 5
+    },
+    "cost_usd": {
+      "per_hour": 6.5,
+      "grip_socks": 1.0
+    },
+    "duration_hours": 1,
+    "best_time": "Weekdays for fewer crowds. Check session availability online.",
+    "tips": "Wear comfortable clothing. Grip socks are mandatory (can be purchased on-site). Book online to guarantee a spot.",
+    "photos": [
+      "/KL-trip/assets/images/activities/jump-street-trampoline-park/1.jpg",
+      "/KL-trip/assets/images/activities/jump-street-trampoline-park/2.jpg",
+      "/KL-trip/assets/images/activities/jump-street-trampoline-park/3.jpg"
+    ],
+    "added_date": "2025-10-09",
+    "source": "proactive_research",
+    "difficulty": "Easy to Moderate"
+  },
+  {
+    "id": 7,
+    "name": "Sunway Lagoon Theme Park",
+    "category": "Adventure & Sports",
+    "subcategory": "Theme Park",
+    "description": "A massive multi-park destination featuring over 90 attractions across 6 themed zones: Water Park, Amusement Park, Wildlife Park, Extreme Park, Scream Park, and Nickelodeon Lost Lagoon. Offers a full day of entertainment.",
+    "location": "3, Jalan PJS 11/11, Bandar Sunway, 47500 Subang Jaya, Selangor, Malaysia.",
+    "cost_rm": {
+      "adult": 202,
+      "child_senior": 170
+    },
+    "cost_usd": {
+      "adult": 40.0,
+      "child_senior": 35.0
+    },
+    "duration_hours": 8,
+    "best_time": "Weekdays for fewer crowds. Arrive early to enjoy all attractions. Avoid public holidays.",
+    "tips": "Wear swimwear and comfortable walking shoes. Bring sunscreen, hat, and sunglasses. Lockers are available for rent. Book tickets online for discounts.",
+    "photos": [
+      "/KL-trip/assets/images/activities/sunway-lagoon-theme-park/1.jpg",
+      "/KL-trip/assets/images/activities/sunway-lagoon-theme-park/2.jpg",
+      "/KL-trip/assets/images/activities/sunway-lagoon-theme-park/3.jpg"
+    ],
+    "added_date": "2025-10-09",
+    "source": "proactive_research",
+    "difficulty": "Varies by attraction"
+  },
+  {
+    "id": 8,
+    "name": "Camp5 Climbing Gym (1Utama)",
+    "category": "Adventure & Sports",
+    "subcategory": "Rock Climbing",
+    "description": "Malaysia\'s flagship climbing gym featuring the country\'s tallest indoor climbing wall at 20m. Offers both bouldering and roped climbing (top-rope and lead) with color-coded routes for all skill levels. Air-conditioned facility with cafe and pro shop on the 5th floor of 1Utama Shopping Centre.",
+    "location": "EZ501, 5th Floor, 1 Utama Shopping Centre, Bandar Utama, Petaling Jaya 47800, Selangor, Malaysia",
+    "cost_rm": 38,
+    "cost_usd": 8.4,
+    "duration_hours": 3.5,
+    "best_time": "Weekdays before 4pm for off-peak rates and fewer crowds",
+    "tips": "Wear comfortable athletic clothing. Grip socks recommended for bouldering. First-timers can register for RM35 including all equipment. Multiple Camp5 locations available across KL. Book online for convenience.",
+    "photos": [
+      "/KL-trip/assets/images/activities/camp5-1utama/1.jpg",
+      "/KL-trip/assets/images/activities/camp5-1utama/2.jpg",
+      "/KL-trip/assets/images/activities/camp5-1utama/3.jpg"
+    ],
+    "added_date": "2025-10-12",
+    "source": "proactive_research",
+    "difficulty": "Easy to Advanced"
+  },
+  {
+    "id": 9,
+    "name": "Breakout Escape Room",
+    "category": "Adventure & Sports",
+    "subcategory": "Escape Room",
+    "description": "Malaysia\'s largest escape room operator with 16 different themed rooms featuring high-quality props, special effects, and unique storylines. Each room offers a 55-minute challenge where teams must solve puzzles to escape. Also offers immersive Spy Game experiences with live actors.",
+    "location": "Multiple locations: NU Sentral KL, Avenue K KL, The Shore Melaka",
+    "cost_rm": 38,
+    "cost_usd": 8.4,
+    "duration_hours": 1,
+    "best_time": "Weekdays to avoid crowds. Book online in advance.",
+    "tips": "Arrive 15 minutes early for briefing. Recommended for groups of 2-8 people. Choose a theme that interests your group. Pay attention to all clues.",
+    "photos": [
+      "/KL-trip/assets/images/activities/breakout-escape-room/1.jpg",
+      "/KL-trip/assets/images/activities/breakout-escape-room/2.jpg",
+      "/KL-trip/assets/images/activities/breakout-escape-room/3.jpg"
+    ],
+    "added_date": "2025-10-12",
+    "source": "proactive_research",
+    "difficulty": "Varies by room"
+  },
+  {
+    "id": 10,
+    "name": "VAR LIVE MY",
+    "category": "Adventure & Sports",
+    "subcategory": "Virtual Reality",
+    "description": "Malaysia\'s largest VR theme park with 13 in-house attractions. Offers immersive 4D experiences with special effects like vibration and wind. Games include Zombie Jail, Crazy Rush, and Overkill.",
+    "location": "L2-015, MyTOWN Shopping Centre, No.6, Jalan Cochrane, 55100 Kuala Lumpur",
+    "cost_rm": 108,
+    "cost_usd": 23.9,
+    "duration_hours": 1.5,
+    "best_time": "Weekdays for fewer crowds. Open 10am-10pm daily.",
+    "tips": "Book tickets online for convenience. Combo packages are available for better value. Wear comfortable clothing. Not recommended for those with motion sickness.",
+    "photos": [
+      "/KL-trip/assets/images/activities/var-live-my/1.jpg",
+      "/KL-trip/assets/images/activities/var-live-my/2.jpg",
+      "/KL-trip/assets/images/activities/var-live-my/3.jpg"
+    ],
+    "added_date": "2025-10-12",
+    "source": "proactive_research",
+    "difficulty": "Easy to Moderate"
+  },
+  {
+    "id": 11,
+    "name": "FlowRider 1 Utama",
+    "category": "Adventure & Sports",
+    "subcategory": "Water Sports",
+    "description": "An indoor simulated surfing experience on a continuous sheet wave. Suitable for all skill levels, from beginners to advanced riders. Offers a safe and controlled environment to learn flowboarding and bodyboarding.",
+    "location": "LG601, 1 Utama Shopping Centre, 1, Lebuh Bandar Utama, Bandar Utama, 47800 Petaling Jaya, Selangor",
+    "cost_rm": 45,
+    "cost_usd": 10.0,
+    "duration_hours": 1,
+    "best_time": "Weekdays to avoid crowds. Check their schedule for session times.",
+    "tips": "Wear appropriate swimwear. Arrive early for registration and safety briefing. Instructors are available to guide beginners. Book sessions in advance.",
+    "photos": [
+      "/KL-trip/assets/images/activities/flowrider-1utama/1.jpg",
+      "/KL-trip/assets/images/activities/flowrider-1utama/2.jpg",
+      "/KL-trip/assets/images/activities/flowrider-1utama/3.jpg"
+    ],
+    "added_date": "2025-10-12",
+    "source": "proactive_research",
+    "difficulty": "Moderate"
+  },
+  {
+    "id": 12,
+    "name": "Hauntu",
+    "category": "Adventure & Sports",
+    "subcategory": "Immersive Horror Experience",
+    "description": "An immersive and interactive haunted house experience that combines live actors, intricate mazes, and compelling storytelling based on Malaysian folklore. Not just a haunted house, but a theatrical experience where you play a character.",
+    "location": "The LINC KL, 360, Jalan Tun Razak, 50400 Kuala Lumpur",
+    "cost_rm": 58,
+    "cost_usd": 12.8,
+    "duration_hours": 1,
+    "best_time": "Evenings for a spookier atmosphere. Book tickets online as slots are limited.",
+    "tips": "Not for the faint of heart. Recommended for ages 15 and above. Arrive on time for your booked slot. Follow the actors\' instructions for the best experience.",
+    "photos": [
+      "/KL-trip/assets/images/activities/hauntu/1.jpg",
+      "/KL-trip/assets/images/activities/hauntu/2.jpg",
+      "/KL-trip/assets/images/activities/hauntu/3.jpg"
+    ],
+    "added_date": "2025-10-12",
+    "source": "proactive_research",
+    "difficulty": "High (Scare Factor)"
+  },
+  {
+    "id": 13,
+    "name": "BUMP Bouldering",
+    "category": "Adventure & Sports",
+    "subcategory": "Bouldering",
+    "description": "A premium bouldering gym with a spacious, air-conditioned facility. Offers a wide variety of routes for all skill levels, a training area, and a cafe. Known for its friendly community and frequent route updates.",
+    "location": "Lot 1.051, Level 1, The School, Jaya One, 72A, Jln Profesor Diraja Ungku Aziz, 46200 Petaling Jaya, Selangor",
+    "cost_rm": 36,
+    "cost_usd": 8.0,
+    "duration_hours": 3,
+    "best_time": "Weekdays to avoid crowds. Check their social media for updates on new routes.",
+    "tips": "Wear comfortable athletic clothing. Climbing shoes are available for rent. Look for beginner-friendly routes marked with specific colors. Don\'t be afraid to ask for tips from other climbers.",
+    "photos": [
+      "/KL-trip/assets/images/activities/bump-bouldering/1.jpg",
+      "/KL-trip/assets/images/activities/bump-bouldering/2.jpg",
+      "/KL-trip/assets/images/activities/bump-bouldering/3.jpg"
+    ],
+    "added_date": "2025-10-12",
+    "source": "proactive_research",
+    "difficulty": "Easy to Advanced"
+  },
+  {
+    "id": 14,
+    "name": "Beast Park",
+    "category": "Adventure & Sports",
+    "subcategory": "Integrated Training Ground",
+    "description": "An indoor activity park designed to challenge your physical and mental limits. Features a variety of obstacles including climbing walls, ninja courses, and a unique \'Leap of Faith\' experience. A great place for a full-body workout and fun.",
+    "location": "Level 3, JUMPA @ Sungei Wang, Jalan Sultan Ismail, 50250 Kuala Lumpur",
+    "cost_rm": 45,
+    "cost_usd": 10.0,
+    "duration_hours": 2,
+    "best_time": "Weekdays for fewer people. Check their website for promotions.",
+    "tips": "Wear comfortable sportswear and shoes with good grip. Bring a water bottle to stay hydrated. Lockers are available. Staff are on hand to provide guidance and ensure safety.",
+    "photos": [
+      "/KL-trip/assets/images/activities/beast-park/1.jpg",
+      "/KL-trip/assets/images/activities/beast-park/2.jpg",
+      "/KL-trip/assets/images/activities/beast-park/3.jpg"
+    ],
+    "added_date": "2025-10-12",
+    "source": "proactive_research",
+    "difficulty": "Moderate to Challenging"
+  },
+  {
+    "id": 15,
+    "name": "National Museum of Malaysia",
+    "category": "Cultural & Religious",
+    "subcategory": "Museum",
+    "description": "The National Museum (Muzium Negara) is a comprehensive museum of Malaysian history and culture. Its facade features two large murals of Italian glass mosaic that portray the country\'s history and crafts. The museum has four main galleries: Early History, Malay Kingdoms, Colonial Era, and Malaysia Today.",
+    "location": "Jabatan Muzium Malaysia, Jalan Damansara, Tasik Perdana, 50566 Kuala Lumpur",
+    "cost_rm": 5,
+    "cost_usd": 1.1,
+    "duration_hours": 2,
+    "best_time": "Weekday mornings to avoid crowds.",
+    "tips": "Take advantage of the free guided tours available at specific times. The museum is located near other attractions like the Perdana Botanical Gardens. Photography is allowed but without flash.",
+    "photos": [
+      "/KL-trip/assets/images/activities/national-museum/1.jpg",
+      "/KL-trip/assets/images/activities/national-museum/2.jpg",
+      "/KL-trip/assets/images/activities/national-museum/3.jpg"
+    ],
+    "added_date": "2025-10-14",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 16,
+    "name": "Islamic Arts Museum Malaysia",
+    "category": "Cultural & Religious",
+    "subcategory": "Museum",
+    "description": "Southeast Asia\'s largest museum of Islamic arts. It houses more than seven thousand artifacts, as well as an exceptional library of Islamic art books. The art objects on display range from the tiniest pieces of jewelry to one of the world\'s largest scale models of the Masjid al-Haram in Mecca.",
+    "location": "Jalan Lembah, Tasik Perdana, 50480 Kuala Lumpur",
+    "cost_rm": 14,
+    "cost_usd": 3.1,
+    "duration_hours": 2.5,
+    "best_time": "Anytime during opening hours. It\'s a spacious and calm museum.",
+    "tips": "Don\'t miss the stunning decorated domes on the upper floor. The museum shop has high-quality and unique souvenirs. The museum\'s restaurant is also highly rated.",
+    "photos": [
+      "/KL-trip/assets/images/activities/islamic-arts-museum/1.jpg",
+      "/KL-trip/assets/images/activities/islamic-arts-museum/2.jpg",
+      "/KL-trip/assets/images/activities/islamic-arts-museum/3.jpg"
+    ],
+    "added_date": "2025-10-14",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 17,
+    "name": "Thean Hou Temple",
+    "category": "Cultural & Religious",
+    "subcategory": "Temple",
+    "description": "One of the oldest and largest temples in Southeast Asia, this six-tiered temple is dedicated to the sea goddess Mazu. It features elements of Buddhism, Taoism, and Confucianism, and its grand architecture is a stunning example of traditional Chinese design.",
+    "location": "65, Persiaran Endah, Taman Persiaran Desa, 50460 Kuala Lumpur",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 1,
+    "best_time": "Early morning or late afternoon for beautiful light. Evenings are great when the lanterns are lit up, especially during festivals.",
+    "tips": "Dress respectfully. There is a marriage registration office here. The temple offers great panoramic views of the city. Be prepared for crowds during major Chinese festivals.",
+    "photos": [
+      "/KL-trip/assets/images/activities/thean-hou-temple/1.jpg",
+      "/KL-trip/assets/images/activities/thean-hou-temple/2.jpg",
+      "/KL-trip/assets/images/activities/thean-hou-temple/3.jpg"
+    ],
+    "added_date": "2025-10-14",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 18,
+    "name": "National Mosque of Malaysia (Masjid Negara)",
+    "category": "Cultural & Religious",
+    "subcategory": "Mosque",
+    "description": "A symbol of Malaysia\'s independence, this mosque has a capacity of 15,000 people and is situated among 13 acres of beautiful gardens. Its key features are a 73-metre-high minaret and a 16-pointed star concrete main roof.",
+    "location": "Jalan Perdana, Tasik Perdana, 50480 Kuala Lumpur",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 0.75,
+    "best_time": "During non-prayer times. Check the visiting hours for non-Muslims before you go.",
+    "tips": "Dress modestly. Robes are provided for free for visitors who are not appropriately dressed. Remove your shoes before entering. Be respectful of worshippers.",
+    "photos": [
+      "/KL-trip/assets/images/activities/national-mosque/1.jpg",
+      "/KL-trip/assets/images/activities/national-mosque/2.jpg",
+      "/KL-trip/assets/images/activities/national-mosque/3.jpg"
+    ],
+    "added_date": "2025-10-14",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 19,
+    "name": "Sri Maha Mariamman Temple",
+    "category": "Cultural & Religious",
+    "subcategory": "Temple",
+    "description": "Founded in 1873, it is the oldest Hindu temple in Kuala Lumpur. It is situated at the edge of Chinatown. The temple is known for its impressive 22.9m (75ft) gopuram (tower), which is decorated with intricate carvings of Hindu deities.",
+    "location": "Jalan Tun H S Lee, City Centre, 50000 Kuala Lumpur",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 0.5,
+    "best_time": "Early morning to witness the daily rituals. Evenings are also lively.",
+    "tips": "Dress respectfully. Remove your shoes before entering the temple (there\'s a shoe storage service for a small fee). Be mindful of ceremonies that may be taking place.",
+    "photos": [
+      "/KL-trip/assets/images/activities/sri-maha-mariamman-temple/1.jpg",
+      "/KL-trip/assets/images/activities/sri-maha-mariamman-temple/2.jpg",
+      "/KL-trip/assets/images/activities/sri-maha-mariamman-temple/3.jpg"
+    ],
+    "added_date": "2025-10-14",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 20,
+    "name": "Istana Negara (National Palace)",
+    "category": "Cultural & Religious",
+    "subcategory": "Palace",
+    "description": "The official residence of the Yang di-Pertuan Agong, the monarch of Malaysia. While the palace grounds are not open to the public, the main entrance with its royal guards is a popular spot for photos. You can witness the changing of the guard ceremony at certain times.",
+    "location": "Jalan Tuanku Abdul Halim, Bukit Damansara, 50480 Kuala Lumpur",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 0.5,
+    "best_time": "During the day for photos. Check for the changing of the guard schedule if you wish to see it.",
+    "tips": "You can only view the palace from outside the main gate. The Royal Museum, which is the old Istana Negara, is open to the public and offers a glimpse into the life of the former kings.",
+    "photos": [
+      "/KL-trip/assets/images/activities/istana-negara/1.jpg",
+      "/KL-trip/assets/images/activities/istana-negara/2.jpg",
+      "/KL-trip/assets/images/activities/istana-negara/3.jpg"
+    ],
+    "added_date": "2025-10-14",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 21,
+    "name": "Kuala Lumpur City Gallery",
+    "category": "Cultural & Religious",
+    "subcategory": "Gallery",
+    "description": "Located in a 115-year-old, Moorish-style building, this gallery tells the story of Kuala Lumpur through miniature models and innovative exhibits. The highlight is the massive Kuala Lumpur City Model, a light and sound show that showcases the city\'s past, present, and future.",
+    "location": "27, Jalan Raja, Dataran Merdeka, 50050 Kuala Lumpur",
+    "cost_rm": 10,
+    "cost_usd": 2.2,
+    "duration_hours": 1,
+    "best_time": "Anytime during opening hours. It\'s a good place to start your tour of the historical Merdeka Square area.",
+    "tips": "The entrance fee is often redeemable at the ARCH gift shop and cafe inside. Don\'t miss the iconic \'I ❤️ KL\' structure outside for a photo op. The gallery provides a great historical context before exploring the city.",
+    "photos": [
+      "/KL-trip/assets/images/activities/kl-city-gallery/1.jpg",
+      "/KL-trip/assets/images/activities/kl-city-gallery/2.jpg",
+      "/KL-trip/assets/images/activities/kl-city-gallery/3.jpg"
+    ],
+    "added_date": "2025-10-14",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 22,
+    "name": "Petronas Twin Towers",
+    "category": "Iconic Landmarks",
+    "subcategory": "Skyscraper",
+    "description": "The world\'s tallest twin towers, an iconic landmark of Kuala Lumpur. Visitors can go up to the Skybridge on the 41st floor and the Observation Deck on the 86th floor for breathtaking views of the city.",
+    "location": "Lower Ground (Concourse) Level, PETRONAS Twin Towers, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Malaysia.",
+    "cost_rm": 80,
+    "cost_usd": 17.7,
+    "duration_hours": 1,
+    "best_time": "Late afternoon to see both daylight and sunset views. Book tickets well in advance online as they sell out quickly.",
+    "tips": "Arrive at least 15 minutes before your scheduled time. The tour is timed. For the best photos from the outside, go to the KLCC Park.",
+    "photos": [
+      "/KL-trip/assets/images/activities/petronas-twin-towers/1.jpg",
+      "/KL-trip/assets/images/activities/petronas-twin-towers/2.jpg",
+      "/KL-trip/assets/images/activities/petronas-twin-towers/3.jpg"
+    ],
+    "added_date": "2025-10-16",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 23,
+    "name": "Menara Kuala Lumpur (KL Tower)",
+    "category": "Iconic Landmarks",
+    "subcategory": "Observation Tower",
+    "description": "A 421-meter-high telecommunications tower, one of the tallest in the world. It offers panoramic views of the city from its observation deck, and for the more adventurous, the Sky Box, a glass cube extending from the Sky Deck.",
+    "location": "No. 2, Jalan Punchak Off Jalan P. Ramlee, 50250 Kuala Lumpur, Malaysia.",
+    "cost_rm": 49,
+    "cost_usd": 10.8,
+    "duration_hours": 1.5,
+    "best_time": "Evening to see the city lights. Less crowded than the Petronas Towers.",
+    "tips": "The tower is located within the Bukit Nanas Forest Reserve, one of the oldest forest reserves in the country. Consider visiting the mini zoo or the upside-down house at the base of the tower.",
+    "photos": [
+      "/KL-trip/assets/images/activities/kl-tower/1.jpg",
+      "/KL-trip/assets/images/activities/kl-tower/2.jpg",
+      "/KL-trip/assets/images/activities/kl-tower/3.jpg"
+    ],
+    "added_date": "2025-10-16",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 24,
+    "name": "Batu Caves",
+    "category": "Iconic Landmarks",
+    "subcategory": "Hindu Shrine",
+    "description": "A limestone hill that has a series of caves and cave temples. It is one of the most popular Hindu shrines outside India, dedicated to Lord Murugan. A large statue of the Hindu god is at the entrance, and visitors must climb 272 steps to reach the main cave.",
+    "location": "Gombak, 68100 Batu Caves, Selangor, Malaysia.",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 2,
+    "best_time": "Early morning to avoid the heat and crowds. Be mindful of the monkeys.",
+    "tips": "Dress modestly, covering shoulders and knees. Watch out for the monkeys, as they can be aggressive and try to snatch food or belongings. The Dark Cave is a separate tour and requires a fee.",
+    "photos": [
+      "/KL-trip/assets/images/activities/batu-caves/1.jpg",
+      "/KL-trip/assets/images/activities/batu-caves/2.jpg",
+      "/KL-trip/assets/images/activities/batu-caves/3.jpg"
+    ],
+    "added_date": "2025-10-16",
+    "source": "proactive_research",
+    "difficulty": "Moderate (due to the stairs)"
+  },
+  {
+    "id": 25,
+    "name": "Merdeka Square (Dataran Merdeka)",
+    "category": "Iconic Landmarks",
+    "subcategory": "Historical Square",
+    "description": "The historical square where the Union Flag was lowered and the Malayan flag was raised for the first time on August 31, 1957. It is surrounded by many heritage buildings, including the Sultan Abdul Samad Building.",
+    "location": "Jalan Raja, City Centre, 50050 Kuala Lumpur, Malaysia.",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 1,
+    "best_time": "Early morning or late afternoon to avoid the heat. The buildings are beautifully lit at night.",
+    "tips": "This is a great starting point for a historical walk of Kuala Lumpur. Many other attractions are within walking distance, such as the Kuala Lumpur City Gallery and the National Textile Museum.",
+    "photos": [
+      "/KL-trip/assets/images/activities/merdeka-square/1.jpg",
+      "/KL-trip/assets/images/activities/merdeka-square/2.jpg",
+      "/KL-trip/assets/images/activities/merdeka-square/3.jpg"
+    ],
+    "added_date": "2025-10-16",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 26,
+    "name": "Sultan Abdul Samad Building",
+    "category": "Iconic Landmarks",
+    "subcategory": "Historical Building",
+    "description": "A late-nineteenth-century building located in front of Merdeka Square. It originally housed the offices of the British colonial administration and is now a landmark for its Moorish-style architecture. It is now home to the Ministry of Information, Communications and Culture of Malaysia.",
+    "location": "Jalan Raja, City Centre, 50050 Kuala Lumpur, Malaysia.",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 0.5,
+    "best_time": "Can be viewed from the outside at any time. It is particularly beautiful at night when it is lit up.",
+    "tips": "Best viewed from Merdeka Square. You cannot enter the building, but its exterior is a popular spot for photography.",
+    "photos": [
+      "/KL-trip/assets/images/activities/sultan-abdul-samad-building/1.jpg",
+      "/KL-trip/assets/images/activities/sultan-abdul-samad-building/2.jpg",
+      "/KL-trip/assets/images/activities/sultan-abdul-samad-building/3.jpg"
+    ],
+    "added_date": "2025-10-16",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 27,
+    "name": "Kuala Lumpur Railway Station",
+    "category": "Iconic Landmarks",
+    "subcategory": "Historical Building",
+    "description": "A beautiful example of Indo-Saracenic architecture, this railway station was completed in 1910. While it is no longer the city\'s main railway hub, it is still a functioning station and a popular tourist attraction for its stunning architecture.",
+    "location": "Jalan Sultan Hishamuddin, City Centre, 50050 Kuala Lumpur, Malaysia.",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 0.5,
+    "best_time": "Any time of day. It is located opposite the National Mosque.",
+    "tips": "You can walk through the station to admire its architecture. The National Railway Museum is located within the station building.",
+    "photos": [
+      "/KL-trip/assets/images/activities/kl-railway-station/1.jpg",
+      "/KL-trip/assets/images/activities/kl-railway-station/2.jpg",
+      "/KL-trip/assets/images/activities/kl-railway-station/3.jpg"
+    ],
+    "added_date": "2025-10-16",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 28,
+    "name": "Saloma Link Bridge",
+    "category": "Iconic Landmarks",
+    "subcategory": "Modern Architecture",
+    "description": "A stunning pedestrian bridge that connects Kampung Baru, a traditional Malay enclave, with the modern KLCC district. The bridge is known for its futuristic design and vibrant LED light display at night.",
+    "location": "Kampung Baru, 50300 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia.",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 0.5,
+    "best_time": "Evening and night to see the beautiful light display. The lights are on from 7 PM to 1 AM.",
+    "tips": "The bridge offers a fantastic view of the Petronas Twin Towers. It\'s a great spot for photography. You can walk from the Kampung Baru LRT station to the bridge.",
+    "photos": [
+      "/KL-trip/assets/images/activities/saloma-link-bridge/1.jpg",
+      "/KL-trip/assets/images/activities/saloma-link-bridge/2.jpg",
+      "/KL-trip/assets/images/activities/saloma-link-bridge/3.jpg"
+    ],
+    "added_date": "2025-10-16",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 29,
+    "name": "Perdana Botanical Garden",
+    "category": "Nature & Parks",
+    "subcategory": "Park",
+    "description": "A large-scale recreational park in the heart of Kuala Lumpur. It features a variety of gardens and attractions, including the Orchid Garden, Hibiscus Garden, a deer park, and the Kuala Lumpur Bird Park.",
+    "location": "Jalan Kebun Bunga, Tasik Perdana, 55100 Kuala Lumpur, Malaysia.",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 2,
+    "best_time": "Early morning or late afternoon to avoid the heat. Weekdays are less crowded.",
+    "tips": "Wear comfortable walking shoes. You can rent a bicycle or take a tram to explore the large park. The park is a great place for a picnic.",
+    "photos": [
+      "/KL-trip/assets/images/activities/perdana-botanical-garden/1.jpg",
+      "/KL-trip/assets/images/activities/perdana-botanical-garden/2.jpg",
+      "/KL-trip/assets/images/activities/perdana-botanical-garden/3.jpg"
+    ],
+    "added_date": "2025-10-17",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 30,
+    "name": "KL Forest Eco Park",
+    "category": "Nature & Parks",
+    "subcategory": "Forest Reserve",
+    "description": "One of the oldest permanent forest reserves in Malaysia, located in the heart of Kuala Lumpur. It features a canopy walk, nature trails, and a variety of flora and fauna native to the region.",
+    "location": "Lot 240, Jalan Raja Chulan, Bukit Kewangan, 50250 Kuala Lumpur, Malaysia.",
+    "cost_rm": 40,
+    "cost_usd": 8.8,
+    "duration_hours": 1.5,
+    "best_time": "Early morning to avoid the heat and humidity. The canopy walk offers great views of the city skyline.",
+    "tips": "Wear comfortable walking shoes and bring insect repellent. The main entrance is near the KL Tower. The canopy walk can be a bit wobbly, so it may not be suitable for those with a fear of heights.",
+    "photos": [
+      "/KL-trip/assets/images/activities/kl-forest-eco-park/1.jpg",
+      "/KL-trip/assets/images/activities/kl-forest-eco-park/2.jpg",
+      "/KL-trip/assets/images/activities/kl-forest-eco-park/3.jpg"
+    ],
+    "added_date": "2025-10-17",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 31,
+    "name": "Kuala Lumpur Bird Park",
+    "category": "Nature & Parks",
+    "subcategory": "Aviary",
+    "description": "Home to more than 3,000 birds of approximately 200 species of local and foreign birds. It is a world-renowned aviary, with a free-flight, walk-in aviary, one of the largest in the world.",
+    "location": "920, Jalan Cenderawasih, Perdana Botanical Gardens, 50480 Kuala Lumpur, Malaysia.",
+    "cost_rm": 63,
+    "cost_usd": 13.9,
+    "duration_hours": 2.5,
+    "best_time": "Morning, when the birds are most active. Don\'t miss the bird show and feeding times.",
+    "tips": "Wear a hat and sunscreen as some parts of the park are not shaded. The park is located within the Perdana Botanical Garden, so you can combine a visit to both.",
+    "photos": [
+      "/KL-trip/assets/images/activities/kl-bird-park/1.jpg",
+      "/KL-trip/assets/images/activities/kl-bird-park/2.jpg",
+      "/KL-trip/assets/images/activities/kl-bird-park/3.jpg"
+    ],
+    "added_date": "2025-10-17",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 32,
+    "name": "Taman Tugu",
+    "category": "Nature & Parks",
+    "subcategory": "Forest Park",
+    "description": "A 66-acre green lung in the heart of Kuala Lumpur, regenerated from a secondary forest. It features well-maintained trails, a variety of local trees and plants, and is a popular spot for hiking and trail running.",
+    "location": "Taman Tugu, Pesiaran Sultan Salahuddin, 50480 Kuala Lumpur, Malaysia.",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 1.5,
+    "best_time": "Early morning or late afternoon to avoid the heat. The park is open from 7 AM to 6:30 PM.",
+    "tips": "Wear comfortable walking shoes and bring insect repellent. The trails are well-marked. There are toilets and water fountains available at the main entrance.",
+    "photos": [
+      "/KL-trip/assets/images/activities/taman-tugu/1.jpg",
+      "/KL-trip/assets/images/activities/taman-tugu/2.jpg",
+      "/KL-trip/assets/images/activities/taman-tugu/3.jpg"
+    ],
+    "added_date": "2025-10-17",
+    "source": "proactive_research",
+    "difficulty": "Easy to Moderate"
+  },
+  {
+    "id": 33,
+    "name": "KLCC Park",
+    "category": "Nature & Parks",
+    "subcategory": "Urban Park",
+    "description": "A 50-acre urban park located at the base of the Petronas Twin Towers. It features a large man-made lake with a water fountain show, a children\'s playground, a public swimming pool, and a jogging track.",
+    "location": "Jalan Ampang, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Malaysia.",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 1,
+    "best_time": "Evening to see the Lake Symphony water and light show. The show runs at 8 PM, 9 PM, and 10 PM daily.",
+    "tips": "The park offers some of the best views of the Petronas Twin Towers. It\'s a great place to relax after visiting the towers or Suria KLCC mall.",
+    "photos": [
+      "/KL-trip/assets/images/activities/klcc-park/1.jpg",
+      "/KL-trip/assets/images/activities/klcc-park/2.jpg",
+      "/KL-trip/assets/images/activities/klcc-park/3.jpg"
+    ],
+    "added_date": "2025-10-17",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 34,
+    "name": "Desa ParkCity Central Park",
+    "category": "Nature & Parks",
+    "subcategory": "Community Park",
+    "description": "A beautiful and pet-friendly park in the Desa ParkCity township. It features a large central lake, landscaped gardens, and a variety of recreational facilities. It\'s a popular spot for dog walking, jogging, and picnicking.",
+    "location": "Desa Parkcity, 52200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia.",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 1.5,
+    "best_time": "Early morning or late afternoon. The park is lively on weekends.",
+    "tips": "If you\'re a dog lover, this is the place to be. There are several pet-friendly cafes and restaurants around the park. The park is well-maintained and clean.",
+    "photos": [
+      "/KL-trip/assets/images/activities/desa-parkcity-central-park/1.jpg",
+      "/KL-trip/assets/images/activities/desa-parkcity-central-park/2.jpg",
+      "/KL-trip/assets/images/activities/desa-parkcity-central-park/3.jpg"
+    ],
+    "added_date": "2025-10-17",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 35,
+    "name": "The Kepong Metropolitan Park",
+    "category": "Nature & Parks",
+    "subcategory": "Recreational Park",
+    "description": "A large recreational park famous for being one of the best kite-flying destinations in Kuala Lumpur. It features a large open field, a lake, and a cycling track. It\'s a popular spot for families and outdoor enthusiasts.",
+    "location": "Jalan Lingkaran Tengah 2, Kepong Metropolitan Lake-garden, 52100 Kuala Lumpur, Malaysia.",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 1.5,
+    "best_time": "Late afternoon on a windy day for kite flying. Weekends are very popular for this activity.",
+    "tips": "You can buy kites from the vendors at the park. There are also food stalls and a children\'s playground. The park can get very crowded on weekends.",
+    "photos": [
+      "/KL-trip/assets/images/activities/kepong-metropolitan-park/1.jpg",
+      "/KL-trip/assets/images/activities/kepong-metropolitan-park/2.jpg",
+      "/KL-trip/assets/images/activities/kepong-metropolitan-park/3.jpg"
+    ],
+    "added_date": "2025-10-17",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 36,
+    "name": "Jalan Alor Food Street",
+    "category": "Food & Dining",
+    "subcategory": "Street Food",
+    "description": "A vibrant and bustling street in the heart of Kuala Lumpur, famous for its wide variety of local street food. The street comes alive at night with hundreds of plastic tables and chairs, and the air is filled with the aroma of grilled meats, seafood, and other Malaysian delicacies.",
+    "location": "Jalan Alor, Bukit Bintang, 50200 Kuala Lumpur, Malaysia.",
+    "cost_rm": 30,
+    "cost_usd": 6.6,
+    "duration_hours": 2,
+    "best_time": "Evening and night, from 6 PM onwards. The street is at its liveliest after 8 PM.",
+    "tips": "Be adventurous and try a variety of dishes from different stalls. Some of the must-try dishes include grilled chicken wings, satay, and durian. The street can be crowded, so be prepared for a lively atmosphere.",
+    "photos": [
+      "/KL-trip/assets/images/activities/jalan-alor/1.jpg",
+      "/KL-trip/assets/images/activities/jalan-alor/2.jpg",
+      "/KL-trip/assets/images/activities/jalan-alor/3.jpg"
+    ],
+    "added_date": "2025-10-18",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 37,
+    "name": "Hutong Food Court @ Lot 10",
+    "category": "Food & Dining",
+    "subcategory": "Food Court",
+    "description": "A heritage food court that brings together some of Malaysia\'s most famous and long-standing street food vendors under one roof. It offers a comfortable and air-conditioned environment to enjoy a wide variety of local dishes.",
+    "location": "Lot 10 Shopping Centre, LG Floor, 50 Jalan Sultan Ismail, 50250 Kuala Lumpur, Malaysia.",
+    "cost_rm": 25,
+    "cost_usd": 5.5,
+    "duration_hours": 1.5,
+    "best_time": "Lunch or dinner time. It can get crowded during peak hours.",
+    "tips": "Look for the stalls with long queues, as they are usually the most popular. Some of the famous stalls include Kim Lian Kee (for Hokkien mee) and Soong Kee (for beef noodles).",
+    "photos": [
+      "/KL-trip/assets/images/activities/hutong-food-court/1.jpg",
+      "/KL-trip/assets/images/activities/hutong-food-court/2.jpg",
+      "/KL-trip/assets/images/activities/hutong-food-court/3.jpg"
+    ],
+    "added_date": "2025-10-18",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 38,
+    "name": "Dining In The Dark KL",
+    "category": "Food & Dining",
+    "subcategory": "Unique Dining Experience",
+    "description": "A unique sensory experience where you dine in complete darkness. The meal is a surprise, and you are guided and served by visually impaired hosts. The experience is designed to heighten your senses of taste, smell, touch, and hearing.",
+    "location": "50A, Changkat Bukit Bintang, Bukit Bintang, 50200 Kuala Lumpur, Malaysia.",
+    "cost_rm": 188,
+    "cost_usd": 41.6,
+    "duration_hours": 2,
+    "best_time": "Dinner. Reservations are essential.",
+    "tips": "Be prepared for a unique and memorable experience. You will be asked to store all light-emitting devices, including phones and watches, in a locker before entering the dining room. Let the restaurant know in advance if you have any dietary restrictions.",
+    "photos": [
+      "/KL-trip/assets/images/activities/dining-in-the-dark/1.jpg",
+      "/KL-trip/assets/images/activities/dining-in-the-dark/2.jpg",
+      "/KL-trip/assets/images/activities/dining-in-the-dark/3.jpg"
+    ],
+    "added_date": "2025-10-18",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 39,
+    "name": "Atmosphere 360 @ KL Tower",
+    "category": "Food & Dining",
+    "subcategory": "Revolving Restaurant",
+    "description": "A revolving restaurant located at the top of the KL Tower, offering stunning panoramic views of the city. It serves a buffet of local and international cuisine, and is a popular spot for special occasions.",
+    "location": "TH02, Menara Kuala Lumpur, 2, Jalan Punchak, 50250 Kuala Lumpur, Malaysia.",
+    "cost_rm": 200,
+    "cost_usd": 44.2,
+    "duration_hours": 2,
+    "best_time": "Dinner, to see the city lights. Book in advance, especially for a window seat.",
+    "tips": "The price includes access to the KL Tower Observation Deck. There is a dress code, so dress smart casual. The restaurant completes a full rotation in about 90 minutes.",
+    "photos": [
+      "/KL-trip/assets/images/activities/atmosphere-360/1.jpg",
+      "/KL-trip/assets/images/activities/atmosphere-360/2.jpg",
+      "/KL-trip/assets/images/activities/atmosphere-360/3.jpg"
+    ],
+    "added_date": "2025-10-18",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 40,
+    "name": "Jann @ Four Points by Sheraton Chinatown",
+    "category": "Food & Dining",
+    "subcategory": "Rooftop Bar",
+    "description": "A stylish rooftop bar in the heart of Chinatown, offering creative cocktails inspired by local ingredients and traditions. The bar has a stunning view of the city skyline, including the Petronas Twin Towers and the KL Tower.",
+    "location": "Level 7, Four Points by Sheraton Kuala Lumpur, Chinatown, 2, Jalan Balai Polis, City Centre, 50000 Kuala Lumpur, Malaysia.",
+    "cost_rm": 50,
+    "cost_usd": 11.1,
+    "duration_hours": 2,
+    "best_time": "Sunset and evening. Book a table in advance, especially on weekends.",
+    "tips": "Try their signature cocktails, which are a tribute to the history and culture of Chinatown. The bar has both indoor and outdoor seating. The outdoor terrace offers the best views.",
+    "photos": [
+      "/KL-trip/assets/images/activities/jann/1.jpg",
+      "/KL-trip/assets/images/activities/jann/2.jpg",
+      "/KL-trip/assets/images/activities/jann/3.jpg"
+    ],
+    "added_date": "2025-10-18",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 41,
+    "name": "Fuego at Troika Sky Dining",
+    "category": "Food & Dining",
+    "subcategory": "South American Restaurant",
+    "description": "A vibrant restaurant and bar serving South American-inspired cuisine with a focus on grilled meats and tapas-style dishes. It is located on the 23rd floor of The Troika and offers stunning, up-close views of the Petronas Twin Towers.",
+    "location": "Level 23a, Tower B, The Troika, 19, Persiaran KLCC, 50450 Kuala Lumpur, Malaysia.",
+    "cost_rm": 150,
+    "cost_usd": 33.2,
+    "duration_hours": 2,
+    "best_time": "Dinner. Reservations are essential, and you should book well in advance for a table with the best view.",
+    "tips": "The dress code is smart casual. The restaurant is known for its lively atmosphere and great cocktails. The guacamole, made fresh at your table, is a must-try.",
+    "photos": [
+      "/KL-trip/assets/images/activities/fuego-at-troika/1.jpg",
+      "/KL-trip/assets/images/activities/fuego-at-troika/2.jpg",
+      "/KL-trip/assets/images/activities/fuego-at-troika/3.jpg"
+    ],
+    "added_date": "2025-10-18",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 42,
+    "name": "Bijan Bar & Restaurant",
+    "category": "Food & Dining",
+    "subcategory": "Fine Dining Malay Cuisine",
+    "description": "An award-winning restaurant that serves high-end, authentic Malay cuisine in a sophisticated setting. The menu features a mix of traditional recipes and modern interpretations of classic dishes.",
+    "location": "3, Jalan Ceylon, Bukit Ceylon, 50200 Kuala Lumpur, Malaysia.",
+    "cost_rm": 100,
+    "cost_usd": 22.1,
+    "duration_hours": 2,
+    "best_time": "Dinner. Reservations are recommended.",
+    "tips": "Try their Rusuk Panggang (grilled short ribs) and Rendang Tok (a rich and dry beef rendang). The restaurant has both indoor and outdoor seating. The outdoor terrace is a beautiful spot for a romantic dinner.",
+    "photos": [
+      "/KL-trip/assets/images/activities/bijan-bar-restaurant/1.jpg",
+      "/KL-trip/assets/images/activities/bijan-bar-restaurant/2.jpg",
+      "/KL-trip/assets/images/activities/bijan-bar-restaurant/3.jpg"
+    ],
+    "added_date": "2025-10-18",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 43,
+    "name": "Suria KLCC",
+    "category": "Shopping & Entertainment",
+    "subcategory": "Shopping Mall",
+    "description": "A premier shopping destination located at the base of the Petronas Twin Towers. It features a wide range of international and local brands, a variety of dining options, a cinema, and an art gallery.",
+    "location": "241, Jalan Ampang, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Malaysia.",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 3,
+    "best_time": "Weekdays to avoid the crowds. The mall is open from 10 AM to 10 PM.",
+    "tips": "The mall has a direct connection to the KLCC LRT station. Don\'t miss the Petrosains Discovery Centre, a science and technology museum located on the 4th floor.",
+    "photos": [
+      "/KL-trip/assets/images/activities/suria-klcc/1.jpg",
+      "/KL-trip/assets/images/activities/suria-klcc/2.jpg",
+      "/KL-trip/assets/images/activities/suria-klcc/3.jpg"
+    ],
+    "added_date": "2025-10-19",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 44,
+    "name": "Pavilion Kuala Lumpur",
+    "category": "Shopping & Entertainment",
+    "subcategory": "Shopping Mall",
+    "description": "An award-winning shopping mall located in the heart of the Bukit Bintang district. It offers a mix of luxury and mid-range brands, a wide variety of dining options, and a cinema. The mall is known for its beautiful architecture and elaborate decorations during festive seasons.",
+    "location": "168, Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Malaysia.",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 3,
+    "best_time": "Weekdays to avoid the crowds. The mall is open from 10 AM to 10 PM.",
+    "tips": "The mall is connected to the KLCC via a covered pedestrian walkway. The food court on the lower ground floor offers a wide variety of local and international cuisine.",
+    "photos": [
+      "/KL-trip/assets/images/activities/pavilion-kl/1.jpg",
+      "/KL-trip/assets/images/activities/pavilion-kl/2.jpg",
+      "/KL-trip/assets/images/activities/pavilion-kl/3.jpg"
+    ],
+    "added_date": "2025-10-19",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 45,
+    "name": "Central Market (Pasar Seni)",
+    "category": "Shopping & Entertainment",
+    "subcategory": "Market",
+    "description": "A cultural landmark and a popular tourist attraction in Kuala Lumpur. It was originally a wet market but has been transformed into a center for Malaysian culture, arts, and crafts. You can find a wide variety of souvenirs, handicrafts, and local snacks here.",
+    "location": "Jalan Hang Kasturi, City Centre, 50050 Kuala Lumpur, Malaysia.",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 2,
+    "best_time": "Anytime during opening hours (10 AM to 8 PM). It can get crowded on weekends.",
+    "tips": "Bargaining is expected at some of the stalls. The Annexe, located behind the main building, features a collection of art galleries. The Kasturi Walk, a covered walkway next to the market, offers more shopping and dining options.",
+    "photos": [
+      "/KL-trip/assets/images/activities/central-market/1.jpg",
+      "/KL-trip/assets/images/activities/central-market/2.jpg",
+      "/KL-trip/assets/images/activities/central-market/3.jpg"
+    ],
+    "added_date": "2025-10-19",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 46,
+    "name": "Petaling Street (Chinatown)",
+    "category": "Shopping & Entertainment",
+    "subcategory": "Market",
+    "description": "The heart of Kuala Lumpur\'s Chinatown, a bustling market street that is a paradise for bargain hunters. You can find a wide variety of goods, from counterfeit designer bags and watches to local souvenirs and street food.",
+    "location": "Jalan Petaling, City Centre, 50000 Kuala Lumpur, Malaysia.",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 2,
+    "best_time": "Evening and night, when the street comes alive. The market is open until late at night.",
+    "tips": "Bargaining is a must here. Be prepared for a crowded and chaotic atmosphere. Try some of the famous street food, suchs as the salted roast duck and the Hokkien mee.",
+    "photos": [
+      "/KL-trip/assets/images/activities/petaling-street/1.jpg",
+      "/KL-trip/assets/images/activities/petaling-street/2.jpg",
+      "/KL-trip/assets/images/activities/petaling-street/3.jpg"
+    ],
+    "added_date": "2025-10-19",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 47,
+    "name": "Berjaya Times Square Theme Park",
+    "category": "Shopping & Entertainment",
+    "subcategory": "Indoor Theme Park",
+    "description": "Malaysia\'s largest indoor theme park, located within the Berjaya Times Square shopping mall. It features a variety of rides and attractions for all ages, including a roller coaster, a Ferris wheel, and a haunted house.",
+    "location": "Berjaya Times Square, 1, Jalan Imbi, Imbi, 55100 Kuala Lumpur, Malaysia.",
+    "cost_rm": 50,
+    "cost_usd": 11.1,
+    "duration_hours": 3,
+    "best_time": "Weekdays to avoid the crowds. The park is open from 12 PM to 8 PM on weekdays and 11 AM to 8 PM on weekends.",
+    "tips": "Look for promotional offers and combo deals. The park is divided into two sections: the Galaxy Station for adults and the Fantasy Garden for children.",
+    "photos": [
+      "/KL-trip/assets/images/activities/berjaya-times-square-theme-park/1.jpg",
+      "/KL-trip/assets/images/activities/berjaya-times-square-theme-park/2.jpg",
+      "/KL-trip/assets/images/activities/berjaya-times-square-theme-park/3.jpg"
+    ],
+    "added_date": "2025-10-19",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 48,
+    "name": "GSC 4DX @ 1 Utama",
+    "category": "Shopping & Entertainment",
+    "subcategory": "Cinema",
+    "description": "A unique cinematic experience that incorporates motion seats and environmental effects such as wind, rain, and scents, all synchronized with the on-screen action. It\'s a great way to immerse yourself in a movie.",
+    "location": "1 Utama Shopping Centre, 1, Lebuh Bandar Utama, Bandar Utama, 47800 Petaling Jaya, Selangor, Malaysia.",
+    "cost_rm": 45,
+    "cost_usd": 10.0,
+    "duration_hours": 2.5,
+    "best_time": "Check the movie showtimes and book your tickets in advance, especially for new releases.",
+    "tips": "The 4DX experience may not be suitable for everyone, especially those with motion sickness. The effects can be intense, so be prepared for a wild ride.",
+    "photos": [
+      "/KL-trip/assets/images/activities/gsc-4dx/1.jpg",
+      "/KL-trip/assets/images/activities/gsc-4dx/2.jpg",
+      "/KL-trip/assets/images/activities/gsc-4dx/3.jpg"
+    ],
+    "added_date": "2025-10-19",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 49,
+    "name": "Red Box Karaoke",
+    "category": "Shopping & Entertainment",
+    "subcategory": "Karaoke",
+    "description": "A popular karaoke chain in Malaysia, offering a wide selection of songs in various languages, private rooms, and a decent sound system. It\'s a great place to have fun with friends and family.",
+    "location": "Multiple locations throughout Kuala Lumpur, including Pavilion KL and The Gardens Mall.",
+    "cost_rm": 30,
+    "cost_usd": 6.6,
+    "duration_hours": 2,
+    "best_time": "Weekdays for cheaper rates. Book a room in advance, especially on weekends.",
+    "tips": "Look for their \'Happy Hour\' promotions, which usually include free-flow drinks. The price is usually per person per hour.",
+    "photos": [
+      "/KL-trip/assets/images/activities/red-box-karaoke/1.jpg",
+      "/KL-trip/assets/images/activities/red-box-karaoke/2.jpg",
+      "/KL-trip/assets/images/activities/red-box-karaoke/3.jpg"
+    ],
+    "added_date": "2025-10-19",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 50,
+    "name": "Marini\'s on 57",
+    "category": "Nightlife & Entertainment",
+    "subcategory": "Rooftop Bar",
+    "description": "An exclusive rooftop bar, restaurant, and lounge located on the 57th floor of Petronas Tower 3. It offers the closest view of the Petronas Twin Towers and a stunning 360-degree view of the city skyline.",
+    "location": "Level 57, Menara 3 Petronas, Persiaran KLCC, 50088 Kuala Lumpur, Malaysia.",
+    "cost_rm": 80,
+    "cost_usd": 17.7,
+    "duration_hours": 2,
+    "best_time": "Sunset and evening. Reservations are essential, especially for a window seat.",
+    "tips": "There is a strict dress code (smart casual). The bar has a wide selection of cocktails, wines, and whiskies. It\'s a great place for a special occasion.",
+    "photos": [
+      "/KL-trip/assets/images/activities/marinis-on-57/1.jpg",
+      "/KL-trip/assets/images/activities/marinis-on-57/2.jpg",
+      "/KL-trip/assets/images/activities/marinis-on-57/3.jpg"
+    ],
+    "added_date": "2025-10-20",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 51,
+    "name": "Heli Lounge Bar",
+    "category": "Nightlife & Entertainment",
+    "subcategory": "Rooftop Bar",
+    "description": "A unique rooftop bar that operates on a helipad. By day, it\'s a functioning helipad, and by night, it transforms into a bar with a 360-degree view of the city. It\'s a great place to watch the sunset.",
+    "location": "Level 37, Menara KH, Jalan Sultan Ismail, Bukit Bintang, 50250 Kuala Lumpur, Malaysia.",
+    "cost_rm": 50,
+    "cost_usd": 11.1,
+    "duration_hours": 2,
+    "best_time": "Sunset (around 6 PM). Arrive early to get a good spot.",
+    "tips": "There is no cover charge, but you are expected to buy a drink. The helipad is open from 6 PM onwards, weather permitting. There is a dress code (no shorts, slippers, or sleeveless shirts for men).",
+    "photos": [
+      "/KL-trip/assets/images/activities/heli-lounge-bar/1.jpg",
+      "/KL-trip/assets/images/activities/heli-lounge-bar/2.jpg",
+      "/KL-trip/assets/images/activities/heli-lounge-bar/3.jpg"
+    ],
+    "added_date": "2025-10-20",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 52,
+    "name": "PS150",
+    "category": "Nightlife & Entertainment",
+    "subcategory": "Speakeasy Bar",
+    "description": "A hidden speakeasy bar in Chinatown, located behind a vintage toy store. It\'s known for its creative cocktails, which are divided into five eras of cocktail history. The bar has a rustic and intimate atmosphere.",
+    "location": "150, Jalan Petaling, City Centre, 50000 Kuala Lumpur, Malaysia.",
+    "cost_rm": 45,
+    "cost_usd": 10.0,
+    "duration_hours": 2,
+    "best_time": "Late evening. It can get crowded, so you may have to wait for a table.",
+    "tips": "Look for the unmarked entrance. The bar is divided into three sections, each with a different ambiance. Try their signature cocktails, which are inspired by local ingredients.",
+    "photos": [
+      "/KL-trip/assets/images/activities/ps150/1.jpg",
+      "/KL-trip/assets/images/activities/ps150/2.jpg",
+      "/KL-trip/assets/images/activities/ps150/3.jpg"
+    ],
+    "added_date": "2025-10-20",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 53,
+    "name": "The Iron Fairies KL",
+    "category": "Nightlife & Entertainment",
+    "subcategory": "Themed Bar",
+    "description": "A magical and whimsical bar with a unique design inspired by a fairy tale. The bar is filled with iron fairies, butterflies, and other enchanting decorations. It\'s a great place for a unique night out.",
+    "location": "H-G-06, The Hive, TREC, 438, Jalan Tun Razak, Kelab Golf di Raja Selangor, 50400 Kuala Lumpur, Malaysia.",
+    "cost_rm": 50,
+    "cost_usd": 11.1,
+    "duration_hours": 2,
+    "best_time": "Evening. The bar has live music on some nights.",
+    "tips": "The bar is divided into two sections: the main bar and a smaller, more intimate bar upstairs. The cocktails are creative and delicious. The bar is a popular spot for photos.",
+    "photos": [
+      "/KL-trip/assets/images/activities/the-iron-fairies/1.jpg",
+      "/KL-trip/assets/images/activities/the-iron-fairies/2.jpg",
+      "/KL-trip/assets/images/activities/the-iron-fairies/3.jpg"
+    ],
+    "added_date": "2025-10-20",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 54,
+    "name": "Zouk Club KL",
+    "category": "Nightlife & Entertainment",
+    "subcategory": "Nightclub",
+    "description": "One of the most famous and popular nightclubs in Kuala Lumpur, featuring multiple rooms with different music genres. It\'s a great place to dance the night away.",
+    "location": "436, Jalan Tun Razak, Kelab Golf di Raja Selangor, 50400 Kuala Lumpur, Malaysia.",
+    "cost_rm": 50,
+    "cost_usd": 11.1,
+    "duration_hours": 4,
+    "best_time": "Late night, after 11 PM. The club is busiest on weekends.",
+    "tips": "There is a dress code (no shorts, slippers, or sleeveless shirts for men). The cover charge usually includes one drink. The club often hosts international DJs.",
+    "photos": [
+      "/KL-trip/assets/images/activities/zouk-club-kl/1.jpg",
+      "/KL-trip/assets/images/activities/zouk-club-kl/2.jpg",
+      "/KL-trip/assets/images/activities/zouk-club-kl/3.jpg"
+    ],
+    "added_date": "2025-10-20",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 55,
+    "name": "Pisco Bar",
+    "category": "Nightlife & Entertainment",
+    "subcategory": "Bar & Club",
+    "description": "A lively bar and club with a Peruvian-Spanish influence. It\'s known for its great music, delicious cocktails, and vibrant atmosphere. The bar has a rooftop terrace with a view of the city skyline.",
+    "location": "29, Jalan Mesui, Bukit Bintang, 50200 Kuala Lumpur, Malaysia.",
+    "cost_rm": 40,
+    "cost_usd": 8.8,
+    "duration_hours": 3,
+    "best_time": "Late evening. The bar has live music and DJ sets on some nights.",
+    "tips": "Try their signature Pisco Sour cocktail. The bar serves a selection of Peruvian and Spanish tapas. It\'s a great place to go for a dance.",
+    "photos": [
+      "/KL-trip/assets/images/activities/pisco-bar/1.jpg",
+      "/KL-trip/assets/images/activities/pisco-bar/2.jpg",
+      "/KL-trip/assets/images/activities/pisco-bar/3.jpg"
+    ],
+    "added_date": "2025-10-20",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 56,
+    "name": "The Row KL",
+    "category": "Nightlife & Entertainment",
+    "subcategory": "Dining & Lifestyle Hub",
+    "description": "A row of restored 1940s shophouses that have been transformed into a trendy dining and lifestyle hub. It features a variety of restaurants, cafes, and bars, as well as a co-working space and an event space.",
+    "location": "22-64, Jalan Doraisamy, Chow Kit, 50300 Kuala Lumpur, Malaysia.",
+    "cost_rm": 50,
+    "cost_usd": 11.1,
+    "duration_hours": 2,
+    "best_time": "Evening. The area has a great atmosphere at night.",
+    "tips": "There are many different dining options to choose from, so there\"s something for everyone. It\"s a great place to go for a pre-dinner drink or a night out with friends.",
+    "photos": [
+      "/KL-trip/assets/images/activities/the-row-kl/1.jpg",
+      "/KL-trip/assets/images/activities/the-row-kl/2.jpg",
+      "/KL-trip/assets/images/activities/the-row-kl/3.jpg"
+    ],
+    "added_date": "2025-10-20",
+    "source": "proactive_research",
+    "difficulty": "Easy"
+  }
+];
+</script>
 <script src="/KL-trip/assets/js/activities.js?v=20251020230000"></script>
+<script>
+    initializeActivities(allActivities);
+</script>
     <script src="/KL-trip/assets/js/gallery.js?v=1760273868"></script>
 </body>
 </html>
