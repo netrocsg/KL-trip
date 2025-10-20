@@ -459,7 +459,7 @@
     "name": "Vertigo & Horizon Grill at Banyan Tree",
     "category": "Nightlife & Entertainment",
     "subcategory": "Rooftop Restaurant & Bar",
-    "description": "A multi-level rooftop destination spanning the 59th and 60th floors of Banyan Tree Kuala Lumpur. Vertigo bar offers indoor and outdoor terraces with breathtaking 360\u00b0 views, while Horizon Grill serves premium steaks and seafood. Recently added Vertigo TOO on the 60th floor takes the experience even higher with chill-out drinking and live DJs.",
+    "description": "A multi-level rooftop destination spanning the 59th and 60th floors of Banyan Tree Kuala Lumpur. Vertigo bar offers indoor and outdoor terraces with breathtaking 360° views, while Horizon Grill serves premium steaks and seafood. Recently added Vertigo TOO on the 60th floor takes the experience even higher with chill-out drinking and live DJs.",
     "location": "Level 59-60, Banyan Tree Kuala Lumpur, 2 Jalan Conlay, 50450 Kuala Lumpur",
     "cost_rm": 58,
     "cost_usd": 13,
@@ -1643,6 +1643,141 @@
       "/KL-trip/assets/images/activities/kl-city-gallery/1.jpg",
       "/KL-trip/assets/images/activities/kl-city-gallery/2.jpg",
       "/KL-trip/assets/images/activities/kl-city-gallery/3.jpg"
+    ],
+    "added_date": "2025-10-20",
+    "source": "proactive_research"
+  },
+  {
+    "id": 78,
+    "name": "Islamic Arts Museum Malaysia",
+    "category": "Cultural & Religious",
+    "subcategory": "Museum",
+    "description": "One of the largest Islamic art museums in Southeast Asia, featuring over 12 galleries with collections spanning more than a millennium of Islamic art, design and culture from around the world. The museum showcases exquisite artifacts including textiles, ceramics, manuscripts, and architectural elements.",
+    "location": "Jalan Lembah Perdana, 50480 Kuala Lumpur, Malaysia",
+    "cost_rm": 20,
+    "cost_usd": 4.5,
+    "duration_hours": 2.5,
+    "best_time": "Morning hours (9:30 AM - 12:00 PM) for quieter experience",
+    "tips": "No booking needed, world-class collection, photography allowed in most areas. Has a lovely cafe and gift shop. Dress modestly out of respect.",
+    "photos": [
+      "/KL-trip/assets/images/activities/islamic-arts-museum/1.jpg",
+      "/KL-trip/assets/images/activities/islamic-arts-museum/2.jpg",
+      "/KL-trip/assets/images/activities/islamic-arts-museum/3.jpg"
+    ],
+    "added_date": "2025-10-20",
+    "source": "proactive_research"
+  },
+  {
+    "id": 79,
+    "name": "Bank Negara Malaysia Museum and Art Gallery",
+    "category": "Cultural & Religious",
+    "subcategory": "Museum",
+    "description": "An educational museum covering Malaysian economic history, currency, and financial literacy through interactive exhibits. Features galleries on numismatics, economics, and a children's gallery. The art gallery showcases contemporary Malaysian art. Completely free admission makes it an excellent value.",
+    "location": "Bank Negara Malaysia, Jalan Dato Onn, 50480 Kuala Lumpur, Malaysia",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 2,
+    "best_time": "Weekday mornings (10:00 AM - 12:00 PM)",
+    "tips": "Free admission and free guided tours available. Closed on Mondays. Very educational and interactive. Great for all ages. Book guided tours via email.",
+    "photos": [
+      "/KL-trip/assets/images/activities/bank-negara-museum/1.jpg",
+      "/KL-trip/assets/images/activities/bank-negara-museum/2.jpg",
+      "/KL-trip/assets/images/activities/bank-negara-museum/3.jpg"
+    ],
+    "added_date": "2025-10-20",
+    "source": "proactive_research"
+  },
+  {
+    "id": 80,
+    "name": "Muzium Negara (National Museum)",
+    "category": "Cultural & Religious",
+    "subcategory": "Museum",
+    "description": "Malaysia's premier national museum showcasing the country's rich history, culture, and heritage through comprehensive galleries covering prehistory, Malay kingdoms, colonial era, and independence. Features traditional architecture, cultural artifacts, and historical exhibits providing an excellent overview of Malaysian history.",
+    "location": "Jalan Damansara, 50566 Kuala Lumpur, Malaysia",
+    "cost_rm": 5,
+    "cost_usd": 1.1,
+    "duration_hours": 2,
+    "best_time": "Morning hours (9:00 AM - 11:00 AM)",
+    "tips": "Extremely affordable entrance fee. Great introduction to Malaysian history and culture. Beautiful traditional Malay architecture. Easily accessible by LRT (Muzium Negara station).",
+    "photos": [
+      "/KL-trip/assets/images/activities/muzium-negara/1.jpg",
+      "/KL-trip/assets/images/activities/muzium-negara/2.jpg"
+    ],
+    "added_date": "2025-10-20",
+    "source": "proactive_research"
+  },
+  {
+    "id": 81,
+    "name": "ILHAM Gallery",
+    "category": "Cultural & Religious",
+    "subcategory": "Art Gallery",
+    "description": "A contemporary art gallery showcasing Malaysian and Southeast Asian modern and contemporary art with thoughtfully curated rotating exhibitions. Located in the heart of KL, this public gallery features works by established and emerging artists, offering a unique perspective on regional art movements and cultural narratives.",
+    "location": "Level 3, Ilham Tower, No. 8 Jalan Binjai, 50450 Kuala Lumpur, Malaysia",
+    "cost_rm": 0,
+    "cost_usd": 0,
+    "duration_hours": 1.5,
+    "best_time": "Weekday afternoons (2:00 PM - 5:00 PM)",
+    "tips": "Free admission. Closed on Mondays. Unique gift shop with locally made products. Exhibitions change regularly so check website for current shows. Photography usually allowed.",
+    "photos": [
+      "/KL-trip/assets/images/activities/ilham-gallery/1.jpg",
+      "/KL-trip/assets/images/activities/ilham-gallery/2.jpg"
+    ],
+    "added_date": "2025-10-20",
+    "source": "proactive_research"
+  },
+  {
+    "id": 82,
+    "name": "UR-MU (Urban Museum) @ Bukit Bintang",
+    "category": "Cultural & Religious",
+    "subcategory": "Contemporary Art Museum",
+    "description": "A quirky, one-of-a-kind contemporary art museum featuring interactive installations and urban art in the heart of Bukit Bintang. This unique cultural space showcases thought-provoking contemporary works in an intimate setting, offering a fresh perspective on urban culture and modern Malaysian art.",
+    "location": "3, Jalan Bedara, Bukit Bintang, 50200 Kuala Lumpur, Malaysia",
+    "cost_rm": 10,
+    "cost_usd": 2.25,
+    "duration_hours": 1.5,
+    "best_time": "Afternoon (2:00 PM - 5:00 PM)",
+    "tips": "Book tickets online in advance. 1.5 hour time limit per slot. Very Instagram-worthy and interactive. Closed on Mondays. Perfect for art lovers and photography enthusiasts.",
+    "photos": [
+      "/KL-trip/assets/images/activities/ur-mu-bukit-bintang/1.jpg",
+      "/KL-trip/assets/images/activities/ur-mu-bukit-bintang/2.jpg"
+    ],
+    "added_date": "2025-10-20",
+    "source": "proactive_research"
+  },
+  {
+    "id": 83,
+    "name": "Kuala Lumpur City Gallery",
+    "category": "Cultural & Religious",
+    "subcategory": "Heritage Center",
+    "description": "A heritage center showcasing Kuala Lumpur's history, development, and future through engaging exhibits, architectural models, and the iconic 'I Love KL' sculpture. Located at historic Merdeka Square, this gallery provides an excellent introduction to the city's transformation from a tin-mining town to a modern metropolis.",
+    "location": "27, Jalan Raja, Dataran Merdeka, 50050 Kuala Lumpur, Malaysia",
+    "cost_rm": 10,
+    "cost_usd": 2.25,
+    "duration_hours": 1.5,
+    "best_time": "Morning (9:00 AM - 11:00 AM) before exploring Merdeka Square",
+    "tips": "RM5 of entrance fee is redeemable at the gift shop or cafe. Famous 'I Love KL' photo opportunity. Great starting point before exploring historic area. Combines well with Merdeka Square visit.",
+    "photos": [
+      "/KL-trip/assets/images/activities/kl-city-gallery/1.jpg",
+      "/KL-trip/assets/images/activities/kl-city-gallery/2.jpg"
+    ],
+    "added_date": "2025-10-20",
+    "source": "proactive_research"
+  },
+  {
+    "id": 84,
+    "name": "National Textile Museum",
+    "category": "Cultural & Religious",
+    "subcategory": "Museum",
+    "description": "A museum dedicated to Malaysian textile heritage, showcasing traditional fabrics, batik, songket, and weaving techniques across four galleries highlighting diverse ethnic textiles and Malay heritage. Housed in a beautiful colonial building, it offers insight into Malaysia's rich textile traditions and craftsmanship.",
+    "location": "Jalan Sultan Hishamuddin, 50050 Kuala Lumpur, Malaysia (near Merdeka Square)",
+    "cost_rm": 5,
+    "cost_usd": 1.1,
+    "duration_hours": 1.5,
+    "best_time": "Morning (9:00 AM - 11:00 AM)",
+    "tips": "Very affordable entrance fee. Beautiful historic building. Near other attractions like Merdeka Square and Sultan Abdul Samad Building. Great for understanding Malaysian textile arts and culture.",
+    "photos": [
+      "/KL-trip/assets/images/activities/national-textile-museum/1.jpg",
+      "/KL-trip/assets/images/activities/national-textile-museum/2.jpg"
     ],
     "added_date": "2025-10-20",
     "source": "proactive_research"
