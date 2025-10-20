@@ -459,7 +459,7 @@
     "name": "Vertigo & Horizon Grill at Banyan Tree",
     "category": "Nightlife & Entertainment",
     "subcategory": "Rooftop Restaurant & Bar",
-    "description": "A multi-level rooftop destination spanning the 59th and 60th floors of Banyan Tree Kuala Lumpur. Vertigo bar offers indoor and outdoor terraces with breathtaking 360° views, while Horizon Grill serves premium steaks and seafood. Recently added Vertigo TOO on the 60th floor takes the experience even higher with chill-out drinking and live DJs.",
+    "description": "A multi-level rooftop destination spanning the 59th and 60th floors of Banyan Tree Kuala Lumpur. Vertigo bar offers indoor and outdoor terraces with breathtaking 360\u00b0 views, while Horizon Grill serves premium steaks and seafood. Recently added Vertigo TOO on the 60th floor takes the experience even higher with chill-out drinking and live DJs.",
     "location": "Level 59-60, Banyan Tree Kuala Lumpur, 2 Jalan Conlay, 50450 Kuala Lumpur",
     "cost_rm": 58,
     "cost_usd": 13,
@@ -1511,275 +1511,178 @@
   },
   {
     "id": 64,
-    "name": "Islamic Arts Museum Malaysia",
-    "category": "Culture & Heritage",
-    "subcategory": "Museum",
-    "description": "The largest museum of Islamic arts in Southeast Asia, housing over 7,000 artifacts from across the Islamic world. Features stunning architecture with intricate Islamic designs, multiple galleries showcasing textiles, ceramics, jewelry, manuscripts, and architectural elements from various Islamic civilizations.",
-    "location": "Jalan Lembah Perdana, 50480 Kuala Lumpur, Malaysia",
-    "cost_rm": 14,
-    "cost_usd": 3.1,
-    "duration_hours": 2.5,
-    "best_time": "Weekday mornings for fewer crowds, any day 9:30 AM - 6:00 PM",
-    "tips": "Don't miss the Islamic Architecture gallery with scale models of famous mosques. The museum restaurant serves excellent Middle Eastern cuisine. Photography allowed without flash. Very well-maintained and air-conditioned.",
+    "name": "Royal Selangor Pewter Workshop",
+    "category": "Unique Experiences",
+    "subcategory": "Cultural Workshop",
+    "description": "Hands-on pewter crafting workshop at the world's largest pewter manufacturer. Choose from School of Hard Knocks (30 min, craft a pewter dish) or The Foundry (60 min, create pewter accessories). Use traditional tools, learn the craft, and take home your handmade creation with certificate of achievement. Free guided factory tours and museum included.",
+    "location": "4, Jalan Usahawan 6, Setapak Jaya, 53300 Kuala Lumpur",
+    "cost_rm": {
+      "school_of_hard_knocks": 80,
+      "the_foundry": 180
+    },
+    "cost_usd": {
+      "school_of_hard_knocks": 17.5,
+      "the_foundry": 40
+    },
+    "duration_hours": {
+      "school_of_hard_knocks": 0.5,
+      "the_foundry": 1
+    },
+    "best_time": "Weekdays for fewer crowds, open 9am-5pm daily including public holidays",
+    "tips": "Book online in advance. Free shuttle service available from Wangsa Maju LRT. Suitable for all ages (School of Hard Knocks) or 15+ (The Foundry). Great for groups and unique souvenirs.",
     "photos": [
-      "/KL-trip/assets/images/activities/islamic-arts-museum/1.jpg",
-      "/KL-trip/assets/images/activities/islamic-arts-museum/2.jpg",
-      "/KL-trip/assets/images/activities/islamic-arts-museum/3.jpg"
+      "/KL-trip/assets/images/activities/royal-selangor-workshop/1.jpg",
+      "/KL-trip/assets/images/activities/royal-selangor-workshop/2.jpg",
+      "/KL-trip/assets/images/activities/royal-selangor-workshop/3.jpg"
     ],
-    "added_date": "2025-10-20",
+    "added_date": "2025-10-19",
     "source": "proactive_research"
   },
   {
     "id": 65,
-    "name": "National Museum (Muzium Negara)",
-    "category": "Culture & Heritage",
-    "subcategory": "Museum",
-    "description": "Malaysia's premier museum showcasing the country's history, culture, and heritage. Features traditional Malay architecture with four main galleries covering Early History, Malay Kingdoms, Colonial Era, and Malaysia Today. Extensive collection of artifacts, traditional costumes, and historical exhibits.",
-    "location": "Jalan Damansara, 50566 Kuala Lumpur, Malaysia",
-    "cost_rm": 2,
-    "cost_usd": 0.45,
-    "duration_hours": 2,
-    "best_time": "Weekday afternoons, daily 9:00 AM - 6:00 PM",
-    "tips": "Extremely affordable entry. The building itself is an architectural gem with traditional Minangkabau-style roof. Start from the top floor and work your way down. Air-conditioned and well-maintained. Great introduction to Malaysian history.",
+    "name": "LaZat Malaysian Cooking Class",
+    "category": "Unique Experiences",
+    "subcategory": "Culinary Experience",
+    "description": "Authentic Malaysian cooking class with optional market tour at TTDI Wet Market. Learn to cook 3-course lunch (appetizer, main, dessert) from scratch with different ethnic menus each day. Includes snacks, herbal tea, hands-on cooking instruction, and lunch featuring your own creations. All dietary requirements accommodated. Small groups for personalized attention.",
+    "location": "LaZat Cooking School, near TTDI area, Kuala Lumpur",
+    "cost_rm": {
+      "with_market_tour": 450,
+      "cooking_only": 350
+    },
+    "cost_usd": {
+      "with_market_tour": 100,
+      "cooking_only": 77
+    },
+    "duration_hours": {
+      "with_market_tour": 5.5,
+      "cooking_only": 4.5
+    },
+    "best_time": "Tuesday-Saturday (with market tour), Monday (cooking only, market closed)",
+    "tips": "Book in advance. Different ethnic menus each day. Transportation provided from TTDI market to cooking school. Perfect for food enthusiasts and cultural immersion.",
     "photos": [
-      "/KL-trip/assets/images/activities/national-museum/1.jpg",
-      "/KL-trip/assets/images/activities/national-museum/2.jpg",
-      "/KL-trip/assets/images/activities/national-museum/3.jpg"
+      "/KL-trip/assets/images/activities/lazat-cooking-class/1.jpg",
+      "/KL-trip/assets/images/activities/lazat-cooking-class/2.jpg",
+      "/KL-trip/assets/images/activities/lazat-cooking-class/3.jpg"
     ],
-    "added_date": "2025-10-20",
+    "added_date": "2025-10-19",
     "source": "proactive_research"
   },
   {
     "id": 66,
-    "name": "Bank Negara Malaysia Museum and Art Gallery",
-    "category": "Culture & Heritage",
-    "subcategory": "Museum",
-    "description": "A unique museum combining economics, numismatics (currency history), and contemporary art. Features interactive galleries on Malaysian economy, history of money, children's gallery, and rotating art exhibitions. Modern, engaging displays with multimedia elements housed in the architecturally impressive Sasana Kijang building.",
-    "location": "Sasana Kijang, 2 Jalan Dato' Onn, 50480 Kuala Lumpur, Malaysia",
-    "cost_rm": 0,
-    "cost_usd": 0,
-    "duration_hours": 1.5,
-    "best_time": "Weekday mornings, Tuesday-Sunday 10:00 AM - 5:00 PM (closed Mondays)",
-    "tips": "Completely free admission and free guided tours available. Bags not allowed inside but lockers provided. Very educational and family-friendly. The building architecture is worth seeing. Last admission at 4:30 PM.",
+    "name": "PS150 Speakeasy Bar",
+    "category": "Unique Experiences",
+    "subcategory": "Hidden Bar",
+    "description": "Hidden speakeasy bar disguised as a toy store on Petaling Street in Chinatown. Housed in pre-war shop lot with three distinct seating areas: Opium Den (intimate booths), outdoor courtyard, and Main Bar. Cocktails inspired by Southeast Asian flavors using local ingredients. Menu divided into five eras: Vintage, Classic, Tiki, Disco, and Contemporary. Unassuming entrance rewards curious explorers.",
+    "location": "150 Petaling Street, Kuala Lumpur (next to Merchant's Lane cafe)",
+    "cost_rm": {
+      "cocktail": 47.5
+    },
+    "cost_usd": {
+      "cocktail": 10.5
+    },
+    "duration_hours": 2.5,
+    "best_time": "Evening 6pm-2am daily, weekdays less crowded",
+    "tips": "Reservations recommended for weekends. Dress code on Fri/Sat/eve of public holidays (no flip-flops). Look for toy store entrance. Try cocktails with local ingredients like ginger wine.",
     "photos": [
-      "/KL-trip/assets/images/activities/bank-negara-museum/1.jpg",
-      "/KL-trip/assets/images/activities/bank-negara-museum/2.jpg",
-      "/KL-trip/assets/images/activities/bank-negara-museum/3.jpg"
+      "/KL-trip/assets/images/activities/ps150-speakeasy/1.jpg",
+      "/KL-trip/assets/images/activities/ps150-speakeasy/2.jpg",
+      "/KL-trip/assets/images/activities/ps150-speakeasy/3.jpg"
     ],
-    "added_date": "2025-10-20",
+    "added_date": "2025-10-19",
     "source": "proactive_research"
   },
   {
     "id": 67,
-    "name": "Thean Hou Temple",
-    "category": "Culture & Heritage",
-    "subcategory": "Temple",
-    "description": "One of the largest and oldest Chinese temples in Southeast Asia. Six-tiered pagoda-style temple dedicated to the goddess Tian Hou (Mazu). Features ornate architecture, beautiful red lanterns, prayer halls, and stunning panoramic views of Kuala Lumpur skyline. Represents a harmonious blend of Buddhism, Taoism, and Confucianism.",
-    "location": "65 Persiaran Endah, Taman Persiaran Desa, 50460 Kuala Lumpur, Malaysia",
+    "name": "Kwai Chai Hong Street Art Alley",
+    "category": "Unique Experiences",
+    "subcategory": "Street Art & Heritage",
+    "description": "Charming alley featuring vibrant street art murals depicting 1960s Malaysia and KL Chinatown life. Located in restored pre-war shophouses with century-old lamp post. One of the most Instagram-able spots in KL. Experience 1960s KL Chinatown atmosphere with art, cafes, and resto-bars. Free to explore and perfect for photography.",
+    "location": "Lorong Panggung, Chinatown, Kuala Lumpur (near Petaling Street)",
     "cost_rm": 0,
     "cost_usd": 0,
-    "duration_hours": 1.25,
-    "best_time": "Late afternoon for sunset views, or during Chinese festivals for special decorations. Open daily 8:00 AM - 8:00 PM",
-    "tips": "Not easily accessible by public transport - take Grab (RM5 parking fee). Beautiful photo opportunities especially with red lanterns. Respectful dress recommended. Incense available for purchase. Great city views from temple grounds.",
+    "duration_hours": 0.75,
+    "best_time": "Daytime for best photos, accessible 24/7",
+    "tips": "Combine with Chinatown exploration and Petaling Street shopping. Visit cafes in the area. Best light for photos in morning or late afternoon. Free activity great for budget-conscious travelers.",
     "photos": [
-      "/KL-trip/assets/images/activities/thean-hou-temple/1.jpg",
-      "/KL-trip/assets/images/activities/thean-hou-temple/2.jpg"
+      "/KL-trip/assets/images/activities/kwai-chai-hong/1.jpg",
+      "/KL-trip/assets/images/activities/kwai-chai-hong/2.jpg",
+      "/KL-trip/assets/images/activities/kwai-chai-hong/3.jpg"
     ],
-    "added_date": "2025-10-20",
+    "added_date": "2025-10-19",
     "source": "proactive_research"
   },
   {
     "id": 68,
-    "name": "Sri Mahamariamman Temple",
-    "category": "Culture & Heritage",
-    "subcategory": "Temple",
-    "description": "The oldest functioning Hindu temple in Kuala Lumpur, founded in 1873. Features stunning South Indian Dravidian architecture with an ornate 5-tiered Raja Gopuram (tower) adorned with hundreds of colorful Hindu deities and intricate carvings. Active place of worship with daily rituals and ceremonies.",
-    "location": "Jalan Tun H S Lee (Jalan Bandar), Chinatown, 50000 Kuala Lumpur, Malaysia",
-    "cost_rm": 0,
-    "cost_usd": 0,
-    "duration_hours": 0.75,
-    "best_time": "Morning or late afternoon, avoid peak prayer times. Open daily 6:00 AM - 9:00 PM",
-    "tips": "Remove shoes before entering. Dress modestly (shoulders and knees covered). Photography of exterior allowed, ask permission for interior. Located in Chinatown, easy to combine with other attractions. Witness daily rituals if visiting early morning.",
+    "name": "Kuala Selangor Firefly Tour",
+    "category": "Unique Experiences",
+    "subcategory": "Nature Experience",
+    "description": "Magical evening boat tour to see thousands of fireflies lighting up mangrove trees along Selangor River. Natural phenomenon creating Christmas-like lights in nature. Most packages include roundtrip transfer from KL, seafood dinner, and boat ride. Some include blue tears (bioluminescent plankton). Unforgettable natural spectacle about 1 hour from KL.",
+    "location": "Kampung Kuantan, Kuala Selangor (1 hour from Kuala Lumpur)",
+    "cost_rm": {
+      "basic": 170,
+      "premium": 350
+    },
+    "cost_usd": {
+      "basic": 38,
+      "premium": 77
+    },
+    "duration_hours": 7,
+    "best_time": "Evening tours, depart KL 3-4pm, return 10-11pm",
+    "tips": "Book in advance. Bring insect repellent and camera with low-light capability. Romantic activity. Best on clear nights. Some tours include blue tears viewing.",
     "photos": [
-      "/KL-trip/assets/images/activities/sri-mahamariamman-temple/1.jpg",
-      "/KL-trip/assets/images/activities/sri-mahamariamman-temple/2.jpg",
-      "/KL-trip/assets/images/activities/sri-mahamariamman-temple/3.jpg"
+      "/KL-trip/assets/images/activities/firefly-tour/1.jpg",
+      "/KL-trip/assets/images/activities/firefly-tour/2.jpg",
+      "/KL-trip/assets/images/activities/firefly-tour/3.jpg"
     ],
-    "added_date": "2025-10-20",
+    "added_date": "2025-10-19",
     "source": "proactive_research"
   },
   {
     "id": 69,
-    "name": "Chan See Shu Yuen Temple",
-    "category": "Culture & Heritage",
-    "subcategory": "Heritage Building",
-    "description": "The oldest and most ornate Chinese clan house in Kuala Lumpur, completed in 1906. Stunning example of traditional Cantonese architecture with intricate ceramic sculptures, detailed wood carvings, and elaborate roof decorations featuring mythical creatures and scenes from Chinese folklore. Originally built as a clan association for the Chan family.",
-    "location": "172 Jalan Petaling, Chinatown, 50000 Kuala Lumpur, Malaysia",
-    "cost_rm": 0,
-    "cost_usd": 0,
-    "duration_hours": 0.75,
-    "best_time": "Morning light is best for photography. Open daily 9:00 AM - 5:00 PM",
-    "tips": "Located at the southern end of Petaling Street (Chinatown). One of the best-preserved heritage buildings in KL. Amazing photo opportunities with detailed ceramic roof decorations. Often less crowded than other temples. Combine with Chinatown walking tour.",
+    "name": "Bike With Elena - Hidden Secrets Cycling Tour",
+    "category": "Unique Experiences",
+    "subcategory": "Guided Tour",
+    "description": "Half-day cycling tour exploring hidden gems and lesser-known areas of Kuala Lumpur. Led by local guide Elena, discover neighborhoods, heritage sites, street art, and local life off the beaten path. Small groups (max 6 participants) ensure personalized experience. Live guide in English and Malay. See KL from a local perspective.",
+    "location": "Various meeting points in KL (confirmed upon booking)",
+    "cost_rm": 275,
+    "cost_usd": 61,
+    "duration_hours": 4,
+    "best_time": "Morning tours, book 60 days in advance recommended",
+    "tips": "Wear comfortable clothes and closed-toe shoes. Bring water and sunscreen. Suitable fitness level required. Highly rated for discovering hidden KL. Perfect for active travelers.",
     "photos": [
-      "/KL-trip/assets/images/activities/chan-see-shu-yuen-temple/1.jpg",
-      "/KL-trip/assets/images/activities/chan-see-shu-yuen-temple/2.jpg"
+      "/KL-trip/assets/images/activities/bicycle-tour/1.jpg",
+      "/KL-trip/assets/images/activities/bicycle-tour/2.jpg",
+      "/KL-trip/assets/images/activities/bicycle-tour/3.jpg"
     ],
-    "added_date": "2025-10-20",
+    "added_date": "2025-10-19",
     "source": "proactive_research"
   },
   {
     "id": 70,
-    "name": "Kuala Lumpur City Gallery",
-    "category": "Culture & Heritage",
-    "subcategory": "Gallery",
-    "description": "Interactive gallery showcasing Kuala Lumpur's history, architecture, and urban development. Features the famous 'I Love KL' sculpture outside, detailed miniature model of the city (KLCC model), historical exhibits, and rotating art displays. Great introduction to KL's transformation from tin mining town to modern metropolis.",
-    "location": "27 Jalan Raja, Dataran Merdeka, 50050 Kuala Lumpur, Malaysia",
-    "cost_rm": 10,
-    "cost_usd": 2.2,
+    "name": "Breakout Escape Room",
+    "category": "Unique Experiences",
+    "subcategory": "Entertainment",
+    "description": "Premier escape room experience with 16 themed rooms featuring mind-boggling puzzles and immersive scenarios. Also offers Spy Game with live NPCs for interactive experience. Multiple locations including Avenue K and NU Sentral. Great team-building activity. Solve puzzles, find clues, and escape within 1 hour. Suitable for groups of 3-8 people.",
+    "location": "Multiple locations - Avenue K (Jalan Ampang) and NU Sentral (near KL Sentral)",
+    "cost_rm": {
+      "group_7_8": 35,
+      "group_5_6": 36.5,
+      "group_3_4": 42
+    },
+    "cost_usd": {
+      "group_7_8": 7.8,
+      "group_5_6": 8.1,
+      "group_3_4": 9.3
+    },
     "duration_hours": 1,
-    "best_time": "Morning or late afternoon. Open daily 9:00 AM - 6:30 PM",
-    "tips": "RM5 of the RM10 entry fee is redeemable at the gift shop. Must-see: the giant KLCC miniature model. Perfect starting point for Merdeka Square walking tour. The 'I Love KL' sculpture outside is a popular photo spot. Air-conditioned and well-curated. Gift shop has quality local souvenirs.",
+    "best_time": "Any time, daily 10am-10pm, weekdays less crowded",
+    "tips": "Book in advance. Arrive 15 mins early for briefing. Student discounts available (20% off). Perfect for rainy days. Great for team of 8. Choose from 16 different themed rooms.",
     "photos": [
-      "/KL-trip/assets/images/activities/kl-city-gallery/1.jpg",
-      "/KL-trip/assets/images/activities/kl-city-gallery/2.jpg",
-      "/KL-trip/assets/images/activities/kl-city-gallery/3.jpg"
+      "/KL-trip/assets/images/activities/breakout-escape-room/1.jpg",
+      "/KL-trip/assets/images/activities/breakout-escape-room/2.jpg",
+      "/KL-trip/assets/images/activities/breakout-escape-room/3.jpg"
     ],
-    "added_date": "2025-10-20",
-    "source": "proactive_research"
-  },
-  {
-    "id": 78,
-    "name": "Islamic Arts Museum Malaysia",
-    "category": "Cultural & Religious",
-    "subcategory": "Museum",
-    "description": "One of the largest Islamic art museums in Southeast Asia, featuring over 12 galleries with collections spanning more than a millennium of Islamic art, design and culture from around the world. The museum showcases exquisite artifacts including textiles, ceramics, manuscripts, and architectural elements.",
-    "location": "Jalan Lembah Perdana, 50480 Kuala Lumpur, Malaysia",
-    "cost_rm": 20,
-    "cost_usd": 4.5,
-    "duration_hours": 2.5,
-    "best_time": "Morning hours (9:30 AM - 12:00 PM) for quieter experience",
-    "tips": "No booking needed, world-class collection, photography allowed in most areas. Has a lovely cafe and gift shop. Dress modestly out of respect.",
-    "photos": [
-      "/KL-trip/assets/images/activities/islamic-arts-museum/1.jpg",
-      "/KL-trip/assets/images/activities/islamic-arts-museum/2.jpg",
-      "/KL-trip/assets/images/activities/islamic-arts-museum/3.jpg"
-    ],
-    "added_date": "2025-10-20",
-    "source": "proactive_research"
-  },
-  {
-    "id": 79,
-    "name": "Bank Negara Malaysia Museum and Art Gallery",
-    "category": "Cultural & Religious",
-    "subcategory": "Museum",
-    "description": "An educational museum covering Malaysian economic history, currency, and financial literacy through interactive exhibits. Features galleries on numismatics, economics, and a children's gallery. The art gallery showcases contemporary Malaysian art. Completely free admission makes it an excellent value.",
-    "location": "Bank Negara Malaysia, Jalan Dato Onn, 50480 Kuala Lumpur, Malaysia",
-    "cost_rm": 0,
-    "cost_usd": 0,
-    "duration_hours": 2,
-    "best_time": "Weekday mornings (10:00 AM - 12:00 PM)",
-    "tips": "Free admission and free guided tours available. Closed on Mondays. Very educational and interactive. Great for all ages. Book guided tours via email.",
-    "photos": [
-      "/KL-trip/assets/images/activities/bank-negara-museum/1.jpg",
-      "/KL-trip/assets/images/activities/bank-negara-museum/2.jpg",
-      "/KL-trip/assets/images/activities/bank-negara-museum/3.jpg"
-    ],
-    "added_date": "2025-10-20",
-    "source": "proactive_research"
-  },
-  {
-    "id": 80,
-    "name": "Muzium Negara (National Museum)",
-    "category": "Cultural & Religious",
-    "subcategory": "Museum",
-    "description": "Malaysia's premier national museum showcasing the country's rich history, culture, and heritage through comprehensive galleries covering prehistory, Malay kingdoms, colonial era, and independence. Features traditional architecture, cultural artifacts, and historical exhibits providing an excellent overview of Malaysian history.",
-    "location": "Jalan Damansara, 50566 Kuala Lumpur, Malaysia",
-    "cost_rm": 5,
-    "cost_usd": 1.1,
-    "duration_hours": 2,
-    "best_time": "Morning hours (9:00 AM - 11:00 AM)",
-    "tips": "Extremely affordable entrance fee. Great introduction to Malaysian history and culture. Beautiful traditional Malay architecture. Easily accessible by LRT (Muzium Negara station).",
-    "photos": [
-      "/KL-trip/assets/images/activities/muzium-negara/1.jpg",
-      "/KL-trip/assets/images/activities/muzium-negara/2.jpg"
-    ],
-    "added_date": "2025-10-20",
-    "source": "proactive_research"
-  },
-  {
-    "id": 81,
-    "name": "ILHAM Gallery",
-    "category": "Cultural & Religious",
-    "subcategory": "Art Gallery",
-    "description": "A contemporary art gallery showcasing Malaysian and Southeast Asian modern and contemporary art with thoughtfully curated rotating exhibitions. Located in the heart of KL, this public gallery features works by established and emerging artists, offering a unique perspective on regional art movements and cultural narratives.",
-    "location": "Level 3, Ilham Tower, No. 8 Jalan Binjai, 50450 Kuala Lumpur, Malaysia",
-    "cost_rm": 0,
-    "cost_usd": 0,
-    "duration_hours": 1.5,
-    "best_time": "Weekday afternoons (2:00 PM - 5:00 PM)",
-    "tips": "Free admission. Closed on Mondays. Unique gift shop with locally made products. Exhibitions change regularly so check website for current shows. Photography usually allowed.",
-    "photos": [
-      "/KL-trip/assets/images/activities/ilham-gallery/1.jpg",
-      "/KL-trip/assets/images/activities/ilham-gallery/2.jpg"
-    ],
-    "added_date": "2025-10-20",
-    "source": "proactive_research"
-  },
-  {
-    "id": 82,
-    "name": "UR-MU (Urban Museum) @ Bukit Bintang",
-    "category": "Cultural & Religious",
-    "subcategory": "Contemporary Art Museum",
-    "description": "A quirky, one-of-a-kind contemporary art museum featuring interactive installations and urban art in the heart of Bukit Bintang. This unique cultural space showcases thought-provoking contemporary works in an intimate setting, offering a fresh perspective on urban culture and modern Malaysian art.",
-    "location": "3, Jalan Bedara, Bukit Bintang, 50200 Kuala Lumpur, Malaysia",
-    "cost_rm": 10,
-    "cost_usd": 2.25,
-    "duration_hours": 1.5,
-    "best_time": "Afternoon (2:00 PM - 5:00 PM)",
-    "tips": "Book tickets online in advance. 1.5 hour time limit per slot. Very Instagram-worthy and interactive. Closed on Mondays. Perfect for art lovers and photography enthusiasts.",
-    "photos": [
-      "/KL-trip/assets/images/activities/ur-mu-bukit-bintang/1.jpg",
-      "/KL-trip/assets/images/activities/ur-mu-bukit-bintang/2.jpg"
-    ],
-    "added_date": "2025-10-20",
-    "source": "proactive_research"
-  },
-  {
-    "id": 83,
-    "name": "Kuala Lumpur City Gallery",
-    "category": "Cultural & Religious",
-    "subcategory": "Heritage Center",
-    "description": "A heritage center showcasing Kuala Lumpur's history, development, and future through engaging exhibits, architectural models, and the iconic 'I Love KL' sculpture. Located at historic Merdeka Square, this gallery provides an excellent introduction to the city's transformation from a tin-mining town to a modern metropolis.",
-    "location": "27, Jalan Raja, Dataran Merdeka, 50050 Kuala Lumpur, Malaysia",
-    "cost_rm": 10,
-    "cost_usd": 2.25,
-    "duration_hours": 1.5,
-    "best_time": "Morning (9:00 AM - 11:00 AM) before exploring Merdeka Square",
-    "tips": "RM5 of entrance fee is redeemable at the gift shop or cafe. Famous 'I Love KL' photo opportunity. Great starting point before exploring historic area. Combines well with Merdeka Square visit.",
-    "photos": [
-      "/KL-trip/assets/images/activities/kl-city-gallery/1.jpg",
-      "/KL-trip/assets/images/activities/kl-city-gallery/2.jpg"
-    ],
-    "added_date": "2025-10-20",
-    "source": "proactive_research"
-  },
-  {
-    "id": 84,
-    "name": "National Textile Museum",
-    "category": "Cultural & Religious",
-    "subcategory": "Museum",
-    "description": "A museum dedicated to Malaysian textile heritage, showcasing traditional fabrics, batik, songket, and weaving techniques across four galleries highlighting diverse ethnic textiles and Malay heritage. Housed in a beautiful colonial building, it offers insight into Malaysia's rich textile traditions and craftsmanship.",
-    "location": "Jalan Sultan Hishamuddin, 50050 Kuala Lumpur, Malaysia (near Merdeka Square)",
-    "cost_rm": 5,
-    "cost_usd": 1.1,
-    "duration_hours": 1.5,
-    "best_time": "Morning (9:00 AM - 11:00 AM)",
-    "tips": "Very affordable entrance fee. Beautiful historic building. Near other attractions like Merdeka Square and Sultan Abdul Samad Building. Great for understanding Malaysian textile arts and culture.",
-    "photos": [
-      "/KL-trip/assets/images/activities/national-textile-museum/1.jpg",
-      "/KL-trip/assets/images/activities/national-textile-museum/2.jpg"
-    ],
-    "added_date": "2025-10-20",
+    "added_date": "2025-10-19",
     "source": "proactive_research"
   }
 ]
